@@ -1,10 +1,10 @@
-name: Adrian Sampson
-author: Adrian Sampson
-url: http://adriansampson.net
+name: Thang Huynh
+author: Thang Huynh
+url: http://thanghuynh.org
 base: ''
-twitter: '@samps'
-email: 'asampson@cornell.edu'
-logo: https://brand.cornell.edu/images/web-logo.jpg
+twitter: '@thanghuynhle'
+email: 'huynhlethang@gmail.com'
+logo: http://cseweb.ucsd.edu/~baden/Img/UCSDlogo.png
 ghrepo: https://github.com/sampsyo/home
 
 markdown: kramdown
