@@ -17,4 +17,4 @@ blurb: |
 
 ##### At NYU
 
-  ..- Summer 2014: Calculus 1
+  - Summer 2014: Calculus 1
