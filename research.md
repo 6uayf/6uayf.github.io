@@ -6,7 +6,7 @@ blurb: |
 
 ---
 
-[comment]: {### Workshop Papers
+[comment]:< {### Workshop Papers
 
 <ul>
 {% for paper in site.data.pubs %}
@@ -14,5 +14,5 @@ blurb: |
         {% include paper_human.html %}
     {% endif %}
 {% endfor %}
-</ul>}
+</ul>}>
 
