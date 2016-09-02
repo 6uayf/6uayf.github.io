@@ -49,8 +49,8 @@ navigation:
       link: /teaching.html
     - title: blog
       link: /blog/
-    - title: links
-      link: /links.html
+    <!-- - title: links
+      link: /links.html -->
     - title: contact
       link: /contact.html
 
