@@ -1,6 +1,6 @@
 ---
 title: Teaching
-layout: default
+layout: null
 blurb: |
 
 ---
