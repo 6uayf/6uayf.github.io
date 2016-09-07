@@ -2,7 +2,8 @@
 title: Math 20E
 layout: longy
 blur: |
-    Home      Syllabus
+  Home
+
 ---
 #### Math 20E Vector Calculus - Fall 2016
 ---
