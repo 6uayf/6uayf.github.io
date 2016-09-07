@@ -1,5 +1,5 @@
 ---
-title: Math 170A Introduction to Numerical Analysis: Linear Algebra - Fall 2016
+title: Math 170A
 layout: longy
 blur: |
 
