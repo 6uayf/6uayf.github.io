@@ -4,9 +4,9 @@ layout: longy
 blur: |
 ---
 #### Math 20E Vector Calculus - Fall 2016  
-Home Syllabus
----
+    Home            Syllabus
 
+---  
 ##### Contact Information and Office Hours:
 **Instructor:** Thang Huynh  
 *Email:* tlh007 at ucsd.edu  
@@ -16,5 +16,4 @@ Home Syllabus
 **Teaching Assistant:** 
 
 ---  
-
 ##### Announcements:
