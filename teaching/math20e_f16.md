@@ -14,7 +14,7 @@ blur: |
 ---  
 **Contact Information and Office Hours:**  
 
-**Instructor:** Thang Huynh  
+*Instructor:* Thang Huynh  
 *Email:* tlh007 at ucsd.edu  
 *Office Hours:* TBD in AP&M 6341  
 *Lecture Times:* 
