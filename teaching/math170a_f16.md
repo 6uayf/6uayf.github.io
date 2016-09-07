@@ -12,4 +12,15 @@ blur: |
    [math170aHW]:http://thanghuynh.org/teaching/math170a_f16_hw.html  
    [math170aCal]:http://thanghuynh.org/teaching/math170a_f16_cal.html  
 
----
+---  
+**Contact Information and Office Hours:**  
+
+*Instructor:* Thang Huynh  
+*Email:* tlh007 at ucsd.edu  
+*Office Hours:* TBD in AP&M 6341  
+*Lecture Times:* 
+
+**Teaching Assistant:** 
+
+---  
+**Announcements:**
