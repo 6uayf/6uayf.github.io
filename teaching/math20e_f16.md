@@ -20,7 +20,7 @@ Math 20C (or Math 21C) or Math 31BH with a grade of C- or better.
 Change of variable in multiple integrals, Jacobian, Line integrals, Green's theorem. Vector fields, gradient fields, divergence, curl. Spherical/cylindrical coordinates. Taylor series in several variables. Surface integrals, Stoke's theorem. Conservative fields.
 
 **Required Texts**  
-Vector Calculus, sixth edition, by Jerrold E. Marsden and Anthony J. Tromba; published by W. H. Freeman and Company; 2012
+*Vector Calculus*, sixth edition, by Jerrold E. Marsden and Anthony J. Tromba; published by W. H. Freeman and Company; 2012. 
 The Student Solutions Manual is optional.
 
 **Homework**
