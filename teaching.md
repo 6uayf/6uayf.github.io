@@ -1,6 +1,6 @@
 ---
 title: Teaching
-layout: null
+layout: longy
 blurb: |
 
 ---
