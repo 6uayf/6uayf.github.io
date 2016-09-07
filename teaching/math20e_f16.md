@@ -15,5 +15,5 @@ blur: |
 
 **Teaching Assistant:** 
 
-
+---
 ##### Announcements:
