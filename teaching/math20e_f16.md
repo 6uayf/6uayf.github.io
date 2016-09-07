@@ -11,7 +11,7 @@ blur: |
    [math20eHW]:http://thanghuynh.org/teaching/math20e_f16_hw.html  
    [math20eCal]:http://thanghuynh.org/teaching/math20e_f16_cal.html  
 
----    
+---  
 ##### Contact Information and Office Hours:
 **Instructor:** Thang Huynh  
 *Email:* tlh007 at ucsd.edu  
