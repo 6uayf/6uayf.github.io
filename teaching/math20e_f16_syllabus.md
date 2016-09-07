@@ -4,7 +4,8 @@ layout: longy
 blur: |
 
 ---
-#### Math 20E Vector Calculus - Fall 2016
+#### Math 20E Vector Calculus - Fall 2016  
+#### Syllabus
 ---
 
 **Instructor:** Thang Huynh  
