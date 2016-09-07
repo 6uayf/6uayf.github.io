@@ -2,10 +2,9 @@
 title: Math 20E
 layout: longy
 blur: |
-  Home
-
 ---
-#### Math 20E Vector Calculus - Fall 2016
+#### Math 20E Vector Calculus - Fall 2016  
+Home Syllabus
 ---
 
 ##### Contact Information and Office Hours:
