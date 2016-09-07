@@ -27,5 +27,15 @@ The Student Solutions Manual is optional.
 
 **Policies**
 
+*Grading Scale*
+
+*Statement on Academic Integrity*
+
+*Late Homework or Missed Exams*
+
+**Accommodations for Students with Disabilities:**   
+If you have a disability for which you are or may be requesting accommodations, please contact [Office for Students with Disabilities](https://students.ucsd.edu/well-being/disability-services/).  You must have documentation from the the Office before accommodations can be granted.
+
+
 
 
