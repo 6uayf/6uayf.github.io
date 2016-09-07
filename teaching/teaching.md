@@ -8,7 +8,9 @@ blurb: |
 #### This Quarter
 
   - Fall 2016: Math 170A - Introduction to Numerical Analysis: Linear Algebra
-  - Fall 2016: Math 20E - Vector Calculus 
+  - Fall 2016: [Math 20E - Vector Calculus][math20e]
+  
+   [math20e]:http://thanghuynh.org/teaching/math20e_f16.html 
 
 
 -------
