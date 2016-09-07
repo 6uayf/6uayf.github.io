@@ -5,7 +5,7 @@ base: ''
 twitter: '@thanghuynhle'
 email: 'huynhlethang@gmail.com'
 logo: http://cseweb.ucsd.edu/~baden/Img/UCSDlogo.png
-ghrepo: https://github.com/sampsyo/home
+#ghrepo: https://github.com/sampsyo/home
 
 markdown: kramdown
 kramdown:
@@ -45,8 +45,8 @@ navigation:
       link: /
     - title: research
       link: /research.html
-    #- title: teaching
-    #   link: /teaching/
+    - title: teaching
+       link: /teaching/
     #- title: blog
     #  link: /blog/
     - title: contact
