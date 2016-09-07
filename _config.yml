@@ -46,7 +46,8 @@ navigation:
     - title: research
       link: /research.html
     - title: teaching
-      link: /teaching.html
+       link: /teaching/
+    #  link: /teaching.html
     #- title: blog
     #  link: /blog/
     - title: contact
