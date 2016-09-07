@@ -4,13 +4,15 @@ layout: longy
 blur: |
 
 ---
-### Math 20E Vector Calculus - Fall 2016
+#### Math 20E Vector Calculus - Fall 2016
+---
 
-Instructor: Thang Huynh  
-Information:  
-Office: AP&M 6341  
-Phone: (858)246-2596  
-Email: tlh007 at ucsd.edu  
-Office Hours:  
+**Instructor:** Thang Huynh  
+**Office:** AP&M 6341  
+**Phone:** (858)246-2596  
+**Email:** tlh007 at ucsd.edu  
+**Office Hours:** TBD  
+
+
 
 
