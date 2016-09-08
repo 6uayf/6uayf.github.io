@@ -1,7 +1,7 @@
 ---
-title: Math 20E Vector Calculus - Fall 2016
-mathjax: true
-excerpt: |
+title: Math 20E Vector Calculus - Fall 2016  
+layout: default  
+mathjax: true  
 
 ---
 #### Math 20E Vector Calculus - Fall 2016
