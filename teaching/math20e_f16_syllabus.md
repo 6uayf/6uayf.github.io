@@ -28,7 +28,7 @@ blur: |
 
 **Textbook:** *Vector Calculus, sixth edition*, by Jerrold E. Marsden and Anthony J. Tromba; published by W. H. Freeman and Company; 2012. The Student Solutions Manual is optional.
 
-**Subject Material:** We will cover parts of chapters 2, 3, 4, 5, 6, 7, and 8 of the text. (See the homework page for a complete listing of sections we will cover.)
+**Subject Material:** We will cover parts of chapters 2, 3, 4, 5, 6, 7, and 8 of the text. (See the [homework page][math20eHW] for a complete listing of sections we will cover.)
 
 **Lecture:** Attending the lecture is a fundamental part of the course; you are responsible for all material presented in the lecture whether or not it is discussed in the textbook. You should expect questions on the exams that will test your understanding of concepts discussed in the lecture.
 
