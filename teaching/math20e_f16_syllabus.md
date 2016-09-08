@@ -1,6 +1,7 @@
 ---
 title: Math 20E Vector Calculus - Fall 2016
 mathjax: true
+excerpt: |
 
 ---
 #### Math 20E Vector Calculus - Fall 2016
