@@ -1,7 +1,6 @@
 ---
 title: Math 20E Vector Calculus - Fall 2016
-layout: longy
-blur: |
+mathjax: true
 
 ---
 #### Math 20E Vector Calculus - Fall 2016
@@ -16,7 +15,7 @@ blur: |
 #### Syllabus
 ---
 
-**Course:**  Math 20E
+**Course:**  Math 20E $x^{-1/2}$
 
 **Title:** Vector Calculus
 
@@ -60,6 +59,8 @@ blur: |
 |A+   | A   |A-   |B+	  |B	|B-   |C+   |C	  |C-	|D    |  
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
 |97   |93   |90   |87   |83	|80   |77   |73   |70	|60   |  
+
+$A + B $
 
 I may adjust the scale to be more lenient, but guarantee that the grade corresponding to a given percentage will not be lower than specified by the above scale. Your cumulative average will be the best of the following two weighted averages:  
 
