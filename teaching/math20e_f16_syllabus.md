@@ -28,7 +28,7 @@ blur: |
 
 **Textbook:** *Vector Calculus, sixth edition*, by Jerrold E. Marsden and Anthony J. Tromba; published by W. H. Freeman and Company; 2012. The Student Solutions Manual is optional.
 
-**Subject Material:** We will cover parts of chapters 2, 3, 4, 5, 6, 7, and 8 of the text.  See the homework page for a complete listing of sections we will cover.
+**Subject Material:** We will cover parts of chapters 2, 3, 4, 5, 6, 7, and 8 of the text. (See the homework page for a complete listing of sections we will cover.)
 
 **Lecture:** Attending the lecture is a fundamental part of the course; you are responsible for all material presented in the lecture whether or not it is discussed in the textbook. You should expect questions on the exams that will test your understanding of concepts discussed in the lecture.
 
@@ -36,14 +36,14 @@ blur: |
 
 **Homework:** Homework will be assigned on the course homework page and should be completed by 5 pm on the indicated due date. Your completed homework assignments should be submitted into the homework dropbox (located in the basement of AP&M) labeled 20E and your TA’s name. Your worst homework score will be dropped. Before you submit, make sure to staple your work and have your name, ID number and section number written clearly on top of the front page. Late homework will not be accepted.
 
-**Midterm Exams:** There will be two (2) midterm exams.  (See also the course calendar).  You may bring a ONE SIDED 8.5 by 11 inch handwritten sheet of notes with you to each midterm exam. No calculators will be allowed.   There will be no makeup exams.
+**Midterm Exams:** There will be two (2) midterm exams. (See also the course [calendar][math20eCal]). You may bring a ONE SIDED 8.5 by 11 inch handwritten sheet of notes with you to each midterm exam. No calculators will be allowed.  There will be no makeup exams.
 
-**Final Exam:** The final examination will be held at the following date and time.
-	•	December 8, 3:00 pm - 5:59 pm (See the course calendar.)
-	◦	Please note:
-	▪	It is your responsibility to ensure that you do not have a schedule conflict involving the final examination.
-	▪	You should not enroll in this class if you cannot sit for the final examination at its scheduled time.
-	•	You may bring one 8.5 by 11 inch handwritten sheet of notes with you to the final examination (BOTH SIDES OF THE SHEET MAY BE USED FOR THE FINAL EXAM). No calculators will be allowed.
+**Final Exam:** The final examination will be held at the following date and time.  
+	* TBD (See the course calendar.)
+	  * Please note:
+	    * It is your responsibility to ensure that you do not have a schedule conflict involving the final examination.
+	    * You should not enroll in this class if you cannot sit for the final examination at its scheduled time.
+	* You may bring one 8.5 by 11 inch handwritten sheet of notes with you to the final examination (BOTH SIDES OF THE SHEET MAY BE USED FOR THE FINAL EXAM). No calculators will be allowed.
 
 **Regrades:** Midterm exams will be returned in the discussion sections. If you wish to have your exam regraded, you must observe the following rules:
 	•	Return your exam immediately to your TA. Regrade requests will not be considered once the exam leaves the room.
