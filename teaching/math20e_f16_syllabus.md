@@ -55,7 +55,7 @@ blur: |
 
 **Calculators:** A graphing calculator (e.g., TI-83, TI-84, or TI-89) is recommended for homework assignments and as an aid in learning concepts. *The use of calculators will NOT be permitted during exams.*  
 
-**Grading:** Your course grade will be determined by your cumulative average at the end of the term and will be based on the following scale:
+**Grading:** Your course grade will be determined by your cumulative average at the end of the term and will be based on the following scale:  
 
 |A+   | A   |A-   |B+	  |B	|B-   |C+   |C	  |C-	|D    |  
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
