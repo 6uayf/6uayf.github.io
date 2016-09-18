@@ -5,7 +5,7 @@ blur: |
 ---
 ### Math 20E Vector Calculus - Fall 2016  
 
----  
+---
 
 #### Syllabus
 
@@ -20,14 +20,37 @@ blur: |
 
 **Teaching Assistant:** 
 
+--- 
+
+#### Announcements:
+
+
+---
+
+#### Homework and Exams
+
+---
+
+#### Calendar
+
 ---  
 
-#### Announcements:  
+#### Course Resources
 
 ---  
 
-#### Homework  
+#### Administrative Links
 
----  
+---
 
-#### Calendar  
+#### Student Resources
+
+
+
+
+
+
+
+
+
+
