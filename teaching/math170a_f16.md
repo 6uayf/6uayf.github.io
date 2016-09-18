@@ -29,8 +29,30 @@ blur: |
 
 ---
 
-#### Homework
+#### Homework and Exams
 
-----
+---
 
 #### Calendar
+
+---  
+
+#### Course Resources
+
+---  
+
+#### Administrative Links
+
+---
+
+#### Student Resources
+
+
+
+
+
+
+
+
+
+
