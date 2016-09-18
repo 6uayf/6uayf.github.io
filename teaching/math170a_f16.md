@@ -13,7 +13,7 @@ blur: |
 
 ---  
 
-#### Contact Information and Office Hours:**  
+#### Contact Information and Office Hours:  
 
 *Instructor:* Thang Huynh  
 *Email:* tlh007 at ucsd.edu  
