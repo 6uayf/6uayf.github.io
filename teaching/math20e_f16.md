@@ -27,14 +27,14 @@ blur: |
  border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt">
  <tbody>
  <tr>
-  <td width="400" valign="top" style="width:2.5in;border:solid windowtext .5pt;
+  <td width="50%" valign="top" style="width:2.5in;border:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="text-align:center"> Geoff Ganzberger <br>gganzber(-at-)ucsd.edu<br> Sections:  <br>A03	Th	6:00p-6:50p,	TM102	Room 1  
    <br>A04	Th	7:00p-7:50p,	TM102	Room 1  
    <br> A05	Th	8:00p-8:50p,	TM102	Room 1  
    <br> A06	Th	9:00p-9:50p,	TM102	Room 1	 <br>Office:  <br>Office Hours:<br> TBD </p>
   </td>
-    <td width="400" valign="top" style="width:2.5in;border:solid windowtext .5pt;
+    <td width="50%" valign="top" style="width:2.5in;border:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="text-align:center">Porter Howland<br>phowland(-at-)ucsd.edu<br> Sections:<br>A09 Th	8:00p-8:50p, SEQUO	Room 147  <br>A10	Th	9:00p-9:50p, SEQUO	Room 147  <br>Office: <br>Office Hours: <br>  TBD <br> TBD</p>
   </td>
@@ -42,13 +42,13 @@ blur: |
  </tr>
 
 <tr>
-  <td width="400" valign="top" style="width:2.5in;border:solid windowtext .5pt;
+  <td width="50%" valign="top" style="width:2.5in;border:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="text-align:center">TBD <br> (-at-)ucsd.edu<br> Sections: <br>A01	Th	8:00p-8:50pm	WLH	Room 2209  
    <br> A02	Th	9:00p-9:50p,	WLH	Room 2209    
   <br>Office: <br>Office Hours: <br>  TBD <br> TBD</p>
   </td>
-  <td width="400" valign="top" style="width:2.5in;border:solid windowtext .5pt;
+  <td width="50%" valign="top" style="width:2.5in;border:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="text-align:center">TBD <br> (-at-)ucsd.edu<br> Sections: <br> A07	Th	6:00p-6:50p,	SEQUO	Room 148 <br> A08	Th	7:00p-7:50p,	SEQUO	Room 148  
   <br>Office: <br>Office Hours: <br>  TBD <br> TBD</p>
