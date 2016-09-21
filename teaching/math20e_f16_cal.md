@@ -19,7 +19,7 @@ blur: |
 
 <center>           
 <table bgcolor="#ffffe0" cellpadding="5" cellspacing="0" border="1">  
-<tbody>
+<tbody>  
 
 <tr bgcolor="#ffffc0">
     <th width="10%">Week</th>
@@ -28,17 +28,17 @@ blur: |
     <th width="18%">Wednesday</th>
     <th width="18%">Thursday</th>
     <th width="18%">Friday</th>  
-</tr>
-
-<tr>
+</tr>  
+ 
+<tr>  
     <td align="center">0<br>  
-    </td>
-    <td valign="top" ><b><small>Sept 19</small></b>                <div align="left"><small></small></div>                </td>
-    <td valign="top" ><b><small>Sept 20</small></b> <div align="left"><small></small></div>
-</td>
-    <td valign="top" ><b><small>Sept 21</small></b><div align="left"><small></small></div>
-                	        <div align="center"><b><small></small></b></div>
-                	        </td>
+    </td>  
+    <td valign="top" ><b><small>Sept 19</small></b>                <div align="left"><small></small></div>                </td>  
+    <td valign="top" ><b><small>Sept 20</small></b> <div align="left"><small></small></div>  
+</td>  
+    <td valign="top" ><b><small>Sept 21</small></b><div align="left"><small></small></div>  
+                	        <div align="center"><b><small></small></b></div>  
+                	        </td>  
     
     <td valign="top" ><b><small>Sept 22</small></b>
         <div align="center"><small><br></small></div></td>
