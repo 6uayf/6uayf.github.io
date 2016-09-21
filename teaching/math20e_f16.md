@@ -101,10 +101,7 @@ with regard to final exams.
 #### Student Resources
 
 <li>Sites with resources for assistance and tutoring
-
-<ul>
-<p>
-</p><li><a href="http://oasis.ucsd.edu/">OASIS</a> &nbsp;UCSD's Office of Academic Support and
+<ul><p></p><li><a href="http://oasis.ucsd.edu/">OASIS</a> &nbsp;UCSD's Office of Academic Support and
 Instructional Services (Click <a href="https://students.ucsd.edu/academics/_organizations/oasis/math-science/workshops.html">here</a> for info on how to sign up for a workshop.)</li> 
 <li><a href="http://www.calc101.com/">Calc101.com</a> &nbsp;Automatic Calculus Derivatives and
 Integrals</li>
@@ -112,8 +109,7 @@ Integrals</li>
 </ul></li>
 
 <li>Other mathematics related sites 
-<p>                           
-</p><ul>
+<p></p><ul>
 <li><a href="http://en.wikipedia.org/wiki/Portal:Mathematics">Wikipedia</a></li>
 <li><a href="http://mathworld.wolfram.com/">Eric Weisstein's World of Mathematics</a></li>
 </ul></li>
