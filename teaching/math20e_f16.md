@@ -57,6 +57,10 @@ Teaching Assistants:
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="text-align:center">Diana  Lubyanaya<br>dlubyana(-at-)ucsd.edu<br> Sections: <br> <br>Location  <br>Office: <br>Office Hours: <br>  TBD <br> TBD</p>
   </td>
+  <td width="197" valign="top" style="width:2.5in;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Diana  Lubyanaya<br>dlubyana(-at-)ucsd.edu<br> Sections: <br> <br>Location  <br>Office: <br>Office Hours: <br>  TBD <br> TBD</p>
+  </td>
 
 
  </tr>
