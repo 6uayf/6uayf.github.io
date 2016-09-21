@@ -20,7 +20,7 @@ blur: |
 *Office Hours:* Web & Fri 5:00pm -- 5:50pm in AP&M 6341 (or by appointment)    
 *Lecture Times:* MWF	4:00p-4:50p	CENTR	109  
 
-**Teaching Assistant:** 
+**Teaching Assistant:**   
 B01	M	5:00p-5:50p	APM	7421  
 B02	M	6:00p-6:50p	APM	7421  
 
