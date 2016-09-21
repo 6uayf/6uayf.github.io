@@ -174,11 +174,9 @@ Note: This calendar is subject to revision during the term.
 	<td valign="top" bgcolor="lightblue"><b><small>Nov 24</small></b>
 		            <div align="left"><small>Thanksgiving <br>Holiday</small></div>
 		<div align="left"><small></small></div></td>
-
     <td valign="top" bgcolor="lightblue"><b><small>Nov 25</small></b>
-    <div align="left"><small></small></div>
-
-    	 		            <div align="left"><small>Thanksgiving <br>Holiday</small></div></td></td></tr>
+      <div align="left"><small></small></div>
+      <div align="left"><small>Thanksgiving <br>Holiday</small></div></td></tr>
 
 <tr>
     <td align="center">10<br></td>
