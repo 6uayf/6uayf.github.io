@@ -138,8 +138,7 @@ Note: This calendar is subject to revision during the term.
     <td align="center">7<br></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 7</small></b>
         <div align="left"><small>8.1</small></div></td>
-
-	<td valign="top" bgcolor="#ddff00"><b><small>Nov 8</small></b>
+    <td valign="top" bgcolor="#ddff00"><b><small>Nov 8</small></b>
 	 <div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="lightblue"><b><small>Nov 9</small></b>
          <div align="left"><small>Veteran's Day<br>Holiday</small></div> </td>
@@ -159,7 +158,7 @@ Note: This calendar is subject to revision during the term.
     <td valign="top" ><b><small>Nov 17</small></b>
         <div align="left"><small></small></div></td>
     <td valign="top" bgcolor="#ff6666"><b><small>Nov 18</small></b>
-        <div align="center"><b><small><a href="homework.html#exam1">Exam 2</a></small></b></div></td></td></tr>
+        <div align="center"><b><small><a href="homework.html#exam1">Exam 2</a></small></b></div></td></tr>
 
 <tr>
     <td align="center">9<br></td>
