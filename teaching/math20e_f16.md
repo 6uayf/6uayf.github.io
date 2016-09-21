@@ -79,7 +79,15 @@ blur: |
 
 ---  
 
-#### Course Resources
+#### Course Resources  
+
+[Syllabus][math20eSyl] You are responsible for knowing the information and policies in the syllabus.  
+[Calendar][math20eCal] Important dates for the course in calendar format.  
+[Homework][math20eHW]  
+
+[math20eCal]:http://thanghuynh.org/teaching/math20e_f16_cal.html
+[math20eSyl]:http://thanghuynh.org/teaching/math20e_syllabus.pdf
+
 
 ---  
 
