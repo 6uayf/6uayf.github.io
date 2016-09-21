@@ -27,8 +27,7 @@ blur: |
     <th width="18%">Tuesday</th>
     <th width="18%">Wednesday</th>
     <th width="18%">Thursday</th>
-    <th width="18%">Friday</th>  
-</tr>  
+    <th width="18%">Friday</th></tr>  
  
 <tr>  
     <td align="center">0<br>  
@@ -44,8 +43,7 @@ blur: |
         <div align="center"><small><br></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Sept 23</small></b>
         <div align="left"><small>2.3</small></div>
-         <div align="center"><b><small><a href="homework.html#hmwk0">Hmwk 0 <br></a><strong>(Do NOT submit)</strong></small></b></div></td>    
-</tr>
+         <div align="center"><b><small><a href="homework.html#hmwk0">Hmwk 0 <br></a><strong>(Do NOT submit)</strong></small></b></div></td></tr>
 
 <tr>
     <td align="center">1<br></td>
@@ -57,23 +55,20 @@ blur: |
     <td valign="top" ><b><small>Sept 29</small></b>
         <div align="center"><small><br></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Sept 30</small></b>
-        <div align="left"><small>5.1-5.3</small></div></td>
-</tr>
+        <div align="left"><small>5.1-5.3</small></div></td></tr>
 
 <tr>
     <td align="center">2<br></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 3</small></b>
         <div align="left"><small>5.4</small></div></td>
 	<td valign="top" bgcolor="#ddff00"><b><small>Oct 4</small></b>
-		 <div align="left"><small>Discussion</small></div> 
-</td>
+		 <div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 5</small></b>
         <div align="left"><small>5.5</small></div>	      
     <td valign="top" ><b><small>Oct 6</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 7</small></b>
-        <div align="left"><small>6.1</small></div></td>
-</tr>
+        <div align="left"><small>6.1</small></div></td></tr>
 
 <tr>
     <td align="center">3<br></td>
@@ -86,8 +81,7 @@ blur: |
     <td valign="top" ><b><small>Oct 13</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 14</small></b>
-        <div align="left"><small>7.1</small></div></td>
-</tr>
+        <div align="left"><small>7.1</small></div></td></tr>
 
 <tr>
     <td align="center">4<br></td>
@@ -101,9 +95,7 @@ blur: |
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="#ff6666"><b><small>Oct 21</small></b>
         <div align="center"><small><a href="homework.html#exam1"><strong>Exam 1</strong></a></small></div>
-            <div align="center"><small>Last Day to<br>Drop w/o 'W'</small></div>
-</td>
-</tr>
+            <div align="center"><small>Last Day to<br>Drop w/o 'W'</small></div></td></tr>
 
 <tr>
     <td align="center">5<br></td>
