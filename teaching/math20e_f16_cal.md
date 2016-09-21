@@ -36,7 +36,7 @@ blur: |
     <td valign="top" ><b><small>Sept 20</small></b> <div align="left"><small></small></div>
 </td>
     <td valign="top" ><b><small>Sept 21</small></b><div align="left"><small></small></div>
-                	        <div align="center"><b><small></strong></small></b></div>
+                	        <div align="center"><b><small></small></b></div>
                 	        </td>
     
     <td valign="top" ><b><small>Sept 22</small></b>
