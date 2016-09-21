@@ -9,7 +9,9 @@ blur: |
 
 ---
 
-#### Syllabus
+#### [Syllabus][math170aSyl]
+
+  [math170aSyl]:http://thanghuynh.org/teaching/math170a_syllabus.pdf
 
 ---  
 
@@ -35,7 +37,10 @@ B02	M	6:00p-6:50p	APM	7421
 
 ---
 
-#### Calendar
+#### [Calendar][math170aCal]
+  
+  [math20eCal]:http://thanghuynh.org/teaching/math170a_f16_cal.html  
+
 
 ---  
 
