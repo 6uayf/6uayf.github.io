@@ -39,7 +39,7 @@ B02	M	6:00p-6:50p	APM	7421
 
 #### [Calendar][math170aCal]
   
-  [math20eCal]:http://thanghuynh.org/teaching/math170a_f16_cal.html  
+  [math170aCal]:http://thanghuynh.org/teaching/math170a_f16_cal.html  
 
 
 ---  
