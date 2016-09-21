@@ -18,8 +18,8 @@ blur: |
 
 **Updated September 21, 2016**
 
-Note: This calendar is subject to revision during the term.
- The section references are only a guide; we may deviate from it.
+Note: This calendar is subject to revision during the term.  
+The section references are only a guide; we may deviate from it.  
 
 
 
