@@ -15,11 +15,6 @@ blur: |
 #### Calendar    
 ---  
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 <center>           
 <table bgcolor="#ffffe0" cellpadding="5" cellspacing="0" border="1">
