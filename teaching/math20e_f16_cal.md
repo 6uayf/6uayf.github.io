@@ -16,6 +16,7 @@ blur: |
 ---  
 
 
+
 <center>           
 <table bgcolor="#ffffe0" cellpadding="5" cellspacing="0" border="1">
 <tbody>
@@ -226,8 +227,5 @@ blur: |
 
 
 
-</tbody>           
-</table>
-</center>
 
 
