@@ -194,7 +194,7 @@ The section references are only a guide; we may deviate from it.
     <td valign="top" ><b><small>Dec 5</small></b></td>
     <td valign="top" bgcolor="#ff6666"><b><small>Dec 6</small></b>
 	 <div align="left"><small>FINAL EXAM</small></div>
-	 <div align="left"><small>(3:00 pm -- 5:59 pm)</small></div></td>
+	 <div align="left"><small>(11:30am - 2:29pm)</small></div></td>
     <td valign="top" bgcolor=""><b><small>Dec 7</small></b>
         <div align="left"><small></small></div>	</td>
     <td valign="top" ><b><small>Dec 8</small>
