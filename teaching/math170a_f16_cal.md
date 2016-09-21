@@ -59,7 +59,7 @@ The section references are only a guide; we may deviate from it.
        <div align="left"><small>2.3, 2.5</small></div>
         <div align="left"><small>Discussion</small></div>
         </td>
-    <td valign="top" bgcolor="#ddff00"><b><small>Sept 27</small></b>
+    <td valign="top"><b><small>Sept 27</small></b>
     </td>
     <td valign="top" bgcolor="lightgreen"><b><small>Sept 28</small></b><div align="left"><small>3.2</small></div> 	    </td>
     <td valign="top" ><b><small>Sept 29</small></b>
