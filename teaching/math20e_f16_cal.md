@@ -16,6 +16,13 @@ blur: |
 ---  
 
 
+**Updated September 21, 2016**
+
+Note: This calendar is subject to revision during the term.
+ The section references are only a guide; we may deviate from it.
+
+
+
 
 <center>           
 <table bgcolor="#ffffe0" cellpadding="5" cellspacing="0" border="1">  
@@ -152,7 +159,7 @@ blur: |
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 16</small></b>
         <div align="left"><small>Review</small></div></td>
     <td valign="top" ><b><small>Nov 17</small></b>
-        <div align="left"><small></small></div></b></td>
+        <div align="left"><small></small></div></td>
     <td valign="top" bgcolor="#ff6666"><b><small>Nov 18</small></b>
         <div align="center"><b><small><a href="homework.html#exam1">Exam 2</a></small></b></div></td></td></tr>
 
@@ -184,9 +191,9 @@ blur: |
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 30</small></b>
         <div align="left"><small>Catchup/Review</small></div></td>
     <td valign="top" ><b><small>Dec 1</small></b>
-        <div align="center"><small></`small></div></b></td>
+        <div align="center"><small></small></div.</td>
     <td valign="top" bgcolor="lightgreen"><b><small>Dec 2</small></b>
-        <div align="left"><small>Review</small></div></b></td></tr>
+        <div align="left"><small>Review</small></div></td></tr>
 
 <tr>
     <td align="center">11<br></td>
