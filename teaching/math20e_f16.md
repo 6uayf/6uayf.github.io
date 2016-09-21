@@ -73,7 +73,9 @@ blur: |
 
 ---
 
-#### Calendar
+#### [Calendar][math20eCal]
+
+[math20eCal]:http://thanghuynh.org/teaching/math20e_f16_cal.html
 
 ---  
 
