@@ -44,28 +44,32 @@ Teaching Assistants:
 
 <table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt">
- <tbody><tr>
+ <tbody>
+ <tr>
   <td width="197" valign="top" style="width:2.5in;border:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="text-align:center">TBD 1<br>(-at-)ucsd.edu<br> Sections:  <br><br>Location	 <br>Office: AP&amp;M 6446  <br>Office Hours:<br> TBD </p>
   </td>
     <td width="197" valign="top" style="width:2.5in;border:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center">Diana  Lubyanaya<br>dlubyana(-at-)ucsd.edu<br> Sections: <br> <br>Location  <br>Office: <br>Office Hours: <br>  TBD <br> TBD</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Porter Howland<br>phowland(-at-)ucsd.edu<br> Sections:Th	8:00p-8:50p  <br> <br>Location  <br>Office: <br>Office Hours: <br>  TBD <br> TBD</p>
   </td>
-  <td width="197" valign="top" style="width:2.5in;border:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center">Diana  Lubyanaya<br>dlubyana(-at-)ucsd.edu<br> Sections: <br> <br>Location  <br>Office: <br>Office Hours: <br>  TBD <br> TBD</p>
-  </td>
-  <td width="197" valign="top" style="width:2.5in;border:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center">Diana  Lubyanaya<br>dlubyana(-at-)ucsd.edu<br> Sections: <br> <br>Location  <br>Office: <br>Office Hours: <br>  TBD <br> TBD</p>
-  </td>
-
 
  </tr>
-</tbody></table>
 
+<tr>
+  <td width="197" valign="top" style="width:2.5in;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Diana  Lubyanaya<br>dlubyana(-at-)ucsd.edu<br> Sections: <br> <br>Location  <br>Office: <br>Office Hours: <br>  TBD <br> TBD</p>
+  </td>
+  <td width="197" valign="top" style="width:2.5in;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Diana  Lubyanaya<br>dlubyana(-at-)ucsd.edu<br> Sections: <br> <br>Location  <br>Office: <br>Office Hours: <br>  TBD <br> TBD</p>
+  </td>
+</tr>
+
+</tbody>
+</table>
 
 </center>
 
