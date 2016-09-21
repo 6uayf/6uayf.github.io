@@ -35,7 +35,7 @@ blur: |
     </td>  
     <td valign="top" ><b><small>Sept 19</small></b>                <div align="left"><small></small></div>                </td>  
     <td valign="top" ><b><small>Sept 20</small></b> <div align="left"><small></small></div>  
-</td>  
+    </td>  
     <td valign="top" ><b><small>Sept 21</small></b><div align="left"><small></small></div>  
                 	        <div align="center"><b><small></small></b></div>  
                 	        </td>  
@@ -52,15 +52,12 @@ blur: |
     <td valign="top" bgcolor="lightgreen"><b><small>Sept 26</small></b>                <div align="left"><small>2.3, 2.5</small></div>        
         </td>
     <td valign="top" bgcolor="#ddff00"><b><small>Sept 27</small></b> <div align="left"><small>Discussion</small></div>
-</td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Sept 28</small></b><div align="left"><small>3.2</small></div>                	       
     </td>
+    <td valign="top" bgcolor="lightgreen"><b><small>Sept 28</small></b><div align="left"><small>3.2</small></div> 	    </td>
     <td valign="top" ><b><small>Sept 29</small></b>
         <div align="center"><small><br></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Sept 30</small></b>
-        <div align="left"><small>5.1-5.3</small></div>
-</td>
-        </td>
+        <div align="left"><small>5.1-5.3</small></div></td>
 </tr>
 
 <tr>
