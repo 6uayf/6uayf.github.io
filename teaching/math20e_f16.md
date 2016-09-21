@@ -7,7 +7,7 @@ blur: |
 
 ---
 
-#### [Syllabus][math20eSyl]
+#### [Syllabus][math20eSyl] (pdf file)
 
 [math20eSyl]:http://thanghuynh.org/teaching/math20e_syllabus.pdf
 
@@ -23,7 +23,7 @@ blur: |
 **Teaching Assistants:**   
 
 <center>
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
+<table style="width:100%" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt">
  <tbody>
  <tr>
