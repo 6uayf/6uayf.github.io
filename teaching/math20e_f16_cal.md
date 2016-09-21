@@ -191,7 +191,7 @@ Note: This calendar is subject to revision during the term.
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 30</small></b>
         <div align="left"><small>Catchup/Review</small></div></td>
     <td valign="top" ><b><small>Dec 1</small></b>
-        <div align="center"><small></small></div.</td>
+        <div align="center"><small></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Dec 2</small></b>
         <div align="left"><small>Review</small></div></td></tr>
 
@@ -203,11 +203,11 @@ Note: This calendar is subject to revision during the term.
 	 <div align="left"><small>FINAL EXAM</small></div>
 	 	 <div align="left"><small>(3:00 pm -- 5:59 pm)</small></div></td>
     <td valign="top" bgcolor=""><b><small>Dec 7</small></b>
-        <div align="left"><small></small></div>	    	       </td>
-    <td valign="top" ><b><small>Dec 8</small></b>
+        <div align="left"><small></small></div>	</td>
+    <td valign="top" ><b><small>Dec 8</small>
         <div align="center"><small></small></div></b></td>
     <td valign="top" bgcolor=""><b><small>Dec 9</small></b>
-        <div align="left"><small></small></div></b></td></tr>  
+        <div align="left"><small></small></div></td></tr>  
 
   </tbody>         
   </table>  
