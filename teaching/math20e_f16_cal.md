@@ -34,7 +34,8 @@ Note: This calendar is subject to revision during the term.
     <th width="18%">Tuesday</th>
     <th width="18%">Wednesday</th>
     <th width="18%">Thursday</th>
-    <th width="18%">Friday</th></tr>  
+    <th width="18%">Friday</th>
+</tr>  
  
 <tr>  
     <td align="center">0<br>  
@@ -50,11 +51,13 @@ Note: This calendar is subject to revision during the term.
         <div align="center"><small><br></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Sept 23</small></b>
         <div align="left"><small>2.3</small></div>
-         <div align="center"><b><small><a href="homework.html#hmwk0">Hmwk 0 <br></a><strong>(Do NOT submit)</strong></small></b></div></td></tr>
+         <div align="center"><b><small><a href="homework.html#hmwk0">Hmwk 0 <br></a><strong>(Do NOT submit)</strong></small></b></div></td>
+</tr>
 
 <tr>
     <td align="center">1<br></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Sept 26</small></b>                <div align="left"><small>2.3, 2.5</small></div>        
+    <td valign="top" bgcolor="lightgreen"><b><small>Sept 26</small></b>                
+       <div align="left"><small>2.3, 2.5</small></div>        
         </td>
     <td valign="top" bgcolor="#ddff00"><b><small>Sept 27</small></b> <div align="left"><small>Discussion</small></div>
     </td>
@@ -71,7 +74,7 @@ Note: This calendar is subject to revision during the term.
 	<td valign="top" bgcolor="#ddff00"><b><small>Oct 4</small></b>
 		 <div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 5</small></b>
-        <div align="left"><small>5.5</small></div>	      
+        <div align="left"><small>5.5</small></div></td>	      
     <td valign="top" ><b><small>Oct 6</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 7</small></b>
@@ -84,7 +87,7 @@ Note: This calendar is subject to revision during the term.
 	<td valign="top" bgcolor="#ddff00"><b><small>Oct 11</small></b>
 	 <div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 12</small></b>
-        <div align="left"><small>4.3</small></div>	       </td>
+        <div align="left"><small>4.3</small></div></td>
     <td valign="top" ><b><small>Oct 13</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 14</small></b>
@@ -97,7 +100,7 @@ Note: This calendar is subject to revision during the term.
 	<td valign="top" bgcolor="#ddff00"><b><small>Oct 18</small></b> 
 	 <div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 19</small></b>
-        <div align="left"><small>Review</small></div>	       </td>
+        <div align="left"><small>Review</small></div></td>
     <td valign="top" ><b><small>Oct 20</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="#ff6666"><b><small>Oct 21</small></b>
@@ -111,7 +114,7 @@ Note: This calendar is subject to revision during the term.
 	<td valign="top" bgcolor="#ddff00"><b><small>Oct 25</small></b>
 	 <div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 26</small></b>
-<div align="left"><small>7.3, 7.4</small></div></td>	       </td>
+<div align="left"><small>7.3, 7.4</small></div></td>
 	<td valign="top" ><b><small>Oct 27</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 28</small></b>
@@ -123,9 +126,7 @@ Note: This calendar is subject to revision during the term.
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 31</small></b>
         <div align="left"><small>7.5</small></div></td>
 	<td valign="top" bgcolor="#ddff00"><b><small>Nov 1</small></b> 
-	 <div align="left"><small>Discussion</small></div>
-	       <!--div align="center"><b><small><a href="homework.html#hmwk5">Hmwk 5 Due</a></small></b></div>-->
-	       </td>
+	 <div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 2</small></b>
         <div align="left"><small>7.5, 7.6</small></div></td>
     <td valign="top" ><b><small>Nov 3</small></b>
@@ -141,8 +142,7 @@ Note: This calendar is subject to revision during the term.
 	<td valign="top" bgcolor="#ddff00"><b><small>Nov 8</small></b>
 	 <div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="lightblue"><b><small>Nov 9</small></b>
-
-            <div align="left"><small>Veteran's Day<br>Holiday</small></div> </td>
+         <div align="left"><small>Veteran's Day<br>Holiday</small></div> </td>
     <td valign="top" ><b><small>Nov 10</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 11</small></b>
@@ -153,9 +153,7 @@ Note: This calendar is subject to revision during the term.
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 14</small></b>
         <div align="left"><small>8.2</small></div></td>
     <td valign="top" bgcolor="#ddff00"><b><small>Nov 15</small></b>
-     <div align="left"><small>Discussion</small></div>
-    	        <!--div align="center"><b><small><a href="homework.html#hmwk7">Hmwk 7 Due</a></small></b></div>-->
-    	        </td>
+     <div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 16</small></b>
         <div align="left"><small>Review</small></div></td>
     <td valign="top" ><b><small>Nov 17</small></b>
@@ -170,9 +168,9 @@ Note: This calendar is subject to revision during the term.
     <td valign="top" bgcolor="#ddff00"><b><small>Nov 22</small></b>
      <div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 23</small></b>
-    <div align="left"><small>8.4</small></div>
-	<td valign="top" bgcolor="lightblue"><b><small>Nov 24</small></b>
-		            <div align="left"><small>Thanksgiving <br>Holiday</small></div>
+        <div align="left"><small>8.4</small></div></td>
+    <td valign="top" bgcolor="lightblue"><b><small>Nov 24</small></b>
+		<div align="left"><small>Thanksgiving <br>Holiday</small></div>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="lightblue"><b><small>Nov 25</small></b>
       <div align="left"><small></small></div>
@@ -183,8 +181,7 @@ Note: This calendar is subject to revision during the term.
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 28</small></b>
         <div align="left"><small>8.3 </small></div>
             	 <div align="left"><small>Last Day to <br>drop w/o "F"</small></div></td>
-        
-	<td valign="top" bgcolor="#ddff00"><b><small>Nov 29</small></b>
+    <td valign="top" bgcolor="#ddff00"><b><small>Nov 29</small></b>
 	 <div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 30</small></b>
         <div align="left"><small>Catchup/Review</small></div></td>
@@ -196,10 +193,9 @@ Note: This calendar is subject to revision during the term.
 <tr>
     <td align="center">11<br></td>
     <td valign="top" ><b><small>Dec 5</small></b></td>
-        
-	<td valign="top" bgcolor="#ff6666"><b><small>Dec 6</small></b>
+    <td valign="top" bgcolor="#ff6666"><b><small>Dec 6</small></b>
 	 <div align="left"><small>FINAL EXAM</small></div>
-	 	 <div align="left"><small>(3:00 pm -- 5:59 pm)</small></div></td>
+	 <div align="left"><small>(3:00 pm -- 5:59 pm)</small></div></td>
     <td valign="top" bgcolor=""><b><small>Dec 7</small></b>
         <div align="left"><small></small></div>	</td>
     <td valign="top" ><b><small>Dec 8</small>
@@ -207,9 +203,9 @@ Note: This calendar is subject to revision during the term.
     <td valign="top" bgcolor=""><b><small>Dec 9</small></b>
         <div align="left"><small></small></div></td></tr>  
 
-  </tbody>         
-  </table>  
-  </center>  
+</tbody>         
+</table>  
+</center>  
 
 
 
