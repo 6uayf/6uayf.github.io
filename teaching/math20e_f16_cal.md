@@ -32,31 +32,31 @@ blur: |
 
 <tr>
     <td align="center">0<br></td>
-    <td valign="top" ><b><small>Sept 21</small></b>                <div align="left"><small></small></div>                </td>
-    <td valign="top" ><b><small>Sept 22</small></b> <div align="left"><small></small></div>
+    <td valign="top" ><b><small>Sept 19</small></b>                <div align="left"><small></small></div>                </td>
+    <td valign="top" ><b><small>Sept 20</small></b> <div align="left"><small></small></div>
 </td>
-    <td valign="top" ><b><small>Sept 23</small></b><div align="left"><small></small></div>
+    <td valign="top" ><b><small>Sept 21</small></b><div align="left"><small></small></div>
                 	        <div align="center"><b><small></strong></small></b></div>
                 	        </td>
     
-    <td valign="top" ><b><small>Sept 24</small></b>
+    <td valign="top" ><b><small>Sept 22</small></b>
         <div align="center"><small><br></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Sept 25</small></b>
+    <td valign="top" bgcolor="lightgreen"><b><small>Sept 23</small></b>
         <div align="left"><small>2.3</small></div>
          <div align="center"><b><small><a href="homework.html#hmwk0">Hmwk 0 <br></a><strong>(Do NOT submit)</strong></small></b></div></td>    
 </tr>
 
 <tr>
     <td align="center">1<br></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Sept 28</small></b>                <div align="left"><small>2.3, 2.5</small></div>        
+    <td valign="top" bgcolor="lightgreen"><b><small>Sept 26</small></b>                <div align="left"><small>2.3, 2.5</small></div>        
         </td>
-    <td valign="top" bgcolor="#ddff00"><b><small>Sept 29</small></b> <div align="left"><small>Discussion</small></div>
+    <td valign="top" bgcolor="#ddff00"><b><small>Sept 27</small></b> <div align="left"><small>Discussion</small></div>
 </td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Sept 30</small></b><div align="left"><small>3.2</small></div>                	       
+    <td valign="top" bgcolor="lightgreen"><b><small>Sept 28</small></b><div align="left"><small>3.2</small></div>                	       
     </td>
-    <td valign="top" ><b><small>Oct 1</small></b>
+    <td valign="top" ><b><small>Sept 29</small></b>
         <div align="center"><small><br></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 2</small></b>
+    <td valign="top" bgcolor="lightgreen"><b><small>Sept 30</small></b>
         <div align="left"><small>5.1-5.3</small></div>
 </td>
         </td>
@@ -64,16 +64,16 @@ blur: |
 
 <tr>
     <td align="center">2<br></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 5</small></b>
+    <td valign="top" bgcolor="lightgreen"><b><small>Oct 3</small></b>
         <div align="left"><small>5.4</small></div></td>
-	<td valign="top" bgcolor="#ddff00"><b><small>Oct 6</small></b>
+	<td valign="top" bgcolor="#ddff00"><b><small>Oct 4</small></b>
 		 <div align="left"><small>Discussion</small></div> 
 </td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 7</small></b>
+    <td valign="top" bgcolor="lightgreen"><b><small>Oct 5</small></b>
         <div align="left"><small>5.5</small></div>	      
-    <td valign="top" ><b><small>Oct 8</small></b>
+    <td valign="top" ><b><small>Oct 6</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 9</small></b>
+    <td valign="top" bgcolor="lightgreen"><b><small>Oct 7</small></b>
         <div align="left"><small>6.1</small></div></td>
 </tr>
 
