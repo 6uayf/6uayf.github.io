@@ -9,7 +9,7 @@ blur: |
 
 ---
 
-#### [Syllabus][math170aSyl]
+#### [Syllabus][math170aSyl] (pdf file)
 
   [math170aSyl]:http://thanghuynh.org/teaching/math170a_syllabus.pdf
 
