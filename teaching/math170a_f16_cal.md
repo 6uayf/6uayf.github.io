@@ -155,7 +155,7 @@ The section references are only a guide; we may deviate from it.
 <tr>
     <td align="center">8<br></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 14</small></b>
-        <div align="left"><small>8.2</small></div>
+        <div align="left"><small>2.3, 2.4</small></div>
         <div align="left"><small>Discussion</small></div></td>
     <td valign="top"><b><small>Nov 15</small></b>
      </td>
@@ -169,12 +169,12 @@ The section references are only a guide; we may deviate from it.
 <tr>
     <td align="center">9<br></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 21</small></b>
-        <div align="left"><small>8.4 (4.4)</small></div>
+        <div align="left"><small>2.5</small></div>
         <div align="left"><small>Discussion</small></div></td>
     <td valign="top"><b><small>Nov 22</small></b>
     </td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 23</small></b>
-        <div align="left"><small>8.4</small></div></td>
+        <div align="left"><small>2.6, 2.7</small></div></td>
     <td valign="top" bgcolor="lightblue"><b><small>Nov 24</small></b>
 		<div align="left"><small>Thanksgiving <br>Holiday</small></div>
 		<div align="left"><small></small></div></td>
@@ -185,13 +185,13 @@ The section references are only a guide; we may deviate from it.
 <tr>
     <td align="center">10<br></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 28</small></b>
-        <div align="left"><small>8.3 </small></div>
+        <div align="left"><small>3.1, 3.5</small></div>
         <div align="left"><small>Discussion</small></div>
         <div align="left"><small>Last Day to <br>drop w/o "F"</small></div></td>
     <td valign="top"><b><small>Nov 29</small></b>
       </td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 30</small></b>
-        <div align="left"><small>Catchup/Review</small></div></td>
+        <div align="left"><small>3.2, 3.3</small></div></td>
     <td valign="top" ><b><small>Dec 1</small></b>
         <div align="center"><small></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Dec 2</small></b>
