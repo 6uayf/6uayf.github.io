@@ -97,7 +97,7 @@ The section references are only a guide; we may deviate from it.
 <tr>
     <td align="center">4<br></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 17</small></b>
-        <div align="left"><small>7.2</small></div>
+        <div align="left"><small>4.1</small></div>
         <div align="left"><small>Discussion</small></div></td>
 	<td valign="top"><b><small>Oct 18</small></b> 
 	 </td>
@@ -112,45 +112,45 @@ The section references are only a guide; we may deviate from it.
 <tr>
     <td align="center">5<br></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 24</small></b>
-        <div align="left"><small>7.3</small></div>
+        <div align="left"><small>5.2, 5.3</small></div>
         <div align="left"><small>Discussion</small></div></td>
 	<td valign="top"><b><small>Oct 25</small></b>
 	</td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 26</small></b>
-<div align="left"><small>7.3, 7.4</small></div></td>
+<div align="left"><small>5.3</small></div></td>
 	<td valign="top" ><b><small>Oct 27</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 28</small></b>
         <div align="center"><b><small></small></b></div>
-        <div align="left"><small>7.4</small></div></td></tr>
+        <div align="left"><small>8.3</small></div></td></tr>
 
 <tr>
     <td align="center">6<br></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Oct 31</small></b>
-        <div align="left"><small>7.5</small></div>
+        <div align="left"><small>8.3</small></div>
         <div align="left"><small>Discussion</small></div></td>
 	<td valign="top"><b><small>Nov 1</small></b> 
 	</td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 2</small></b>
-        <div align="left"><small>7.5, 7.6</small></div></td>
+        <div align="left"><small>8.4, 8.7</small></div></td>
     <td valign="top" ><b><small>Nov 3</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 4</small></b>
-        <div align="left"><small>7.6</small></div></td></tr>
+        <div align="left"><small>1.7</small></div></td></tr>
 
 <tr>
     <td align="center">7<br></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Nov 7</small></b>
-        <div align="left"><small>8.1</small></div>
+        <div align="left"><small>1.8</small></div>
         <div align="left"><small>Discussion</small></div></td>
     <td valign="top"><b><small>Nov 8</small></b>
 	 </td>
-    <td valign="top" bgcolor="lightblue"><b><small>Nov 9</small></b>
-         <div align="left"><small>Veteran's Day<br>Holiday</small></div> </td>
+    <td valign="top" bgcolor="lightgreen"><b><small>Nov 9</small></b>
+         <div align="left"><small>1.8, 2.2</small></div> </td>
     <td valign="top" ><b><small>Nov 10</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Nov 11</small></b>
-        <div align="left"><small>8.2 (4.4)</small></div></td></tr>
+    <td valign="top" bgcolor="lightblue"><b><small>Nov 11</small></b>
+        <div align="left"><small>Veteran's Day <br> Holiday</small></div></td></tr>
 
 <tr>
     <td align="center">8<br></td>
