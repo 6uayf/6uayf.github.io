@@ -139,12 +139,12 @@ The section references are only a guide; we may deviate from it.
         <div align="left"><small>8.1</small></div></td>
     <td valign="top"><b><small>Nov 8</small></b>
 	 <div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="lightblue"><b><small>Nov 9</small></b>
-         <div align="left"><small>Veteran's Day<br>Holiday</small></div> </td>
+    <td valign="top" bgcolor="lightgreen"><b><small>Nov 9</small></b>
+         <div align="left"><small>8.2 (4.4)</small></div> </td>
     <td valign="top" bgcolor="#ddff00"><b><small>Nov 10</small></b>
 		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Nov 11</small></b>
-        <div align="left"><small>8.2 (4.4)</small></div></td></tr>
+    <td valign="top" bgcolor="lightblue"><b><small>Nov 11</small></b>
+        <div align="left"><small>Veteran's Day<br>Holiday</small></div></td></tr>
 
 <tr>
     <td align="center">8<br></td>
