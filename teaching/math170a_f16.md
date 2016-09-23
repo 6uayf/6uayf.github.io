@@ -65,6 +65,9 @@ with regard to final exams.
 
 #### Student Resources
 
+*Matlab:*
+
+
 <li>Sites with resources for assistance and tutoring
 <ul><p></p><li><a href="http://oasis.ucsd.edu/">OASIS</a> &nbsp;UCSD's Office of Academic Support and
 Instructional Services (Click <a href="https://students.ucsd.edu/academics/_organizations/oasis/math-science/workshops.html">here</a> for info on how to sign up for a workshop.)</li> 
