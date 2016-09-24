@@ -51,8 +51,8 @@ The section references are only a guide; we may deviate from it.
         <div align="center"><small><br></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Sept 23</small></b>
         <div align="left"><small>2.3</small></div>
-         [Hmwk 0](#hmwk0)
-         <div align="center"><b><strong>(Do NOT submit)</strong></small></b></div></td>
+        <div align="center"><b><small><a href="math20e_f16_hw.html#hmwk0">Hmwk 0 <br></a><strong>(Do NOT submit)</strong></small></b></div>
+    </td>
 </tr>
 
 <tr>
