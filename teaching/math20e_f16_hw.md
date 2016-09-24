@@ -15,11 +15,8 @@ blur: |
 #### Homework  
 ---  
 
-<hr> 
+##### <a name="hmwk0"></a> Homework 0  
 
-<a name="hmwk0"><h3>Homework 0</h3>
-
-<tt>
 Review <strong>(NOT to be turned in)</strong>: &nbsp;These topics were covered in Math 20C. You are expected to be familiar with them.
 <ul>
 <li><b>Section 1.1:</b> &nbsp;(pg 18) &nbsp;1, 4, 7, 11, 17</li>
@@ -36,5 +33,4 @@ Review <strong>(NOT to be turned in)</strong>: &nbsp;These topics were covered i
 </ul>
 </tt>
 
-<hr> 
 
