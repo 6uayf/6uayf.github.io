@@ -89,7 +89,7 @@ blur: |
 
 [math20eCal]:http://thanghuynh.org/teaching/math20e_f16_cal.html
 [math20eSyl]:http://thanghuynh.org/teaching/math20e_syllabus.pdf
-
+[math20eHW]:http://thanghuynh.org/teaching/math20e_f16_hw.html
 
 ---  
 
