@@ -66,7 +66,7 @@ blur: |
 
 #### Announcements:
 
-  * [Homework 0][hw0] is posted. **Do not submit**. 
+  * [Homework 0][hw0] is posted. **Do not submit**. (9/24/16)
 
 ---
 
