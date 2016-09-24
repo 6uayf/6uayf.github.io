@@ -30,5 +30,5 @@ Review **(NOT to be turned in)** These topics were covered in Math 20C. You are 
 *Section 4.1:* (pg 227) 2, 5, 11, 13, 19  
 *Section 4.2:* (pg 234) 3, 6, 7, 9, 13  
 
-
+[Hmwk 0](#hmwk0)
 
