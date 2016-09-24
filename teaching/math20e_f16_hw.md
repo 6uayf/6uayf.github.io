@@ -15,7 +15,7 @@ blur: |
 #### Homework  
 ---  
 
-##### <a name="hmwk0"></a> Homework 0  
+##### <a name="hmwk0"></a>Homework 0  
 
 Review **(NOT to be turned in)** These topics were covered in Math 20C. You are expected to be familiar with them.  
 *Section 1.1:* (pg 18) 1, 4, 7, 11, 17  
