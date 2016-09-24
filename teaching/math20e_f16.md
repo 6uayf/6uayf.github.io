@@ -71,7 +71,7 @@ blur: |
 
 #### Homework and Exams  
 
-[Homework 0](#hmwk0) DO NOT hand this homework in, this is for you to review some material we'll be using.
+  * [Homework 0](#hmwk0) DO NOT hand this homework in, this is for you to review some material we'll be using.
 
 ---
 
