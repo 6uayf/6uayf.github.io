@@ -69,7 +69,9 @@ blur: |
 
 ---
 
-#### Homework and Exams
+#### Homework and Exams  
+
+[Homework 0](#hmwk0)  
 
 ---
 
