@@ -51,7 +51,8 @@ The section references are only a guide; we may deviate from it.
         <div align="center"><small><br></small></div></td>
     <td valign="top" bgcolor="lightgreen"><b><small>Sept 23</small></b>
         <div align="left"><small>2.3</small></div>
-         <div align="center"><b><small><a href="homework.html#hmwk0">Hmwk 0 <br></a><strong>(Do NOT submit)</strong></small></b></div></td>
+         [Hmwk 0](#hmwk0)
+         <div align="center"><b><strong>(Do NOT submit)</strong></small></b></div></td>
 </tr>
 
 <tr>
