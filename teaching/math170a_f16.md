@@ -65,22 +65,29 @@ with regard to final exams.
 
 #### Student Resources
 
-*Matlab:*
+*Matlab:* There are several ways to access Matlab:  
+<li><p><b>Option 1</b>: Use any computer in a <a href="http://acms.ucsd.edu/students/computer-labs/">UCSD campus computer lab</a> with Matlab installed.</p>
+</li>
+<li><p><b>Option 2</b>: Login to a <a href="http://acms.ucsd.edu/students/govirtual/">UCSD virtual lab</a> and use Matlab from your personal computer.</p>
+</li>
+<li><p><b>Option 3</b>: Instead of using Matlab, use <a href="https://www.gnu.org/software/octave/">Octave</a>, a free alternative to Matlab.</p>
+</li>
 
 
-<li>Sites with resources for assistance and tutoring
+
+Sites with resources for assistance and tutoring
 <ul><p></p><li><a href="http://oasis.ucsd.edu/">OASIS</a> &nbsp;UCSD's Office of Academic Support and
 Instructional Services (Click <a href="https://students.ucsd.edu/academics/_organizations/oasis/math-science/workshops.html">here</a> for info on how to sign up for a workshop.)</li> 
 <li><a href="http://www.calc101.com/">Calc101.com</a> &nbsp;Automatic Calculus Derivatives and
 Integrals</li>
 <p></p>
-</ul></li>
+</ul>
 
-<li>Other mathematics related sites 
+Other mathematics related sites 
 <p></p><ul>
 <li><a href="http://en.wikipedia.org/wiki/Portal:Mathematics">Wikipedia</a></li>
 <li><a href="http://mathworld.wolfram.com/">Eric Weisstein's World of Mathematics</a></li>
-</ul></li>
+</ul>
 
 
 
