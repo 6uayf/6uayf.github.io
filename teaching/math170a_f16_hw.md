@@ -14,3 +14,13 @@ blur: |
 
 #### Homework
 ---  
+
+**Write out or print out your MATLAB program assignments.**  
+
+##### <a name="hmwk1"></a>Homework 1
+
+*Section 1.1:* 8, 9, 14, 20  
+*Section 1.2:* 4, 20  
+*Section 1.3:* 4, 17  
+
+---
