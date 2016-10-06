@@ -34,7 +34,7 @@ blur: |
   <p class="MsoNormal" align="center" style="text-align:center"> Geoff Ganzberger <br>gganzber(-at-)ucsd.edu<br> Sections:  <br>A03	Th	6:00p-6:50p,	TM102	Room 1  
    <br>A04	Th	7:00p-7:50p,	TM102	Room 1  
    <br> A05	Th	8:00p-8:50p,	TM102	Room 1  
-   <br> A06	Th	9:00p-9:50p,	TM102	Room 1	 <br>Office:  <br>Office Hours:<br> TBD </p>
+   <br> A06	Th	9:00p-9:50p,	TM102	Room 1	 <br>Office: Muir Woods coffee shop <br>Office Hours:Tuesdays, 5-7pm<br>Wednesdays 4-6pm </p>
   </td>
     <td width="400" valign="top" style="width:2.5in;border:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt">
@@ -48,7 +48,7 @@ blur: |
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="text-align:center">Porter Howland<br>phowland(-at-)ucsd.edu<br>A01	Th	8:00p-8:50pm	WLH	Room 2209  
    <br> A02	Th	9:00p-9:50p,	WLH	Room 2209    
-  <br>Office: <br>Office Hours: <br>  TBD <br> TBD</p>
+  <br>Office: AP&M 6446 <br>Office Hours: Wednesdays, 3-5 pm</p>
   </td>
   <td width="50%" valign="top" style="width:2.5in;border:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt">
