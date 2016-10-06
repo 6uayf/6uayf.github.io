@@ -38,7 +38,7 @@ blur: |
   </td>
     <td width="400" valign="top" style="width:2.5in;border:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"> Satish Matti <br> skmatti(-at-)eng.ucsd.edu <br> Sections:<br>A09 Th	8:00p-8:50p, SEQUO	Room 147  <br>A10	Th	9:00p-9:50p, SEQUO	Room 147  <br>Office: AP&M 2313<br>Office Hours: Mon, 2pm-6pm</p>
+  <p class="MsoNormal" align="center" style="text-align:center"> Satish Matti <br> skmatti(-at-)eng.ucsd.edu <br> Sections:<br>A09 Th	8:00p-8:50p, SEQUO	Room 147  <br>A10	Th	9:00p-9:50p, SEQUO	Room 147  <br>Office: AP&M 2313<br>Office Hours: Mondays, 2pm-6pm</p>
   </td>
 
  </tr>
@@ -53,7 +53,7 @@ blur: |
   <td width="50%" valign="top" style="width:2.5in;border:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="text-align:center">Satish Matti <br> skmatti(-at-)eng.ucsd.edu <br> Sections: <br> A07	Th	6:00p-6:50p,	SEQUO	Room 148 <br> A08	Th	7:00p-7:50p,	SEQUO	Room 148  
-  <br>Office: AP&M 2313 <br>Office Hours: 2pm-6pm</p>
+  <br>Office: AP&M 2313 <br>Office Hours: Mondays, 2pm-6pm</p>
   </td>
 </tr>
 
