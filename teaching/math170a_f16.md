@@ -65,6 +65,7 @@ B02	M	6:00p-6:50p	APM	7421
 
 [math170aCal]:http://thanghuynh.org/teaching/math170a_f16_cal.html
 [math170aSyl]:http://thanghuynh.org/teaching/math170a_syllabus.pdf
+[math170aHW]:http://thanghuynh.org/teaching/math170a_f16_hw.html
 
 
 ---  
