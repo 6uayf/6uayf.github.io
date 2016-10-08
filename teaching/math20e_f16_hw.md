@@ -40,3 +40,23 @@ Review **(NOT to be turned in)** These topics were covered in Math 20C. You are 
 *Section 5.1:*  (pg 269)  3ac, 7, 11, 14  
 
 ---  
+
+##### <a name="hmwk2"></a>Homework 2  
+
+(See due date on main course page -- under "Homework and Exams")  
+*Section 5.2:*  (pg 282)  1d, 2c, 7, 8, 9, 17  
+*Section 5.3:*  (pg 288)  4ad, 7, 8, 11, 15  
+*Section 5.4:*  (pg 293)  3ac, 4ac, 7, 10, 14, 15  
+*Section 5.5:*  (pg 302)  5, 13, 17, 30  
+
+---
+
+
+
+
+
+
+
+
+
+
