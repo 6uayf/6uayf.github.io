@@ -76,6 +76,7 @@ blur: |
 
 #### Homework and Exams  
 
+  * [Homework 2][hw2] Due on Friday, Oct 14.
   * [Homework 1][hw1] Due on Friday, Oct 7.
   * [Homework 0][hw0] DO NOT hand this homework in, this is for you to review some material we'll be using.  
 
