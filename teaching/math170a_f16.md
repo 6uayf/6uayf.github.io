@@ -43,6 +43,7 @@ B02	M	6:00p-6:50p	APM	7421
   * [Homework 2][hw2] Due on Tuesday, Oct 18.
   * [Homework 1][hw1] Due on Tuesday, Oct 4.
 
+[hw2]:http://thanghuynh.org/teaching/math170a_f16_hw.html#hmwk2
 [hw1]:http://thanghuynh.org/teaching/math170a_f16_hw.html#hmwk1  
 
 
