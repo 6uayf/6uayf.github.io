@@ -23,4 +23,15 @@ blur: |
 *Section 1.2:* 4, 20  
 *Section 1.3:* 4, 17  
 
----
+---  
+
+##### <a name="hmwk2"></a>Homework 2  
+
+*Section 1.4:* 15, 21, 23, 62, 72  
+*Section 1.5:* 4, 9, 12  
+*Section 8.1:* 14  
+*Section 8.2:* 7  
+
+---  
+
+
