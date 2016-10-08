@@ -68,7 +68,7 @@ blur: |
 
 #### Announcements:
 
-  * [Homework 2][hw2] is posted. (10/7/16)
+  * [Homework 2][hw2] is posted. (10/7/16)  
   * [Homework 1][hw1] is posted. (9/28/16)
   * [Homework 0][hw0] is posted. **Do not submit**. (9/24/16)
 
@@ -76,10 +76,11 @@ blur: |
 
 #### Homework and Exams  
 
-  * [Homework 2][hw2] Due on Friday, Oct 14.
+  * [Homework 2][hw2] Due on Friday, Oct 14.  
   * [Homework 1][hw1] Due on Friday, Oct 7.
   * [Homework 0][hw0] DO NOT hand this homework in, this is for you to review some material we'll be using.  
 
+[hw2]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk2 
 [hw1]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk1  
 [hw0]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk0  
 
