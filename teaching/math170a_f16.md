@@ -32,9 +32,11 @@ B02	M	6:00p-6:50p	APM	7421
 
 #### Announcements:  
 
+  * [Lecture Note 1][ln1] is posted. (10/13/16)
   * [Homework 2][hw2] is posted. (10/7/16)
   * [Homework 1][hw1] is posted. (9/28/16)
 
+[ln1]:http://thanghuynh.org/teaching/math170a_Lecture_Note1.pdf
 
 ---
 
