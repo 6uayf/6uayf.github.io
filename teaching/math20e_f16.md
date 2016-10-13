@@ -68,9 +68,12 @@ blur: |
 
 #### Announcements:
 
+  * [Lecture Note 1][ln1] is posted. (10/13/16)  
   * [Homework 2][hw2] is posted. (10/7/16)  
   * [Homework 1][hw1] is posted. (9/28/16)
   * [Homework 0][hw0] is posted. **Do not submit**. (9/24/16)
+
+[ln1]:http://thanghuynh.org/teaching/math20e_Lecture_Note_1.pdf
 
 ---
 
