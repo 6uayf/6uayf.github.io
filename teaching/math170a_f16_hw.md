@@ -30,7 +30,7 @@ blur: |
 *Section 1.4:* 15, 21, 23, 62, 72  
 *Section 1.5:* 4, 9, 12  
 *Section 8.1:* 14  
-*Section 8.2:* 7 (Matlab code: [jacobi][jacob], or [jacobi vector form][jacobvec])
+*Section 8.2:* 7 (Matlab code: [jacobi][jacob] or [jacobi vector form][jacobvec])
 
 [jacob]:http://thanghuynh.org/teaching/jacobi.m
 [jacobvec]:http://thanghuynh.org/teaching/jacob_diag.m
