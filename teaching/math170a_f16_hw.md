@@ -37,4 +37,12 @@ blur: |
 
 ---  
 
+##### <a name="hmwk3"></a>Homework 3
+
+*Section 2.1:* 13, 14, 17, 28  
+*Section 4.1:* 16 (but do not turn in)  
+*Section 5.2:* 2, 13, 14ab  
+*Section 5.3:* 6, 10, 15  
+
+
 
