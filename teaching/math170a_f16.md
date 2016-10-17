@@ -32,6 +32,7 @@ B02	M	6:00p-6:50p	APM	7421
 
 #### Announcements:  
 
+  * [Homework 3][hw3] is posted. (10/16/16)
   * [Lecture Note 1][ln1] is posted. (10/13/16)
   * [Homework 2][hw2] is posted. (10/7/16)
   * [Homework 1][hw1] is posted. (9/28/16)
@@ -42,9 +43,11 @@ B02	M	6:00p-6:50p	APM	7421
 
 #### Homework and Exams
   
+  * [Homework 3][hw3] Due on Tuesday, Nov 1.
   * [Homework 2][hw2] Due on Tuesday, Oct 18.
   * [Homework 1][hw1] Due on Tuesday, Oct 4.
 
+[hw3]:http://thanghuynh.org/teaching/math170a_f16_hw.html#hmwk3
 [hw2]:http://thanghuynh.org/teaching/math170a_f16_hw.html#hmwk2
 [hw1]:http://thanghuynh.org/teaching/math170a_f16_hw.html#hmwk1  
 
