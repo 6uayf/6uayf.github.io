@@ -43,11 +43,13 @@ B02	M	6:00p-6:50p	APM	7421
 
 #### Homework and Exams
   
+  * [Practice Exam 1][pex1] 
   * **Exam 1.** In class, Friday, Oct 21. Covers 1.1 to 1.5, 8.1, 8.2, and 2.1.
   * [Homework 3][hw3] Due on Tuesday, Nov 1.
   * [Homework 2][hw2] Due on Tuesday, Oct 18.
   * [Homework 1][hw1] Due on Tuesday, Oct 4.
 
+[pex1]:http://thanghuynh.org/teaching/math170a_practice_midterm1.pdf
 [hw3]:http://thanghuynh.org/teaching/math170a_f16_hw.html#hmwk3
 [hw2]:http://thanghuynh.org/teaching/math170a_f16_hw.html#hmwk2
 [hw1]:http://thanghuynh.org/teaching/math170a_f16_hw.html#hmwk1  
