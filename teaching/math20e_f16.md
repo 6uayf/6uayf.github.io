@@ -81,6 +81,7 @@ blur: |
 
 #### Homework and Exams  
 
+  * Midterm 1 Solution: [Version A][20EverA], [Version B][20EverB], and [Version C][20EverC]
   * [Homework 4][hw4] Due on Friday, Oct 28.
   * **Exam 1.** In class, Friday, October 21. (covers Sections 2.3, 2.5, 3.2, 5.1 - 5.5, 6.1, 6.2, 4.3, and 7.1)
   * [Homework 3][hw3] Due on Friday, Oct 21.
@@ -88,6 +89,9 @@ blur: |
   * [Homework 1][hw1] Due on Friday, Oct 7.
   * [Homework 0][hw0] DO NOT hand this homework in, this is for you to review some material we'll be using.  
 
+[20EverA]:http://thanghuynh.org/teaching/midterm_20_1A.pdf
+[20EverB]:http://thanghuynh.org/teaching/midterm_20_1B.pdf
+[20EverC]:http://thanghuynh.org/teaching/midterm_20e_version_1C.pdf
 [hw4]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk4
 [hw3]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk3
 [hw2]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk2 
