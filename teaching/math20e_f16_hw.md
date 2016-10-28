@@ -66,6 +66,14 @@ Review **(NOT to be turned in)** These topics were covered in Math 20C. You are 
 *Section 7.1:*  (pg 356)  1, 4, 6, 7, 11, 12, 19, 27  
 *Section 7.2:*  (pg 373)  3bc, 4, 11, 13, 17  
 
+---  
+
+##### <a name="hmwk5"></a>Homework 5
+
+(See due date on main course page -- under "Homework and Exams")  
+*Section 7.3:*  (pg 381)  1, 2, 4, 5, 9, 13, 19  
+*Section 7.4:*  (pg 391)  1, 5, 9, 17, 21, 23, 24  
+
 
 
 
