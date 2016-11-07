@@ -68,6 +68,7 @@ blur: |
 
 #### Announcements:
 
+  * [Homework 6][hw6] is posted. (11/6/16)
   * [Homework 5][hw5] is posted. (10/28/16)
   * [Homework 4][hw4] is posted. (10/22/16)
   * [Homework 3][hw3] is posted. (10/13/16)
@@ -82,6 +83,7 @@ blur: |
 
 #### Homework and Exams  
 
+  * [Homework 6][hw6] Due on Friday, Nov 18.
   * [Homework 5][hw5] Due on Friday, Nov 4.
   * Midterm 1 Solution: [Version A][20EverA], [Version B][20EverB], and [Version C][20EverC]
   * [Homework 4][hw4] Due on Friday, Oct 28.
@@ -94,6 +96,7 @@ blur: |
 [20EverA]:http://thanghuynh.org/teaching/midterm_20_1A.pdf
 [20EverB]:http://thanghuynh.org/teaching/midterm_20_1B.pdf
 [20EverC]:http://thanghuynh.org/teaching/midterm_20e_version_1C.pdf
+[hw6]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk6
 [hw5]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk5
 [hw4]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk4
 [hw3]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk3
