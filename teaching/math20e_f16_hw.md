@@ -5,6 +5,9 @@ mathjax: true
 blur: |
 
 ---  
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
 #### Math 20E Vector Calculus - Fall 2016  
   Links: [Home][math20eHome]  [Homework][math20eHW]    [Calendar][math20eCal]
     
