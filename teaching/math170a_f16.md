@@ -32,6 +32,8 @@ B02	M	6:00p-6:50p	APM	7421
 
 #### Announcements:  
 
+  * [Lecture Note 2][ln2] is posted. (11/7/16)
+  * [Homework 4][hw4] is posted. (11/7/16)
   * [Singular Value Decomposition][svd] (Youtube video).
   * [Homework 3][hw3] is posted. (10/16/16)
   * [Lecture Note 1][ln1] is posted. (10/13/16)
@@ -39,12 +41,14 @@ B02	M	6:00p-6:50p	APM	7421
   * [Homework 1][hw1] is posted. (9/28/16)
 
 [svd]:https://www.youtube.com/watch?v=YKmkAoIUxkU
+[ln1]:http://thanghuynh.org/teaching/math170a_Lecture_Note_2.pdf
 [ln1]:http://thanghuynh.org/teaching/math170a_Lecture_Note1.pdf
 
 ---
 
 #### Homework and Exams
   
+  * [Homework 4][hw4] Due on Tuesday, Nov 22.
   * Midterm Solutions: [Version A][mid1A] and [Version B][mid1B]
   * [Practice Exam 1][pex1] 
   * **Exam 1.** In class, Friday, Oct 21. Covers 1.1 to 1.5, 8.1, 8.2, and 2.1.
@@ -55,6 +59,7 @@ B02	M	6:00p-6:50p	APM	7421
 [mid1A]:http://thanghuynh.org/teaching/midterm%20170_1A.pdf
 [mid1b]:http://thanghuynh.org/teaching/midterm%20170_1B.pdf
 [pex1]:http://thanghuynh.org/teaching/math170a_practice_midterm1.pdf
+[hw4]:http://thanghuynh.org/teaching/math170a_Homework_4.pdf
 [hw3]:http://thanghuynh.org/teaching/math170a_f16_hw.html#hmwk3
 [hw2]:http://thanghuynh.org/teaching/math170a_f16_hw.html#hmwk2
 [hw1]:http://thanghuynh.org/teaching/math170a_f16_hw.html#hmwk1  
