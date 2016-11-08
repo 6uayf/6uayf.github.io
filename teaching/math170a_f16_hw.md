@@ -45,5 +45,14 @@ blur: |
 *Section 5.3:* 6, 10  
 *Section 5.3:* 15 (do not turn in this problem)  
 
+---
+
+##### <a name="hmwk4"></a>Homework 4
+
+[Click here][hw4]
+
+[hw4]:http://thanghuynh.org/teaching/math170a_Homework_4.pdf
+
+
 
 
