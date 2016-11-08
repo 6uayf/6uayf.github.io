@@ -41,7 +41,7 @@ B02	M	6:00p-6:50p	APM	7421
   * [Homework 1][hw1] is posted. (9/28/16)
 
 [svd]:https://www.youtube.com/watch?v=YKmkAoIUxkU
-[ln1]:http://thanghuynh.org/teaching/math170a_Lecture_Note_2.pdf
+[ln2]:http://thanghuynh.org/teaching/math170a_Lecture_Note_2.pdf
 [ln1]:http://thanghuynh.org/teaching/math170a_Lecture_Note1.pdf
 
 ---
