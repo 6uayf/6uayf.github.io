@@ -4,6 +4,38 @@ mathjax: true
 excerpt: |
     Say you have a program that's right only some of the time. How can you tell whether it's correct enough? Using with some Wikipedia-level statistics, it's pretty easy to make probabilistic statements about quality. I'll explain two strategies for measuring statistical correctness. Then I'll argue that it's deceptively difficult produce guarantees that are any stronger than the ones you get from the basic techniques.
 ---
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<h1 id="gaussian-width-and-related-concepts">Gaussian Width and Related Concepts</h1>
+<p><strong>Definition.</strong> (Gaussian width) Let <span class="math inline"><em>T</em></span> be a set of <span class="math inline">ℝ<sup><em>n</em></sup></span>. The Gaussian width of <span class="math inline"><em>T</em></span> is defined by <br /><span class="math display"><em>ω</em>(<em>T</em>)=𝔼sup<sub><em>t</em> ∈ <em>T</em></sub>⟨<em>g</em>, <em>t</em>⟩,</span><br /> where <span class="math inline"><em>g</em> ∼ 𝒩(0, <em>I</em><sub><em>n</em></sub>).</span></p>
+<p><strong>Examples.</strong></p>
+<ol style="list-style-type: decimal">
+<li><p>Unit sphere: <span class="math inline"><em>T</em> = <em>S</em><sup><em>n</em> − 1</sup>.</span> Then <br /><span class="math display">$$\omega(S^{n-1}) = {\mathbb{E}}\sup_{t\in S^{n-1}}{\langle}g, t{\rangle}= {\mathbb{E}}\|g\|{_2} \approx \sqrt{n}. (\mbox(Why?))$$</span><br /></p></li>
+<li><p>Unit cube: <span class="math inline"><em>T</em> = [ − 1, 1]<sup><em>n</em></sup> = <em>B</em><sub>∞</sub><sup><em>n</em></sup>.</span> Then <br /><span class="math display">$$\omega(B_\infty^n) = {\mathbb{E}}\sup_{B_\infty^n}{\langle}g, t{\rangle}= {\mathbb{E}}\|g\|{_1} = \sqrt{\frac{2}{\pi}}n.$$</span><br /></p></li>
+</ol>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
 How do you know whether a program is good enough if it's allowed to be wrong some of the time?
 
 Say, for example, that you want to use [Quake III's famous inverse square root approximation][fisr].
