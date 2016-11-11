@@ -85,6 +85,7 @@ blur: |
 
 #### Homework and Exams  
 
+  * Collection of Practice Exam 2: [Click here][practice2]. Old exams from previous years: Click [here][oldex2a] and [here][oldex2b]
   * **Exam 2.** In class, Friday, Nov 18. (covers Sections 2.3, 2.5, <s>3.2</s>, 4.3, 5.1 - 5.5, 6.1, 6.2, 7.1 - 7.6, and 8.1, with an emphasis on 7.1 - 7.6 and 8.1)
   * [Homework 6][hw6] Due on Friday, Nov 18.
   * [Homework 5][hw5] Due on Friday, Nov 4.
@@ -96,6 +97,9 @@ blur: |
   * [Homework 1][hw1] Due on Friday, Oct 7.
   * [Homework 0][hw0] DO NOT hand this homework in, this is for you to review some material we'll be using.  
 
+[oldex2a]:http://thanghuynh.org/teaching/20E_Practice_Exam2.pdf
+[oldex2b]:http://thanghuynh.org/teaching/20E_Exam2_vA.pdf
+[practice2]:http://thanghuynh.org/teaching/20E_Practice_Exam2b.pdf
 [20EverA]:http://thanghuynh.org/teaching/midterm_20_1A.pdf
 [20EverB]:http://thanghuynh.org/teaching/midterm_20_1B.pdf
 [20EverC]:http://thanghuynh.org/teaching/midterm_20e_version_1C.pdf
