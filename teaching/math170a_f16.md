@@ -48,7 +48,7 @@ B02	M	6:00p-6:50p	APM	7421
 
 #### Homework and Exams
   
-  * **Exam 2.** In class, Friday, Nov 18. Covers 1.1 to 1.5, 8.1, 8.2, with *an emphasis* on 2.1, <s>4.1</s>, 5.2, 5.3, 8.3, 8.4, and 1.7.
+  * **Exam 2.** In class, Friday, Nov 18. Covers 2.1, 4.1 (The only thing you need to know for the test is why the 2-norm of a matrix is the first singular value. (See Theorem 4.2.1 in the book.), 5.2, 5.3, 8.3, 8.4, and 1.7.
   * [Homework 4][hw4] Due on Tuesday, Nov 22.
   * Midterm Solutions: [Version A][mid1A] and [Version B][mid1B]
   * [Practice Exam 1][pex1] 
