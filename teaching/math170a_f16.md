@@ -48,6 +48,7 @@ B02	M	6:00p-6:50p	APM	7421
 
 #### Homework and Exams
   
+  * [Old Exam 2][pex2] from previous year.
   * **Exam 2.** In class, Friday, Nov 18. Covers 2.1, <s>4.1</s>, 5.2, 5.3, 8.3, 8.4, and 1.7.
   * [Homework 4][hw4] Due on Tuesday, Nov 22.
   * Midterm Solutions: [Version A][mid1A] and [Version B][mid1B]
@@ -57,6 +58,7 @@ B02	M	6:00p-6:50p	APM	7421
   * [Homework 2][hw2] Due on Tuesday, Oct 18.
   * [Homework 1][hw1] Due on Tuesday, Oct 4.
 
+[pex2]:http://thanghuynh.org/teaching/math170a_practice_exam2.pdf
 [mid1A]:http://thanghuynh.org/teaching/midterm%20170_1A.pdf
 [mid1b]:http://thanghuynh.org/teaching/midterm%20170_1B.pdf
 [pex1]:http://thanghuynh.org/teaching/math170a_practice_midterm1.pdf
