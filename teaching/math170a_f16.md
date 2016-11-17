@@ -32,6 +32,7 @@ B02	M	6:00p-6:50p	APM	7421
 
 #### Announcements:  
 
+  * [Lecture Note 3][ln3] is posted. (11/16/16)
   * [Lecture Note 2][ln2] is posted. (11/7/16)
   * [Homework 4][hw4] is posted. (11/7/16)
   * [Singular Value Decomposition][svd] (Youtube video).
@@ -41,6 +42,7 @@ B02	M	6:00p-6:50p	APM	7421
   * [Homework 1][hw1] is posted. (9/28/16)
 
 [svd]:https://www.youtube.com/watch?v=YKmkAoIUxkU
+[ln3]:http://thanghuynh.org/teaching/math170a_Lecture_Note_3.pdf
 [ln2]:http://thanghuynh.org/teaching/math170a_Lecture_Note_2.pdf
 [ln1]:http://thanghuynh.org/teaching/math170a_Lecture_Note1.pdf
 
