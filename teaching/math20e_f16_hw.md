@@ -87,7 +87,20 @@ Review **(NOT to be turned in)** These topics were covered in Math 20C. You are 
 *Section 7.6:*  (pg 411)  1, 2, 3, 5, 9 (use \\[\Delta\times \overrightarrow{F} = 2x^2yz\overrightarrow{i} - 3x^2y^2z \overrightarrow{j} - 2 \overrightarrow{k}\\]), 11, 15, 19  
 *Section 8.1:*  (pg 437)  6, 7, 9, 13, 15, 19, 20, 23  
 
-[comment]: <> Exam 2 covers Sections 2.3, 2.5, 3.2, 4.3, 5.1 - 5.5, 6.1, 6.2, 7.1 - 7.6, and 8.1, with an emphasis on 7.3 - 7.6 and 8.1
+[comment]: <> Exam 2 covers Sections 2.3, 2.5, 3.2, 4.3, 5.1 - 5.5, 6.1, 6.2, 7.1 - 7.6, and 8.1, with an emphasis on 7.3 - 7.6 and 8.1  
+
+---
+
+##### <a name="hmwk6"></a>Homework 7  
+
+(See due date on main course page -- under "Homework and Exams")  
+
+*Section 4.4:*  (pg 258)  3, 9, 15, 19, 34, 36, 38, 39  
+*Section 8.2:*  (pg 450)  8, 11, 13, 15, 19 (compare exercise 7.6.9), 31, 33  
+*Section 8.4:*  (pg 474)  5, 7, 11, 14, 15, 19, 29  
+*Section 8.3:*  (pg 459)  2, 3, 6, 7, 10, 13, 16, 18  
+
+
 
 
 
