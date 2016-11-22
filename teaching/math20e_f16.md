@@ -68,6 +68,7 @@ blur: |
 
 #### Announcements:
 
+  * [Homework 7][hw7] is posted. (11/21/16)
   * [Lecture Note 3][ln3] is posted. (11/16/16)
   * [Lecture Note 2][ln2] is posted. (11/6/16)
   * [Homework 6][hw6] is posted. (11/6/16)
@@ -87,6 +88,7 @@ blur: |
 
 #### Homework and Exams  
 
+  * [Homework 7][hw7] Due on Friday, Dec 2.
   * Collection of Practice Exam 2: [Click here][practice2]. Old exams from previous years: Click [here][oldex2a] and [here][oldex2b]
   * **Exam 2.** In class, Friday, Nov 18. (covers Sections 2.3, 2.5, <s>3.2</s>, 4.3, 5.1 - 5.5, 6.1, 6.2, 7.1 - 7.6, and 8.1, with an emphasis on 7.1 - 7.6 and 8.1)
   * [Homework 6][hw6] Due on Friday, Nov 18.
@@ -105,6 +107,7 @@ blur: |
 [20EverA]:http://thanghuynh.org/teaching/midterm_20_1A.pdf
 [20EverB]:http://thanghuynh.org/teaching/midterm_20_1B.pdf
 [20EverC]:http://thanghuynh.org/teaching/midterm_20e_version_1C.pdf
+[hw7]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk7
 [hw6]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk6
 [hw5]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk5
 [hw4]:http://thanghuynh.org/teaching/math20e_f16_hw.html#hmwk4
