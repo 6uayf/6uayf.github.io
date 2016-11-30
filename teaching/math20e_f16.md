@@ -88,6 +88,7 @@ blur: |
 
 #### Homework and Exams  
 
+  * **The Final Examination** (11:30am - 2:29pm December 6, 2016) is cumulative and covers Sections 2.3, 2.5, 4.3, 4.4, 5.1 - 5.5, 6.1, 6.2, 7.1 - 7.6, and 8.1 - 8.4.
   * [Homework 7][hw7] Due on Friday, Dec 2.
   * Collection of Practice Exam 2: [Click here][practice2]. Old exams from previous years: Click [here][oldex2a] and [here][oldex2b]
   * **Exam 2.** In class, Friday, Nov 18. (covers Sections 2.3, 2.5, <s>3.2</s>, 4.3, 5.1 - 5.5, 6.1, 6.2, 7.1 - 7.6, and 8.1, with an emphasis on 7.1 - 7.6 and 8.1)
