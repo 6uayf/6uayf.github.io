@@ -88,6 +88,7 @@ blur: |
 
 #### Homework and Exams  
 
+  * Midterm 2 Solution: [Version A][20Ever2A], [Version B][20Ever2B], and [Version C][20Ever2C]
   * Practice Final: [Spring 12][s12], [Spring 13][s13], [Fall 14][f14]
   * **The Final Examination** (11:30am - 2:29pm December 6, 2016) is cumulative and covers Sections 2.3, 2.5, 4.3, 4.4, 5.1 - 5.5, 6.1, 6.2, 7.1 - 7.6, and 8.1 - 8.4.
   * [Homework 7][hw7] Due on Friday, Dec 2.
@@ -103,6 +104,9 @@ blur: |
   * [Homework 1][hw1] Due on Friday, Oct 7.
   * [Homework 0][hw0] DO NOT hand this homework in, this is for you to review some material we'll be using.  
 
+[20Ever2C]:http://thanghuynh.org/teaching/midterm2c_20e.pdf
+[20Ever2B]:http://thanghuynh.org/teaching/midterm2b_20e.pdf
+[20Ever2A]:http://thanghuynh.org/teaching/midterm2a_20e.pdf
 [f14]:http://thanghuynh.org/teaching/20E-F14-final.pdf
 [s13]:http://thanghuynh.org/teaching/20E-S13-final.pdf
 [s12]:http://thanghuynh.org/teaching/20E-S12-final.pdf
