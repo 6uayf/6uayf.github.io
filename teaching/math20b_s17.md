@@ -25,9 +25,10 @@ blur: |
 
 ---  
 
-#### Announcements:
+#### Announcements:  
 
-  - Welcome to Math 20B! (1/8/2017)  
+  - Welcome to Math 20B!
+  
 --- 
 
 #### Helpful Resources  
