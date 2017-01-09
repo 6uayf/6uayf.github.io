@@ -18,9 +18,8 @@ blur: |
 [email]: mailto:tlh007@ucsd.edu
 
 **Teaching Assistants:** Satish Matti  
-*Email:* [skmatti@eng.ucsd.edu][email]  
+*Email:* skmatti(at)eng.ucsd.edu  
 *Office Hours:* TBD  
-[email]: mailto:skmatti@eng.ucsd.edu
 
 
 ---  
