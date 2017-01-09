@@ -7,43 +7,43 @@ blur: |
 
 ---
 
-#### [Syllabus][math20eSyl] (pdf file)
-
-[math20eSyl]:http://thanghuynh.org/teaching/math20e_syllabus.pdf
-
----  
-
 #### Contact Information and Office Hours:  
 
 *Instructor:* Thang Huynh  
 *Email:* [tlh007@ucsd.edu][email].    
-*Office Hours:* Mon & Fri 12pm -- 12:50pm in AP&M 6341 (or by appointment)  
-*Lecture Times:* MWF 11:00am -- 11:50am in PETER 108
+*Office Hours:* 4:00 - 5:00 PM (MWF) in AP&M 6341
+*Lecture Times:* 3:00 - 3:50 P.M. (MWF)	MANDE B-210
+
 
 [email]: mailto:tlh007@ucsd.edu
 
-**Teaching Assistants:**   
+**Teaching Assistants:** Satish Matti  
+*Email:* [skmatti@eng.ucsd.edu][taemail]
+*Office Hours:* TBD
+[taemail]: mailto:skmatti@eng.ucsd.edu
 
 
-
-
---- 
+---  
 
 #### Announcements:
 
+  - Welcome to Math 20B! (1/8/2017)  
+--- 
+
+#### Helpful Resources  
+
+  - [Main 20B Page][math20b]  
+    (Syllabus, Homework List, Calendar)  
+  - [TritonEd][tritoned]  
+    Check your grades!  
+  - [Piazza][piazza]  
+    Online Discussion Forum  
+  
+[math20b]:http://www.math.ucsd.edu/~abowers/20b/index.html
+[tritoned]:https://tritoned.ucsd.edu
+[piazza]:https://piazza.com/ucsd
 
 ---
-
-#### Homework and Exams  
-
-
----
-
-#### [Calendar][math20eCal]
-
-[math20eCal]:http://thanghuynh.org/teaching/math20e_f16_cal.html
-
-
 
 
 
