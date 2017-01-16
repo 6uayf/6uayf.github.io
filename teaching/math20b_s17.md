@@ -21,6 +21,13 @@ blur: |
 *Email:* skmatti(at)eng.ucsd.edu  
 *Office Hours:* TBD  
 
+**SI instructor:** Summer Ng  
+  - Monday: 5pm, Geisel Commons 2070  
+  - Wednesday: 5pm, Black Resource Center  
+  - Thursday: 6pm, Teaching + Learning Commons (Geisel 1st floor) 1504  
+
+
+
 
 ---  
 
