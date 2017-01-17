@@ -19,7 +19,7 @@ blur: |
 
 **Teaching Assistants:** Satish Matti  
 *Email:* skmatti(at)eng.ucsd.edu  
-*Office Hours:* TBD  
+*Office Hours:* Thursday, 2pm-4pm at AP&M 2313  
 
 **SI instructor:** Summer Ng  
   - Monday: 5pm, Geisel Commons 2070  
