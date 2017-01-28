@@ -33,8 +33,10 @@ blur: |
 
 #### Announcements:  
 
-  - Welcome to Math 20B!
+  - [Lecture Note 1][ln1] (Up to Section 11.4)  
+  - Welcome to Math 20B!  
   
+[ln1]:http://www.thanghuynh.org/teaching/math20b_lectureNote1.pdf 
 --- 
 
 #### Helpful Resources  
