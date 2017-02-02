@@ -23,7 +23,7 @@ blur: |
 
 **SI instructor:** Summer Ng  
   - Monday: 5pm, Geisel Commons 2070  
-  - Wednesday: 5pm, Black Resource Center  
+  - Wednesday: 5pm, Revelle ResLife Office Conference room B
   - Thursday: 6pm, Teaching + Learning Commons (Geisel 1st floor) 1504  
 
 
