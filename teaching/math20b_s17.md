@@ -33,9 +33,11 @@ blur: |
 
 #### Announcements:  
 
+  - [Math 20B Supplement][supp]
   - [Lecture Note 1][ln1] (Up to Section 11.4)  
   - Welcome to Math 20B!  
-  
+
+[supp]:http://www.math.ucsd.edu/~abowers/20b/downloads/20b_student_supplement.pdf
 [ln1]:http://thanghuynh.org/teaching/math20b_lectureNote1.pdf   
 
 --- 
