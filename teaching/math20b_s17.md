@@ -22,7 +22,7 @@ blur: |
 *Office Hours:* Thursday, 2pm-4pm at AP&M 2313  
 
 **SI instructor:** Summer Ng  
-  - Monday: 5pm, Geisel Commons 2070  
+  - Monday: 5pm, "Geisel-Commons" which is right outside the Teaching + Learning Commons on the first floor of Geisel.  
   - Wednesday: 5pm, Revelle ResLife Office Conference room B
   - Thursday: 6pm, Teaching + Learning Commons (Geisel 1st floor) 1504  
 
