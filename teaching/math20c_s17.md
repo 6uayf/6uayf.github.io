@@ -34,8 +34,10 @@ blur: |
 --- 
 
 #### Lecture Notes  
+(May contain errors or typos, use at your own risk. These notes are based on Prof [Rayan Saab][RS]'s lecture notes, but all the errors herein are my own. I am grateful to Rayan for allowing me to use his notes.)
 
 
+[RS]:http://www.math.ucsd.edu/~rsaab/  
 
 ---  
 
