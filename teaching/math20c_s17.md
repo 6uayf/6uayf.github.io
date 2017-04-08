@@ -54,8 +54,8 @@ blur: |
   - [Section 1.2][section1.2]
   - [Section 1.1][section1.1]
 
-[section1.2]:http:/www.thanghuynh.org/teaching/Section1_2.pdf
-[section1.1]:http:/www.thanghuynh.org/teaching/Section1_1.pdf
+[section1.2]:http://thanghuynh.org/teaching/Section1_2.pdf
+[section1.1]:http://thanghuynh.org/teaching/Section1_1.pdf
 [RS]:http://www.math.ucsd.edu/~rsaab/  
 
 ---  
