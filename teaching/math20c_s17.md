@@ -51,10 +51,14 @@ blur: |
 #### Lecture Notes  
 (May contain errors or typos, use at your own risk. These notes are based on Prof [Rayan Saab][RS]'s lecture notes, but all the errors herein are my own. I am grateful to Rayan for allowing me to use his notes.)
 
+  - [Section 2.2][section2.2]
+  - [Section 2.1][section2.1]
   - [Section 1.3][section1.3]
   - [Section 1.2][section1.2]
   - [Section 1.1][section1.1]
 
+[section2.2]:http://thanghuynh.org/teaching/Section2_2.pdf
+[section2.1]:http://thanghuynh.org/teaching/Section2_1.pdf
 [section1.3]:http://thanghuynh.org/teaching/Section1_3.pdf
 [section1.2]:http://thanghuynh.org/teaching/Section1_2.pdf
 [section1.1]:http://thanghuynh.org/teaching/Section1_1.pdf
