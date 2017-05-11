@@ -20,12 +20,6 @@ blur: |
 
 ---  
 
-#### Announcements  
-
-  * Welcome! (4/2/2017)
-
---- 
-
 #### Helpful Resources  
 
   - [Main 20C Page][math20c]  
@@ -44,6 +38,8 @@ blur: |
 #### Lecture Notes  
 (May contain errors or typos, use at your own risk. These notes are based on Prof [Rayan Saab][RS]'s lecture notes, but all the errors herein are my own. I am grateful to Rayan for allowing me to use his notes.)
 
+  - [Section 2.5][section2.5]
+  - [Section 2.4][section2.4]
   - [Section 2.3][section2.3]
   - [Section 2.2][section2.2]
   - [Section 2.1][section2.1]
@@ -51,6 +47,8 @@ blur: |
   - [Section 1.2][section1.2]
   - [Section 1.1][section1.1]
 
+[section2.5]:http://thanghuynh.org/teaching/Section2_5.pdf
+[section2.4]:http://thanghuynh.org/teaching/Section2_4.pdf
 [section2.3]:http://thanghuynh.org/teaching/Section2_3.pdf
 [section2.2]:http://thanghuynh.org/teaching/Section2_2.pdf
 [section2.1]:http://thanghuynh.org/teaching/Section2_1.pdf
