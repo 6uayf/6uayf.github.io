@@ -38,6 +38,9 @@ blur: |
 #### Lecture Notes  
 (May contain errors or typos, use at your own risk. These notes are based on Prof [Rayan Saab][RS]'s lecture notes, but all the errors herein are my own. I am grateful to Rayan for allowing me to use his notes.)
 
+  - [Section 3.3][section3.3]
+  - [Section 3.1][section3.1]
+  - [Section 2.6][section2.6]
   - [Section 2.5][section2.5]
   - [Section 2.4][section2.4]
   - [Section 2.3][section2.3]
@@ -47,6 +50,9 @@ blur: |
   - [Section 1.2][section1.2]
   - [Section 1.1][section1.1]
 
+[section3.3]:http://thanghuynh.org/teaching/Section3_3.pdf
+[section3.1]:http://thanghuynh.org/teaching/Section3_1.pdf
+[section2.6]:http://thanghuynh.org/teaching/Section2_6.pdf
 [section2.5]:http://thanghuynh.org/teaching/Section2_5.pdf
 [section2.4]:http://thanghuynh.org/teaching/Section2_4.pdf
 [section2.3]:http://thanghuynh.org/teaching/Section2_3.pdf
