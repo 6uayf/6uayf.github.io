@@ -5,10 +5,10 @@ blur: |
 
 ---  
 #### Math 20D Introduction to Differential Equations - Fall 2017  
-  Links: [Home][math20dHome]    [Homework][math20dHW]    [Calendar][math20dCal]
+  Links: [Home][math20dHome]    [Syllabus][math20dSyl]    [Homework][math20dHW]    [Calendar][math20dCal]
     
    [math20dHome]:http://thanghuynh.org/teaching/math20d_f17.html
-   [math20dSyl]:http://thanghuynh.org/teaching/math20d_syllabus.pdf
+   [math20dSyl]:http://thanghuynh.org/teaching/math20d_f17_syllabus.html  
    [math20dHW]:http://thanghuynh.org/teaching/math20d_f17_hw.html  
    [math20dCal]:http://thanghuynh.org/teaching/math20d_f17_cal.html  
 
