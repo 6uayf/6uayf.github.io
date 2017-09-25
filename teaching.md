@@ -7,7 +7,7 @@ blurb: |
 
 #### This Quarter
 
-  - Fall 2017: [Math 20D - Introduction to Differential Equations - Lecture D][math20D]
+   - Fall 2017: [Math 20D - Introduction to Differential Equations - Lecture D][math20D]
 
    [math20d]:http://thanghuynh.org/teaching/math20d_f17.html 
 
