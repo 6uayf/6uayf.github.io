@@ -7,9 +7,9 @@ blurb: |
 
 #### This Quarter
 
-  - Spring 2017: [Math 20C - Calculus for Science and Engineering III][math20C]
+  - Fall 2017: [Math 20D - Introduction to Differential Equations - Lecture D][math20D]
 
-   [math20c]:http://thanghuynh.org/teaching/math20c_s17.html 
+   [math20d]:http://thanghuynh.org/teaching/math20d_f17.html 
 
 -------
 
@@ -17,10 +17,12 @@ blurb: |
 
 ##### At UCSD
 
+  - Spring 2017: [Math 20C - Calculus for Science and Engineering III][math20C]
   - Winter 2017: [Math 20B - Calculus for Science and Engineering II][math20B]
   - Fall 2016: [Math 170A - Introduction to Numerical Analysis: Linear Algebra][math170a]
   - Fall 2016: [Math 20E - Vector Calculus][math20e]
 
+   [math20c]:http://thanghuynh.org/teaching/math20c_s17.html
    [math20b]:http://thanghuynh.org/teaching/math20b_s17.html 
    [math20e]:http://thanghuynh.org/teaching/math20e_f16.html 
    [math170a]:http://thanghuynh.org/teaching/math170a_f16.html
