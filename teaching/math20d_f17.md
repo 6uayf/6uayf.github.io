@@ -3,13 +3,13 @@ title: Math 20E
 layout: longy
 blur: |
 ---
-### Math 20E Vector Calculus - Fall 2016  
+### Math 20D - Introduction to Differential Equations - Lecture D - Fall 2017  
 
 ---
 
-#### [Syllabus][math20eSyl] (pdf file)
+#### [Syllabus][math20dSyl] (pdf file)
 
-[math20eSyl]:http://thanghuynh.org/teaching/math20e_syllabus.pdf
+[math20dSyl]:http://thanghuynh.org/teaching/math20d_syllabus.pdf
 
 ---  
 
