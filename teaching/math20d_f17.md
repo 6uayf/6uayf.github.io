@@ -105,15 +105,16 @@ with regard to final exams.
 					<li><a href="http://www.wolframalpha.com/">Wolfram|Alpha</a>: &nbsp; A powerful computational knowledge engine</li>
 				</ul>
 
+</li>  
+
+
+<li>Administrative Links
+				<ul>
+					<li><a href="http://blink.ucsd.edu/instructors/academic-info/exams/responsibilities.html">Exam Responsibilities</a>: &nbsp; An outline of the responsibilities of faculty and students with regard to final exams</li>
+					<li><a href="http://www-senate.ucsd.edu/committees/cep/policychanges/midterm.htm">Policies on Examinations</a>: &nbsp; The Academic Senate policy regarding final examinations (These are the rules!)</li>
+					<li><a href="http://students.ucsd.edu/academics/academic-integrity/index.html">Academic Integrity</a>: &nbsp; UCSD policies on academic integrity and student conduct</li>
+				</ul>
 </li>
-
-<li>Other mathematics related sites 
-<p></p><ul>
-<li><a href="http://en.wikipedia.org/wiki/Portal:Mathematics">Wikipedia</a></li>
-<li><a href="http://mathworld.wolfram.com/">Eric Weisstein's World of Mathematics</a></li>
-</ul></li>
-
-
 
 
 
