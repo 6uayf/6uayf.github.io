@@ -94,9 +94,9 @@ blur: |
 
 ---
 
-#### Student Resources
-
-<li>Sites with resources for assistance and tutoring
+#### Sites with resources for assistance and tutoring  
+	
+<p>	
 				<ul>
 					<li><a href="http://www.math.ucsd.edu/resources/tutoring/">Math Tutoring</a>: &nbsp; Information about the Math Department's tutoring resources</li>
 					<li><a href="http://www.math.ucsd.edu/~ashenk/">Calculus Interactive Examples</a>: &nbsp; A resource provided courtesy Professor Al Shenk.</li>
@@ -107,17 +107,21 @@ blur: |
 					<li><a href="https://math.osu.edu/undergrad/non-majors/resources/study-math-college">How to Study Mathematics</a>: &nbsp; Useful advice from the Mathematics Department at The Ohio State University</li>
 					<li><a href="http://www.wolframalpha.com/">Wolfram|Alpha</a>: &nbsp; A powerful computational knowledge engine</li>
 				</ul>
+</p>
 
-</li>  
+--- 
 
-<li> Interesting Math Websites  
-				<ul>
-					<li><a href="http://en.wikipedia.org/wiki/Portal:Mathematics">Wikipedia Math Portal</a></li>
-					<li><a href="http://mathworld.wolfram.com/">Eric Weisstein's World of Mathematics</a></li>
-					<li><a href="http://mathforum.org//">The Math Forum</a></li>
-				</ul>
-</li>
+### Interesting Math Websites  
 
+  [Wikipedia Math Portal][wiki]   
+  [Eric Weisstein's World of Mathematics][EricW]   
+  [The Math Forum][mathforum]  
+
+  
+  [wiki]:http://en.wikipedia.org/wiki/Portal:Mathematics 
+  [EricW]:http://mathworld.wolfram.com/
+  [mathforum]:http://mathforum.org
+ 
 
 
 
