@@ -111,10 +111,10 @@ blur: |
 
 --- 
 
-### Interesting Math Websites  
+#### Interesting Math Websites  
 
-  [Wikipedia Math Portal][wiki]   
-  [Eric Weisstein's World of Mathematics][EricW]   
+  [Wikipedia Math Portal][wiki]  
+  [Eric Weisstein's World of Mathematics][EricW]  
   [The Math Forum][mathforum]  
 
   
