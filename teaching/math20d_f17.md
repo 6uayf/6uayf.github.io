@@ -94,12 +94,18 @@ with regard to final exams.
 #### Student Resources
 
 <li>Sites with resources for assistance and tutoring
-<ul><p></p><li><a href="http://oasis.ucsd.edu/">OASIS</a> &nbsp;UCSD's Office of Academic Support and
-Instructional Services (Click <a href="https://students.ucsd.edu/academics/_organizations/oasis/math-science/workshops.html">here</a> for info on how to sign up for a workshop.)</li> 
-<li><a href="http://www.calc101.com/">Calc101.com</a> &nbsp;Automatic Calculus Derivatives and
-Integrals</li>
-<p></p>
-</ul></li>
+				<ul>
+					<li><a href="http://www.math.ucsd.edu/resources/tutoring/">Math Tutoring</a>: &nbsp; Information about the Math Department's tutoring resources</li>
+					<li><a href="http://www.math.ucsd.edu/~ashenk/">Calculus Interactive Examples</a>: &nbsp; A resource provided courtesy Professor Al Shenk.</li>
+					<li><a href="http://oasis.ucsd.edu/">OASIS</a>: &nbsp; UCSD's Office of Academic Support and Instructional Services</li>
+					<li><a href="http://disabilities.ucsd.edu/">Disability Resources</a>: Information and Resources for people with disabilities at UCSD</li> 
+					<li><a href="http://www.calc101.com/">Calc101.com</a>: &nbsp; Automatic Calculus Derivatives and Integrals</li>
+					<li><a href="http://www.khanacademy.org">Khan Academy Math Video Library</a>: &nbsp; Video resources on everything from basic algebra to calculus</li>
+					<li><a href="https://math.osu.edu/undergrad/non-majors/resources/study-math-college">How to Study Mathematics</a>: &nbsp; Useful advice from the Mathematics Department at The Ohio State University</li>
+					<li><a href="http://www.wolframalpha.com/">Wolfram|Alpha</a>: &nbsp; A powerful computational knowledge engine</li>
+				</ul>
+
+</li>
 
 <li>Other mathematics related sites 
 <p></p><ul>
