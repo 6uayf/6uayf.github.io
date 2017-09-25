@@ -17,8 +17,8 @@ blur: |
 
 *Instructor:* Thang Huynh  
 *Email:* [tlh007@ucsd.edu][email].    
-*Office Hours:* Mon & Fri 12pm -- 12:50pm in AP&M 6341 (or by appointment)  
-*Lecture Times:* MWF 11:00am -- 11:50am in PETER 108
+*Office Hours:* Mon & Fri 2:00 pm -- 3:00 pm in AP&M 6341 (or by appointment)  
+*Lecture Times:* MWF 4:00pm -- 4:50pm in PETER 110
 
 [email]: mailto:tlh007@ucsd.edu
 
