@@ -200,10 +200,6 @@ Note: The numbers given in [brackets] correspond to the text by Lebl. The number
     <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 14</small></b></td>
     <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 15</small></b></td>
 </tr>
-</tbody>           
-</table>
-</center>
-
 
 
 
