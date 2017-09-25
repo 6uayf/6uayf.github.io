@@ -85,9 +85,12 @@ blur: |
 ---  
 
 #### Administrative Links  
-[Final Exam Responsibilities](http://blink.ucsd.edu/Blink/External/Topics/How_To/0,1260,17998,00.html) An outline of the responsibilities of faculty and students
-with regard to final exams.
 
+<ul>
+					<li><a href="http://blink.ucsd.edu/instructors/academic-info/exams/responsibilities.html">Exam Responsibilities</a>: &nbsp; An outline of the responsibilities of faculty and students with regard to final exams</li>
+					<li><a href="http://www-senate.ucsd.edu/committees/cep/policychanges/midterm.htm">Policies on Examinations</a>: &nbsp; The Academic Senate policy regarding final examinations (These are the rules!)</li>
+					<li><a href="http://students.ucsd.edu/academics/academic-integrity/index.html">Academic Integrity</a>: &nbsp; UCSD policies on academic integrity and student conduct</li>
+				</ul>
 
 ---
 
@@ -108,13 +111,6 @@ with regard to final exams.
 </li>  
 
 
-<li>Administrative Links
-				<ul>
-					<li><a href="http://blink.ucsd.edu/instructors/academic-info/exams/responsibilities.html">Exam Responsibilities</a>: &nbsp; An outline of the responsibilities of faculty and students with regard to final exams</li>
-					<li><a href="http://www-senate.ucsd.edu/committees/cep/policychanges/midterm.htm">Policies on Examinations</a>: &nbsp; The Academic Senate policy regarding final examinations (These are the rules!)</li>
-					<li><a href="http://students.ucsd.edu/academics/academic-integrity/index.html">Academic Integrity</a>: &nbsp; UCSD policies on academic integrity and student conduct</li>
-				</ul>
-</li>
 
 
 
