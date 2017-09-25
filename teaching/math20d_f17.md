@@ -13,9 +13,9 @@ blur: |
 
 ---
 
-#### [Syllabus][math20dSyl] (pdf file)
+#### [Syllabus][math20dSyl]
 
-[math20dSyl]:http://thanghuynh.org/teaching/math20d_syllabus.pdf
+[math20dSyl]:http://thanghuynh.org/teaching/math20d_f17_syllabus.html  
 
 ---  
 
