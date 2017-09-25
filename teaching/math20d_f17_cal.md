@@ -22,8 +22,6 @@ Note: The numbers given in [brackets] correspond to the text by Lebl. The number
 
 
 
-
-<!--Default background color: #ffffc0-->
 <center>           
 <table bgcolor="#D0FAEE" cellpadding="5" cellspacing="0" border="1">
 <tbody>
@@ -199,7 +197,11 @@ Note: The numbers given in [brackets] correspond to the text by Lebl. The number
        <div align="left"><small>Final Exam<br>3:00-5:59pm<br>&nbsp;</small></div></td>
     <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 14</small></b></td>
     <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 15</small></b></td>
-</tr>
+</tr>  
+</tbody>
+</table>
+</center>
+
 
 
 
