@@ -1,210 +1,210 @@
 ---
-title: Math 20E Vector Calculus - 2016
+title: Math 20D Introduction to Differential Equations - Lecture D00 - Fall 2017
 layout: longy
 blur: |
 
 ---  
-#### Math 20E Vector Calculus - Fall 2016  
-  Links: [Home][math20eHome]    [Homework][math20eHW]    [Calendar][math20eCal]
+#### Math 20D Introduction to Differential Equations - Fall 2016  
+  Links: [Home][math20dHome]    [Homework][math20dHW]    [Calendar][math20dCal]
     
-   [math20eHome]:http://thanghuynh.org/teaching/math20e_f16.html
-   [math20eSyl]:http://thanghuynh.org/teaching/math20e_syllabus.pdf
-   [math20eHW]:http://thanghuynh.org/teaching/math20e_f16_hw.html  
-   [math20eCal]:http://thanghuynh.org/teaching/math20e_f16_cal.html  
+   [math20dHome]:http://thanghuynh.org/teaching/math20d_f17.html
+   [math20dSyl]:http://thanghuynh.org/teaching/math20d_syllabus.pdf
+   [math20dHW]:http://thanghuynh.org/teaching/math20d_f17_hw.html  
+   [math20dCal]:http://thanghuynh.org/teaching/math20d_f17_cal.html  
 
 #### Calendar    
 ---  
 
 
-**Updated September 26, 2016**
+**Updated September 25, 2017**
 
-Note: This calendar is subject to revision during the term.  
-The section references are only a guide; we may deviate from it.  
-
+Note: The numbers given in [brackets] correspond to the text by Lebl. The numbers given outside of brackets correspond to the book by Boyce and DiPrima. This calendar is subject to revision during the term. The section references are only a guide; we may deviate from it.  
 
 
 
+
+<!--Default background color: #ffffc0-->
 <center>           
-<table bgcolor="#ffffe0" cellpadding="5" cellspacing="0" border="1">  
-<tbody>  
+<table bgcolor="#D0FAEE" cellpadding="5" cellspacing="0" border="1">
+<tbody>
 
-<tr bgcolor="#ffffc0">
+<tr>
     <th width="10%">Week</th>
     <th width="18%">Monday</th>
     <th width="18%">Tuesday</th>
     <th width="18%">Wednesday</th>
     <th width="18%">Thursday</th>
     <th width="18%">Friday</th>
-</tr>  
- 
-<tr>  
-    <td align="center">0<br>  
-    </td>  
-    <td valign="top" ><b><small>Sept 19</small></b>                <div align="left"><small></small></div>                </td>  
-    <td valign="top" ><b><small>Sept 20</small></b> <div align="left"><small></small></div>  
-    </td>  
-    <td valign="top" ><b><small>Sept 21</small></b><div align="left"><small></small></div>  
-                	        <div align="center"><b><small></small></b></div>  
-                	        </td>  
-    
-    <td valign="top" ><b><small>Sept 22</small></b>
-        <div align="center"><small><br></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Sept 23</small></b>
-        <div align="left"><small>2.3</small></div>
-        <div align="center"><b><small><a href="math20e_f16_hw.html#hmwk0">Hmwk 0 <br></a><strong>(Do NOT submit)</strong></small></b></div>
-    </td>
+</tr>
+
+<tr>
+    <td align="center">0<br></td>
+    <td valign="top" bgcolor="#E8E8E8"><b><small>Sep 25</small></b>
+        <div align="left"><small></small></div></td>
+    <td valign="top" bgcolor="#E8E8E8"><b><small>Sep 26</small></b>
+		<div align="left"><small></small></div></td>
+    <td valign="top" bgcolor="#E8E8E8"><b><small>Sep 27</small></b>
+        <div align="left"><small></small></div></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Sep 28</small></b>
+		<div align="left"><small></small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Sep 29</small></b>
+        <div align="left"><small>Ch. 1 [Ch. 0]<br>Introduction</small></div></td>
 </tr>
 
 <tr>
     <td align="center">1<br></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Sept 26</small></b>                
-       <div align="left"><small>2.3, 2.5</small></div>        
-        </td>
-    <td valign="top"><b><small>Sept 27</small></b> <div align="left"><small></small></div>
-    </td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Sept 28</small></b><div align="left"><small>2.5, 3.2</small></div> 	    </td>
-    <td valign="top" bgcolor="#ddff00"><b><small>Sept 29</small></b><div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Sept 30</small></b>
-        <div align="left"><small>5.1-5.3</small></div></td></tr>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 2</small></b>
+        <div align="left"><small>2.2 [1.3]<br>Separable Equations</small></div></td>
+    <td valign="top" bgcolor="#ffffe0"><b><small>Oct 3</small></b>
+		<div align="left"><small>Discussion</small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 4</small></b>
+        <div align="left"><small>2.1 [1.1, 1.4]<br>Linear Equations</small></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Oct 5</small></b>
+		<div align="left"><small></small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 6</small></b>
+        <div align="left"><small>2.4 [1.2]<br>Theory of DEs</small></div></td>
+</tr>
 
 <tr>
     <td align="center">2<br></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 3</small></b>
-        <div align="left"><small>5.4</small></div></td>
-	<td valign="top"><b><small>Oct 4</small></b>
-		 <div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 5</small></b>
-        <div align="left"><small>5.5</small></div></td>	      
-    <td valign="top" bgcolor="#ddff00"><b><small>Oct 6</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 9</small></b>
+        <div align="left"><small>2.5 [1.6]<br>Autonomous Eqns</small></div></td>
+    <td valign="top" bgcolor="#ffffe0"><b><small>Oct 10</small></b>
 		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 7</small></b>
-        <div align="left"><small>6.1</small></div></td></tr>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 11</small></b>
+        <div align="left"><small>2.6 [1.8]<br>Exact Equations</small></div></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Oct 12</small></b>
+		<div align="left"><small></small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 13</small></b>
+        <div align="left"><small>3.1 [2.1,2.2]<br>Homogeneous Eqns</small></div></td>
+</tr>
 
 <tr>
     <td align="center">3<br></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 10</small></b>
-        <div align="left"><small>6.2</small></div></td>
-	<td valign="top"><b><small>Oct 11</small></b>
-	 <div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 12</small></b>
-        <div align="left"><small>4.3</small></div></td>
-    <td valign="top" bgcolor="#ddff00"><b><small>Oct 13</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 16</small></b>
+        <div align="left"><small>3.2 [2.1]<br>Solutions to Linear<br>Homogeneous Eqns</small></div></td>
+    <td valign="top" bgcolor="#ffffe0"><b><small>Oct 17</small></b>
 		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 14</small></b>
-        <div align="left"><small>7.1</small></div></td></tr>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 18</small></b>
+        <div align="left"><small>3.3 [2.2]<br>Complex Roots</small></div></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Oct 19</small></b>
+		<div align="left"><small></small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 20</small></b>
+        <div align="left"><small>3.4 [2.2]<br>Repeated Roots</small></div></td>
+</tr>
 
 <tr>
     <td align="center">4<br></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 17</small></b>
-        <div align="left"><small>7.2</small></div></td>
-	<td valign="top"><b><small>Oct 18</small></b> 
-	 <div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 19</small></b>
-        <div align="left"><small>Review</small></div></td>
-    <td valign="top" bgcolor="#ddff00"><b><small>Oct 20</small></b>
-		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="#ff6666"><b><small>Oct 21</small></b>
-        <div align="center"><small><a href="homework.html#exam1"><strong>Exam 1</strong></a></small></div>
-            <div align="center"><small>Last Day to<br>Drop w/o 'W'</small></div></td></tr>
+    <td valign="top" bgcolor="#FFCC99"><b><small>Oct 23</small></b>
+        <div align="left"><small>Exam 1<br>(Oct 2 - Oct 18)</small></div></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Oct 24</small></b>
+		<div align="left"><small>No Discussion</small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 25</small></b>
+        <div align="left"><small>3.4 [2.1]<br>Reduction of Order</small></div></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Oct 26</small></b>
+		<div align="left"><small></small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 27</small></b>
+		<div align="left"><small>3.5 [2.5]<br>Undetermined Coeffs</small></div></td>
+</tr>
 
 <tr>
     <td align="center">5<br></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 24</small></b>
-        <div align="left"><small>7.3</small></div></td>
-	<td valign="top"><b><small>Oct 25</small></b>
-	 <div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 26</small></b>
-<div align="left"><small>7.3, 7.4</small></div></td>
-	<td valign="top" bgcolor="#ddff00"><b><small>Oct 27</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 30</small></b>
+        <div align="left"><small>3.6 [2.5]<br>Variation of Params</small></div></td>
+    <td valign="top" bgcolor="#ffffe0"><b><small>Oct 31</small></b>
 		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 28</small></b>
-        <div align="center"><b><small></small></b></div>
-        <div align="left"><small>7.4</small></div></td></tr>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 1</small></b>
+        <div align="left"><small>7.1 [3.1]<br>Introduction</small></div></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Nov 2</small></b>
+		<div align="left"><small></small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 3</small></b>
+        <div align="left"><small>7.2 [3.2]<br>Matrix Review</small></div></td>
+</tr>
 
 <tr>
     <td align="center">6<br></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Oct 31</small></b>
-        <div align="left"><small>7.5</small></div></td>
-	<td valign="top" ><b><small>Nov 1</small></b> 
-	 <div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Nov 2</small></b>
-        <div align="left"><small>7.5, 7.6</small></div></td>
-    <td valign="top" bgcolor="#ddff00"><b><small>Nov 3</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 6</small></b>
+        <div align="left"><small>7.3 [3.4.1]<br>Eigenvalues</small></div></td>
+    <td valign="top" bgcolor="#ffffe0"><b><small>Nov 7</small></b>
 		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Nov 4</small></b>
-        <div align="left"><small>7.6</small></div></td></tr>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 8</small></b>
+        <div align="left"><small>7.4 [3.3]<br>Theory of Systems</small></div></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Nov 9</small></b>
+		<div align="left"><small></small></div></td>
+    <td valign="top" bgcolor="#66ffff"><b><small>Nov 10</small></b>
+		<div align="left"><small>Veterans Day Obs.<br>(No classes)</small></div></td>
+</tr>
 
 <tr>
     <td align="center">7<br></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Nov 7</small></b>
-        <div align="left"><small>8.1</small></div></td>
-    <td valign="top"><b><small>Nov 8</small></b>
-	 <div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Nov 9</small></b>
-         <div align="left"><small>8.2 (4.4)</small></div> </td>
-    <td valign="top" bgcolor="#ddff00"><b><small>Nov 10</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 13</small></b>
+        <div align="left"><small>7.5 [3.4, 3.5]<br>Real Eigenvalues<br></small></div></td>
+    <td valign="top" bgcolor="#ffffe0"><b><small>Nov 14</small></b>
 		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="lightblue"><b><small>Nov 11</small></b>
-        <div align="left"><small>Veteran's Day<br>Holiday</small></div></td></tr>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 15</small></b>
+		<div align="left"><small>7.6 [3.4, 3.5]<br>Complex Eigenvalues</small></div></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Nov 16</small></b>
+		<div align="left"><small></small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 17</small></b>
+		<div align="left"><small>7.8 [3.7]<br>Repeat Eigenvalues</small></div></td>
+</tr>
 
 <tr>
     <td align="center">8<br></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Nov 14</small></b>
-        <div align="left"><small>8.2</small></div></td>
-    <td valign="top"><b><small>Nov 15</small></b>
-     <div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Nov 16</small></b>
-        <div align="left"><small>Review</small></div></td>
-    <td valign="top" bgcolor="#ddff00"><b><small>Nov 17</small></b>
-        <div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="#ff6666"><b><small>Nov 18</small></b>
-        <div align="center"><b><small><a href="homework.html#exam1">Exam 2</a></small></b></div></td></tr>
+    <td valign="top" bgcolor="#FFCC99"><b><small>Nov 20</small></b>
+        <div align="left"><small>Exam 2<br>(Oct 20 - Nov 15)</small></div></td>
+    <td valign="top" bgcolor="#E8E8E8"><b><small>Nov 21</small></b>
+		<div align="left"><small>No Discussion</small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 22</small></b>
+        <div align="left"><small>5.1,5.2 [7.1, 7.2]<br>Power Series</small></div></td>
+	<td valign="top" bgcolor="#66ffff"><b><small>Nov 23</small></b>
+		<div align="left"><small>Thanksgiving</small></div></td>
+    <td valign="top" bgcolor="#66ffff"><b><small>Nov 24</small></b>
+		<div align="left"><small>(No classes)</small></div></td>
+</tr>
 
 <tr>
     <td align="center">9<br></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Nov 21</small></b>
-        <div align="left"><small>8.4 (4.4)</small></div></td>
-    <td valign="top"><b><small>Nov 22</small></b>
-     <div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Nov 23</small></b>
-        <div align="left"><small>8.4</small></div></td>
-    <td valign="top" bgcolor="lightblue"><b><small>Nov 24</small></b>
-		<div align="left"><small>Thanksgiving <br>Holiday</small></div>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 27</small></b>
+		<div align="left"><small>6.1 [6.1]<br>Laplace Transform</small></div></td>
+    <td valign="top" bgcolor="#ffffe0"><b><small>Nov 28</small></b>
+		<div align="left"><small>Discussion</small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 29</small></b>
+        <div align="left"><small>6.2 [6.1, 6.2]<br>Initial Value Probs</small></div></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Nov 30</small></b>
+        <div align="left"><small></small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Dec 1</small></b>
+        <div align="left"><small>6.3 [6.2]<br>Step Functions</small></div></td>
+</tr>
+
+<tr>
+    <td align="center">10</td>
+    <td valign="top" bgcolor="#d0ffd0"><small><b>Dec 4</b></small>
+        <div align="left"><small>6.4 [6.2]<br>Forcing Functions</small></div></td>
+    <td valign="top" bgcolor="#ffffe0"><b><small>Dec 5</small></b>
+		<div align="left"><small>Discussion</small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Dec 6</small></b>
+        <div align="left"><small>6.5 [6.4]<br>Impulse Functions</small></div></td>
+	<td valign="top" bgcolor="#ffffc0"><b><small>Dec 7</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="lightblue"><b><small>Nov 25</small></b>
-      <div align="left"><small></small></div>
-      <div align="left"><small>Thanksgiving <br>Holiday</small></div></td></tr>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Dec 8</small></b>
+        <div align="left"><small>6.6 [6.3]<br>Convolution</small></div></td>
+</tr>
 
 <tr>
-    <td align="center">10<br></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Nov 28</small></b>
-        <div align="left"><small>8.3 </small></div>
-            	 <div align="left"><small>Last Day to <br>drop w/o "F"</small></div></td>
-    <td valign="top"><b><small>Nov 29</small></b>
-	 <div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Nov 30</small></b>
-        <div align="left"><small>Catchup/Review</small></div></td>
-    <td valign="top" bgcolor="#ddff00"><b><small>Dec 1</small></b>
-        <div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="lightgreen"><b><small>Dec 2</small></b>
-        <div align="left"><small>Review</small></div></td></tr>
+    <td align="center">11</td>
+    <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 11</small></b></td>
+    <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 12</small></b></td>
+    <td valign="top" bgcolor="#FFCC99"><b><small>Dec 13</small></b>
+       <div align="left"><small>Final Exam<br>3:00-5:59pm<br>&nbsp;</small></div></td>
+    <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 14</small></b></td>
+    <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 15</small></b></td>
+</tr>
 
-<tr>
-    <td align="center">11<br></td>
-    <td valign="top" ><b><small>Dec 5</small></b></td>
-    <td valign="top" bgcolor="#ff6666"><b><small>Dec 6</small></b>
-	 <div align="left"><small>FINAL EXAM</small></div>
-	 <div align="left"><small>(11:30am - 2:29pm)</small></div></td>
-    <td valign="top" bgcolor=""><b><small>Dec 7</small></b>
-        <div align="left"><small></small></div>	</td>
-    <td valign="top" ><b><small>Dec 8</small>
-        <div align="center"><small></small></div></b></td>
-    <td valign="top" bgcolor=""><b><small>Dec 9</small></b>
-        <div align="left"><small></small></div></td></tr>  
 
-</tbody>         
-</table>  
-</center>  
+</tbody>           
+</table>
+</center>
 
 
 
