@@ -21,6 +21,9 @@ blur: |
 Note: The numbers given in [brackets] correspond to the text by Lebl. The numbers given outside of brackets correspond to the book by Boyce and DiPrima. This calendar is subject to revision during the term. The section references are only a guide; we may deviate from it.  
 
 
+<center>           
+<table bgcolor="#D0FAEE" cellpadding="5" cellspacing="0" border="1">
+<tbody>
 <tr>
     <th width="10%">Week</th>
     <th width="18%">Monday</th>
@@ -193,6 +196,9 @@ Note: The numbers given in [brackets] correspond to the text by Lebl. The number
     <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 14</small></b></td>
     <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 15</small></b></td>
 </tr>  
+
+
+
 
 
 
