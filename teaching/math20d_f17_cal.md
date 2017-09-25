@@ -4,7 +4,7 @@ layout: longy
 blur: |
 
 ---  
-#### Math 20D Introduction to Differential Equations - Fall 2016  
+#### Math 20D Introduction to Differential Equations - Fall 2017  
   Links: [Home][math20dHome]    [Homework][math20dHW]    [Calendar][math20dCal]
     
    [math20dHome]:http://thanghuynh.org/teaching/math20d_f17.html
