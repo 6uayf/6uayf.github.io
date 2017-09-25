@@ -22,7 +22,11 @@ blur: |
 
 [email]: mailto:tlh007@ucsd.edu
 
-**Teaching Assistants:**   
+#### [Math 20D MATLAB][math20DMatlab]  
+ 
+  [math20DMatlab]:http://www.math.ucsd.edu/~math20d/  
+
+#### Teaching Assistants:  
 
 <center>
 <table width="800" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
