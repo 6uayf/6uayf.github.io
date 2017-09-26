@@ -28,36 +28,25 @@ mathjax: true  
 
 **Catalog Description:** Ordinary differential equations: exact, separable, and linear; constant coefficients, undetermined coefficients, variation of parameters. Series solutions. Systems, Laplace transforms. Computing symbolic and graphical solutions using Matlab.
 
-**Textbook:** You can use either of two books for this course:  
+**Textbook:** Elementary Differential Equations (11th Edition) by Boyce and DiPrima.   
 
-  Elementary Differential Equations (11th Edition) by Boyce and DiPrima.  
-  Notes on Diffy Qs: Differential Equations for Engineers (version 5.1, March 21st 2017) by Jiri Lebl  
-
-**Material Covered:**  We shall cover parts of chapters 2, 3, 5, 6, and 7 of the Boyce and DiPrima text. These correspond to chapters 1, 2, 3, 6, and 7 in the Lebl text. A list of topics scheduled to be covered each day can be found on the  Course Calendar.
-
+**Material Covered:**  We shall cover parts of chapters 2, 3, 5, 6, and 7 of the Boyce and DiPrima text. A list of topics scheduled to be covered each day can be found on the  Course Calendar.  
 
 **Lecture:** Attending the lecture is a fundamental part of the course; you are responsible for all material presented in the lecture whether or not it is discussed in the textbook. You should expect questions on the exams that will test your understanding of concepts discussed in the lecture.
 
 **Reading:** Reading the sections of the textbook corresponding to the assigned homework exercises is considered part of the homework assignment; you are responsible for material in the assigned reading whether or not it is discussed in the lecture. It will be expected that you read the assigned material in advance of each lecture.
 
-**Homework:** Homework will be assigned on the course homework page and should be completed by 5 pm on the indicated due date. Your completed homework assignments should be submitted into the homework dropbox (located in the basement of AP&M) labeled 20E and your TA’s name. Your worst homework score will be dropped. Before you submit, make sure to staple your work and have your name, ID number and section number written clearly on top of the front page. Late homework will not be accepted.
+**Homework:** 
 
-**Midterm Exams:** There will be two (2) midterm exams. (See also the course [calendar][math20eCal]). You may bring a ONE SIDED 8.5 by 11 inch handwritten sheet of notes with you to each midterm exam. No calculators will be allowed.  There will be no makeup exams.
+**Midterm Exams:** 
 
-**Final Exam:** The final examination will be held at the following date and time.
+**Final Exam:** 
 
-   * TBD (See the course [calendar][math20eCal].)  
-     * Please note:  
-       * It is your responsibility to ensure that you do not have a schedule conflict involving the final examination.  
-       * You should not enroll in this class if you cannot sit for the final examination at its scheduled time.  
-   * You may bring one 8.5 by 11 inch handwritten sheet of notes with you to the final examination (BOTH SIDES OF THE SHEET MAY BE USED FOR THE FINAL EXAM). No calculators will be allowed.  
+**Gradescope:** Exam grading will be done using an online tool called [Gradescope][GS]. Exams will be scanned and uploaded to Gradescope and will be graded within it. As a consequence, exams will not be returned to the students. Instead, a digital version of your exams will be made available after the grading has been completed. An email will be sent from Gradescope when the exams are made available.  
 
-**Regrades:** Midterm exams will be returned in the discussion sections. If you wish to have your exam regraded, you must observe the following rules:  
+[GS]:https://gradescope.com/
 
-   * Return your exam immediately to your TA. Regrade requests will not be considered once the exam leaves the room.  
-   * If you disagree with the TA's answer to your regrade request, you may ask for the instructor to review it. In order to do this, you must return your exam immediately to your TA and ask that they forward it to the instructor.  
-   * Instructor review requests will not be considered once the exam leaves the room.  
-   * If you do not retrieve your exam during discussion section, you must arrange to pick it up from your TA within one week after it was returned in order for any regrade request to be considered.  
+**Regrades:** Regrade requests will be made using the built-in regrade request feature in Gradescope. There will be a limited window of time after the exams are made available during which the regrade request feature will be active. This time window will be announced when the exam scores are released to the students.
 
 **Calculators:** A graphing calculator (e.g., TI-83, TI-84, or TI-89) is recommended for homework assignments and as an aid in learning concepts. *The use of calculators will NOT be permitted during exams.*  
 
