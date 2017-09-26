@@ -1,7 +1,7 @@
 ---
 title: Math 20E Vector Calculus - Fall 2017  
-layout: default  
-mathjax: true  
+layout: longy
+mathjax: true  
 
 ---
 #### Math 20D - Introduction to Differential Equations - Lecture D - Fall 2017  
@@ -20,13 +20,13 @@ mathjax: true
 
 [courseCat]:http://www.ucsd.edu/catalog/courses/MATH.html#math20d
 
-**Title:** Vector Calculus
+**Title:** Introduction to Differential Equations
 
 **Credit Hours:** 4 units
 
-**Prerequisite:** Math 20C (or Math 21C) or Math 31BH with a grade of C- or better.
+**Prerequisite:** Math 20C (or equivalent)
 
-**Catalog Description:** Change of variable in multiple integrals, Jacobian, Line integrals, Green's theorem. Vector fields, gradient fields, divergence, curl. Spherical/cylindrical coordinates. Taylor series in several variables. Surface integrals, Stoke's theorem. Conservative fields.
+**Catalog Description:** Ordinary differential equations: exact, separable, and linear; constant coefficients, undetermined coefficients, variation of parameters. Series solutions. Systems, Laplace transforms. Computing symbolic and graphical solutions using Matlab.
 
 **Textbook:** *Vector Calculus, sixth edition*, by Jerrold E. Marsden and Anthony J. Tromba; published by W. H. Freeman and Company; 2012. The Student Solutions Manual is optional.
 
