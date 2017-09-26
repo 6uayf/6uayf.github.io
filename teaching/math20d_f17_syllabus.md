@@ -39,9 +39,7 @@ mathjax: true  
 **Calculators:** A graphing calculator (e.g., TI-83, TI-84, or TI-89) is recommended for homework assignments and as an aid in learning concepts. *The use of calculators will NOT be permitted during exams.*  
 
 **Homework:** 
-
-
-[GS]:https://gradescope.com/  
+  
 
 
 **Midterm Exams:** 
@@ -56,16 +54,17 @@ mathjax: true  
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
 |97   |93   |90   |87   |83	|80   |77   |73   |70	|60   |  
 
-$A + B $
 
 I may adjust the scale to be more lenient, but guarantee that the grade corresponding to a given percentage will not be lower than specified by the above scale. Your cumulative average will be the best of the following two weighted averages:  
 
-* 20% Homework,  20% Midterm Exam I,  20% Midterm Exam II,  40% Final Exam  
-* 20% Homework,  20% Best Midterm,  60% Final Exam  
+* 10% HW,   8% MATLAB,   2% Quizzes,   20% Midterm 1,   20% Midterm 2,   40% Final Exam
+* 10% HW,   8% MATLAB,   2% Quizzes,   20% Best Midterm Exam,   60% Final Exam  
 
 You must pass the final examination in order to pass the course. Note: Since *there are no makeup exams*, if you miss an exam for any reason then your course grade will be computed with the final exam counting 60% of your weighted average.
 
 **Gradescope:** Exam grading will be done using an online tool called [Gradescope][GS]. Exams will be scanned and uploaded to Gradescope and will be graded within it. As a consequence, exams will not be returned to the students. Instead, a digital version of your exams will be made available after the grading has been completed. An email will be sent from Gradescope when the exams are made available.  
+
+[GS]:https://gradescope.com/  
 
 **Regrades:** Regrade requests will be made using the built-in regrade request feature in Gradescope. There will be a limited window of time after the exams are made available during which the regrade request feature will be active. This time window will be announced when the exam scores are released to the students.
 
