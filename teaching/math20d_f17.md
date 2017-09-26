@@ -85,7 +85,7 @@ blur: |
 [Homework][math20dHW]  
 
 [math20dCal]:http://thanghuynh.org/teaching/math20d_f17_cal.html
-[math20dSyl]:http://thanghuynh.org/teaching/math20d_syllabus.pdf
+[math20dSyl]:http://thanghuynh.org/teaching/math20d_f17_syllabus.html 
 [math20dHW]:http://thanghuynh.org/teaching/math20d_f17_hw.html
 
 ---  
