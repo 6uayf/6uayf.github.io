@@ -38,6 +38,20 @@ mathjax: true  
 
 **Calculators:** A graphing calculator (e.g., TI-83, TI-84, or TI-89) is recommended for homework assignments and as an aid in learning concepts. *The use of calculators will NOT be permitted during exams.*  
 
+**Labs:**   The MATLAB assignments are a required part of the course. The assignments, due dates, and instructions on how to submit the assignments can be found here:
+
+<http://www.math.ucsd.edu/~math20d/>
+
+There will be MATLAB tutors available in B432 to help you with your assignments.
+MATLAB Quiz:   There will be a MATLAB quiz given at the end of the quarter. The quiz will be held during your scheduled MATLAB time in AP&M B432. If you are unable to make the scheduled time, you will be able to schedule an alternate time online. The MATLAB Quiz can be used to replace one MATLAB assignment.
+
+TritonEd Quizzes:  There will be FOUR quizzes that you will take through TritonEd. The first of these is a Syllabus Quiz (due on the Friday of Week 2). The remaining TritonEd Quizzes are actually surveys are your score is based on completion. They are only called quizzes to make it clear that they are required. The quizzes are:
+
+Syllabus Quiz: A multiple choice quiz based on the syllabus.
+Start of Quarter Survey:
+Mid-Quarter Survey:
+End of Quarter Survey:
+
 **Homework:** 
   
 
@@ -60,7 +74,14 @@ I may adjust the scale to be more lenient, but guarantee that the grade correspo
 * 10% HW,   8% MATLAB,   2% Quizzes,   20% Midterm 1,   20% Midterm 2,   40% Final Exam
 * 10% HW,   8% MATLAB,   2% Quizzes,   20% Best Midterm Exam,   60% Final Exam  
 
-You must pass the final examination in order to pass the course. Note: Since *there are no makeup exams*, if you miss an exam for any reason then your course grade will be computed with the final exam counting 60% of your weighted average.
+You must pass the final examination in order to pass the course. Note: Since *there are no makeup exams*, if you miss an exam for any reason then your course grade will be computed with the final exam counting 60% of your weighted average.  
+
+*Note on MATLAB grades:*  There are four labs. Each of these four is worth 2% of your grade (for 8% total). The MATLAB Quiz at the end of the quarter can be used to replace one MATLAB assignment. 
+
+**There will be no curve**, but we may adjust the scale to be more lenient (depending on the overall performance of the class). 
+
+Please notice that outside factors, including the need for a certain grade for admission/retention in any academic program, scholarship or transfer credit, graduation requirements or personal desire for a specific grade DO NOT appear in the above calculations, and thus are not considered in any way in the determination of your course grade. Effort, improvement, class attendance and participation will all dramatically improve your grade in the course in that they will allow you to do well on quizzes, exams, and the final exam. They will NOT, however, actively participate in the calculation of your course grade. 
+
 
 **Gradescope:** Exam grading will be done using an online tool called [Gradescope][GS]. Exams will be scanned and uploaded to Gradescope and will be graded within it. As a consequence, exams will not be returned to the students. Instead, a digital version of your exams will be made available after the grading has been completed. An email will be sent from Gradescope when the exams are made available.  
 
