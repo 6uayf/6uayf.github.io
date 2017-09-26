@@ -42,12 +42,13 @@ mathjax: true  
 
 <http://www.math.ucsd.edu/~math20d/>
 
-There will be MATLAB tutors available in B432 to help you with your assignments.
-MATLAB Quiz:   There will be a MATLAB quiz given at the end of the quarter. The quiz will be held during your scheduled MATLAB time in AP&M B432. If you are unable to make the scheduled time, you will be able to schedule an alternate time online. The MATLAB Quiz can be used to replace one MATLAB assignment.
+There will be MATLAB tutors available in B432 to help you with your assignments.  
 
-TritonEd Quizzes:  There will be FOUR quizzes that you will take through TritonEd. The first of these is a Syllabus Quiz (due on the Friday of Week 2). The remaining TritonEd Quizzes are actually surveys are your score is based on completion. They are only called quizzes to make it clear that they are required. The quizzes are:
+*MATLAB Quiz:*   There will be a MATLAB quiz given at the end of the quarter. The quiz will be held during your scheduled MATLAB time in AP&M B432. If you are unable to make the scheduled time, you will be able to schedule an alternate time online. The MATLAB Quiz can be used to replace one MATLAB assignment.
 
-Syllabus Quiz: A multiple choice quiz based on the syllabus.
+*TritonEd Quizzes:*  There will be FOUR quizzes that you will take through TritonEd. The first of these is a Syllabus Quiz (due on the Friday of Week 2). The remaining TritonEd Quizzes are actually surveys are your score is based on completion. They are only called quizzes to make it clear that they are required. The quizzes are:
+
+*Syllabus Quiz:* A multiple choice quiz based on the syllabus.
 Start of Quarter Survey:
 Mid-Quarter Survey:
 End of Quarter Survey:
