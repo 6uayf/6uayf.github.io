@@ -33,7 +33,7 @@ mathjax: true  
   Elementary Differential Equations (11th Edition) by Boyce and DiPrima.  
   Notes on Diffy Qs: Differential Equations for Engineers (version 5.1, March 21st 2017) by Jiri Lebl  
 
-**Material Covered:  We shall cover parts of chapters 2, 3, 5, 6, and 7 of the Boyce and DiPrima text. These correspond to chapters 1, 2, 3, 6, and 7 in the Lebl text. A list of topics scheduled to be covered each day can be found on the  Course Calendar.
+**Material Covered:**  We shall cover parts of chapters 2, 3, 5, 6, and 7 of the Boyce and DiPrima text. These correspond to chapters 1, 2, 3, 6, and 7 in the Lebl text. A list of topics scheduled to be covered each day can be found on the  Course Calendar.
 
 
 **Lecture:** Attending the lecture is a fundamental part of the course; you are responsible for all material presented in the lecture whether or not it is discussed in the textbook. You should expect questions on the exams that will test your understanding of concepts discussed in the lecture.
