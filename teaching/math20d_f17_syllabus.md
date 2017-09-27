@@ -65,39 +65,36 @@ End of Quarter Survey:
 
 **Grading:** Your course grade will be determined by your cumulative average at the end of the term and will be based on the following scale:  
 
-|A+   | A   |A-   |B+	  |B	|B-   |C+   |C	  |C-	|D    |  
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
-|97   |93   |90   |87   |83	|80   |77   |73   |70	|60   |  
-			<center>        
-			<table class="grades" border="1" cellspacing="0" cellpadding="0">
-			<tbody>
-			<tr>
-			<td><b>A+</b></td>
-			<td><b>A</b></td>
-			<td><b>A-</b></td>
-			<td><b>B+</b></td>
-			<td><b>B</b></td>
-			<td><b>B-</b></td>
-			<td><b>C+</b></td>
-			<td><b>C</b></td>
-			<td><b>C-</b></td>
-			<td><b>D</b></td>
-			</tr>
-			<tr>
-			<td><b>97</b></td>
-			<td><b>93</b></td>
-			<td><b>90</b></td>
-			<td><b>87</b></td>
-			<td><b>83</b></td>
-			<td><b>80</b></td>
-			<td><b>77</b></td>
-			<td><b>73</b></td>
-			<td><b>70</b></td>
-			<td><b>60</b></td>
-			</tr>
-			</tbody>
-			</table>
-			</center>
+<center>        
+<table class="grades" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><b>A+</b></td>
+<td><b>A</b></td>
+<td><b>A-</b></td>
+<td><b>B+</b></td>
+<td><b>B</b></td>
+<td><b>B-</b></td>
+<td><b>C+</b></td>
+<td><b>C</b></td>
+<td><b>C-</b></td>
+<td><b>D</b></td>
+</tr>
+<tr>
+<td><b>97</b></td>
+<td><b>93</b></td>
+<td><b>90</b></td>
+<td><b>87</b></td>
+<td><b>83</b></td>
+<td><b>80</b></td>
+<td><b>77</b></td>
+<td><b>73</b></td>
+<td><b>70</b></td>
+<td><b>60</b></td>
+</tr>
+</tbody>
+</table>
+</center>
 
 
 
