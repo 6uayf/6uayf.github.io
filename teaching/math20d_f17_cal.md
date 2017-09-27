@@ -1,10 +1,12 @@
 
----
+---  
+
 title: Math 20D Introduction to Differential Equations - Lecture D00 - Fall 2017
 layout: longy
 blur: |
 
 ---  
+
 #### Math 20D Introduction to Differential Equations - Fall 2017  
   Links: [Home][math20dHome]    [Syllabus][math20dSyl]    [Homework][math20dHW]    [Calendar][math20dCal]
     
