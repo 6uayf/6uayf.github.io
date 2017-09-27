@@ -68,6 +68,37 @@ End of Quarter Survey:
 |A+   | A   |A-   |B+	  |B	|B-   |C+   |C	  |C-	|D    |  
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
 |97   |93   |90   |87   |83	|80   |77   |73   |70	|60   |  
+			<center>        
+			<table class="grades" border="1" cellspacing="0" cellpadding="0">
+			<tbody>
+			<tr>
+			<td><b>A+</b></td>
+			<td><b>A</b></td>
+			<td><b>A-</b></td>
+			<td><b>B+</b></td>
+			<td><b>B</b></td>
+			<td><b>B-</b></td>
+			<td><b>C+</b></td>
+			<td><b>C</b></td>
+			<td><b>C-</b></td>
+			<td><b>D</b></td>
+			</tr>
+			<tr>
+			<td><b>97</b></td>
+			<td><b>93</b></td>
+			<td><b>90</b></td>
+			<td><b>87</b></td>
+			<td><b>83</b></td>
+			<td><b>80</b></td>
+			<td><b>77</b></td>
+			<td><b>73</b></td>
+			<td><b>70</b></td>
+			<td><b>60</b></td>
+			</tr>
+			</tbody>
+			</table>
+			</center>
+
 
 
 I may adjust the scale to be more lenient, but guarantee that the grade corresponding to a given percentage will not be lower than specified by the above scale. Your cumulative average will be the best of the following two weighted averages:  
