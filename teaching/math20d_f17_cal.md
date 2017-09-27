@@ -189,9 +189,9 @@ Note: This calendar is subject to revision during the term. The section referenc
 <tr>
     <td align="center">11</td>
     <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 11</small></b></td>
-    <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 12</small></b></td>
-    <div align="left"><small>Final Exam<br>3:00-5:59pm<br>&nbsp;</small></div></td>
-    <td valign="top" bgcolor="#FFCC99"><b><small>Dec 13</small></b>
+    <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 12</small></b>
+    	<div align="left"><small>Final Exam<br>3:00-5:59pm<br>&nbsp;</small></div></td>
+	<td valign="top" bgcolor="#FFCC99"><b><small>Dec 13</small></b></td>
     <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 14</small></b></td>
     <td valign="top" bgcolor="#E8E8E8"><b><small>Dec 15</small></b></td>
 </tr>  
