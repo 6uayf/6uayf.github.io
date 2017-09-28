@@ -100,8 +100,8 @@ End of Quarter Survey:
 
 I may adjust the scale to be more lenient, but guarantee that the grade corresponding to a given percentage will not be lower than specified by the above scale. Your cumulative average will be the best of the following two weighted averages:  
 
-* 10% HW,   8% MATLAB,   2% Quizzes,   20% Midterm 1,   20% Midterm 2,   40% Final Exam
-* 10% HW,   8% MATLAB,   2% Quizzes,   20% Best Midterm Exam,   60% Final Exam  
+* 8% HW,   8% MATLAB,   4% Quizzes,   20% Midterm 1,   20% Midterm 2,   40% Final Exam
+* 8% HW,   8% MATLAB,   4% Quizzes,   20% Best Midterm Exam,   60% Final Exam  
 
 You must pass the final examination in order to pass the course. Note: Since *there are no makeup exams*, if you miss an exam for any reason then your course grade will be computed with the final exam counting 60% of your weighted average.  
 
