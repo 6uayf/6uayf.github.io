@@ -82,7 +82,7 @@ Note: This calendar is subject to revision during the term. The section referenc
     <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 16</small></b>
         <div align="left"><small>3.2 <br>Solutions to Linear<br>Homogeneous Eqns</small></div></td>
     <td valign="top" bgcolor="#ffffe0"><b><small>Oct 17</small></b>
-		<div align="left"><small>Discussion</small></div></td>
+		<div align="left"><small>Discussion<br>Quiz</small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 18</small></b>
         <div align="left"><small>3.3 <br>Complex Roots</small></div></td>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>Oct 19</small></b>
@@ -124,7 +124,7 @@ Note: This calendar is subject to revision during the term. The section referenc
     <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 6</small></b>
         <div align="left"><small>7.3 <br>Eigenvalues</small></div></td>
     <td valign="top" bgcolor="#ffffe0"><b><small>Nov 7</small></b>
-		<div align="left"><small>Discussion</small></div></td>
+		<div align="left"><small>Discussion<br>Quiz</small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 8</small></b>
         <div align="left"><small>7.4 <br>Theory of Systems</small></div></td>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>Nov 9</small></b>
@@ -138,7 +138,7 @@ Note: This calendar is subject to revision during the term. The section referenc
     <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 13</small></b>
         <div align="left"><small>7.5 <br>Real Eigenvalues<br></small></div></td>
     <td valign="top" bgcolor="#ffffe0"><b><small>Nov 14</small></b>
-		<div align="left"><small>Discussion</small></div></td>
+		<div align="left"><small>Discussion<br>Quiz</small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Nov 15</small></b>
 		<div align="left"><small>7.6 <br>Complex Eigenvalues</small></div></td>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>Nov 16</small></b>
@@ -180,7 +180,7 @@ Note: This calendar is subject to revision during the term. The section referenc
     <td valign="top" bgcolor="#d0ffd0"><small><b>Dec 4</b></small>
         <div align="left"><small>6.4 <br>Forcing Functions</small></div></td>
     <td valign="top" bgcolor="#ffffe0"><b><small>Dec 5</small></b>
-		<div align="left"><small>Discussion</small></div></td>
+		<div align="left"><small>Discussion<br>Quiz</small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Dec 6</small></b>
         <div align="left"><small>6.5 <br>Impulse Functions</small></div></td>
 	<td valign="top" bgcolor="#ffffc0"><b><small>Dec 7</small></b>
