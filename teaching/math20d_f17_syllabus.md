@@ -46,20 +46,29 @@ There will be MATLAB tutors available in B432 to help you with your assignments.
 
 *MATLAB Quiz:*   There will be a MATLAB quiz given at the end of the quarter. The quiz will be held during your scheduled MATLAB time in AP&M B432. If you are unable to make the scheduled time, you will be able to schedule an alternate time online. The MATLAB Quiz can be used to replace one MATLAB assignment.
 
-*TritonEd Quizzes:*  There will be FOUR quizzes that you will take through TritonEd. The first of these is a Syllabus Quiz (due on the Friday of Week 2). The remaining TritonEd Quizzes are actually surveys are your score is based on completion. They are only called quizzes to make it clear that they are required. The quizzes are:
+**Quizzes:** There will be 4 quizzes during discussion sessions (see [Calendar][cal] for the dates). I will drop the lowest one.
 
-*Syllabus Quiz:* A multiple choice quiz based on the syllabus.
-Start of Quarter Survey:
-Mid-Quarter Survey:
-End of Quarter Survey:
+[cal]:http://thanghuynh.org/teaching/math20d_f17_cal.html
 
-**Homework:** 
+**Homework:** Homework is a very important part of the course and in order to fully master the topics it is essential that you work carefully on every assignment and try your best to complete every problem. You have to submit online homework through WileyPLUS (Login Triton -> click on Tools --> click on WileyPlus). Click [here][hw] to read more information.    
+
+Homework may not be submitted late. No homework scores will be dropped at the end of the quarter.
+Homework due dates are chosen to help students keep to the pace of the course and stay current with the topics covered in the lectures. The "No late homework" policy is designed to encourage students to complete homework assignments on time and reward those who do.
+
+[hw]: http://thanghuynh.org/teaching/math20d_f17_hw.html
   
 
+**Exams:** There will be two midterm exams and a final exam. Check the  [Course Calendar][cal]  for the exact dates of the midterm and final exams. You may use one 8.5 x 11 inch page of handwritten notes. (Both sides are okay, but no photocopies are allowed.) You may not use any other notes or any electronic devices. Please bring your student ID to the exams.  
 
-**Midterm Exams:** 
+  You may bring ONE 8.5 x 11 inch sheet of handwritten notes. You may use both sides. (No photocopies!) . 
+  No calculators will be allowed during the examinations.  
+  We will not be using Blue Books for exams this quarter.  
 
-**Final Exam:** 
+[cal]:http://thanghuynh.org/teaching/math20d_f17_cal.html
+
+**Final Exam:** It is your responsibility to ensure that you do not have a schedule conflict involving the final examination.
+You should not enroll in this class if you cannot sit for the final examination at its scheduled time. You must pass the final exam ( >59% ) in order to pass the class. (The actual required percentage may be lowered, depending on overall class performance.)
+
 
 **Make-up Exams:**  Make-up exams will not be given. If you miss a midterm exam for any reason, then your course grade will be computed using Method 2. (See below.)
 
@@ -100,8 +109,8 @@ End of Quarter Survey:
 
 I may adjust the scale to be more lenient, but guarantee that the grade corresponding to a given percentage will not be lower than specified by the above scale. Your cumulative average will be the best of the following two weighted averages:  
 
-* 8% HW,   8% MATLAB,   4% Quizzes,   20% Midterm 1,   20% Midterm 2,   40% Final Exam
-* 8% HW,   8% MATLAB,   4% Quizzes,   20% Best Midterm Exam,   60% Final Exam  
+* 6% HW,   8% MATLAB,   6% Quizzes,   20% Midterm 1,   20% Midterm 2,   40% Final Exam
+* 6% HW,   8% MATLAB,   6% Quizzes,   20% Best Midterm Exam,   60% Final Exam  
 
 You must pass the final examination in order to pass the course. Note: Since *there are no makeup exams*, if you miss an exam for any reason then your course grade will be computed with the final exam counting 60% of your weighted average.  
 
