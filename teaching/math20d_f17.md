@@ -41,7 +41,7 @@ blur: |
  <tr>
   <td width="400" valign="top" style="width:2.5in;border:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"> TBA<br> Sections:  <br> </p>
+  <p class="MsoNormal" align="center" style="text-align:center">Alvaro Ruiz Martinez<br> aruizmar(-at-)eng.ucsd.edu <br> Sections:  D07 and D08<br> Time: Thursday, 5pm-7pm <br> Location: AP&M 6414 </p>
   </td>
     <td width="400" valign="top" style="width:2.5in;border:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt">
