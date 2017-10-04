@@ -45,7 +45,7 @@ blur: |
   </td>
     <td width="400" valign="top" style="width:2.5in;border:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"> Satish Matti <br> skmatti(-at-)eng.ucsd.edu <br> Sections:<br>
+  <p class="MsoNormal" align="center" style="text-align:center"> Satish Matti <br> skmatti(-at-)eng.ucsd.edu <br> Sections: D03-D06 <br> Time: Friday, 10am-12pm <br> Location: Mayer 5722 <br> Matlab Office Hours: Friday, 12pm-2pm <br> Location: AP&M B432
   </p>
   </td>
 
