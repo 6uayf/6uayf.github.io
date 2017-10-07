@@ -63,13 +63,18 @@ blur: |
 
 #### Announcements:
 
-  * Welcome to Math 20D Lecture D00
+  [Leture 1][ln1] is posted (Oct 6).
+  Welcome to Math 20D Lecture D00
+
+[ln1]:http://thanghuynh.org/teaching/Math20D_Lecture1_Oct6.pdf  
 
 ---
 
 #### Homework and Exams  
 
-Will be updated.
+  [Homework][math20dHW].
+  
+  [math20dHW]:http://thanghuynh.org/teaching/math20d_f17_hw.html 
 
 ---
 
