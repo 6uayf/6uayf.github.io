@@ -34,28 +34,9 @@ blur: |
 
 #### Teaching Assistants:  
 
-<center>
-<table width="800" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
- border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt">
- <tbody>
- <tr>
-  <td width="400" valign="top" style="width:2.5in;border:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center">Alvaro Ruiz Martinez<br> aruizmar(-at-)eng.ucsd.edu <br> Sections:  D07 and D08<br> Time: Thursday, 5pm-7pm <br> Location: AP&M 6414 </p>
-  </td>
-    <td width="400" valign="top" style="width:2.5in;border:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"> Satish Matti <br> skmatti(-at-)eng.ucsd.edu <br> Sections: D03-D06 <br> Time: Friday, 10am-12pm <br> Location: Mayer 5722 <br> Matlab Office Hours: Friday, 12pm-2pm <br> Location: AP&M B432
-  </p>
-  </td>
-
- </tr>
-
-
-</tbody>
-</table>
-
-</center>
+  **Satish Matti:** Friday, 10am-12pm at Mayer 5722, and Matlab Office Hours: Friday, 12pm-2pm at AP&M B432. Email: skmatti(-at-)eng.ucsd.edu  
+  **Alvaro Ruiz Martinez:** Tuesdays, 7-7:50 pm, AP&M 6414, and Matlab Office Hours: Thursdays, 12-12:50 pm, AP&M B432. Email: aruizmar(-at-)eng.ucsd.edu  
+  **Parth Shah:** Wednesday 2pm-3pm (AP&M 2313). Email: pss002(-at-)ucsd.edu  
 
 
 
