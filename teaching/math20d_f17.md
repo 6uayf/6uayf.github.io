@@ -56,7 +56,9 @@ blur: |
 
 #### Homework and Exams  
 
-  [Homework][math20dHW].
+  * Sample Exams for Midterm 1:  
+  * Midterm 1: Sections 2.2, 2.1, 2.4, 2.5, 2.6, 3.1, and 3.2.  
+  * [Homework][math20dHW].
   
   [math20dHW]:http://thanghuynh.org/teaching/math20d_f17_hw.html 
 
