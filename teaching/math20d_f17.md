@@ -44,6 +44,7 @@ blur: |
 
 #### Announcements:
 
+  * [Lecture 3][ln3] is posted (Sections 3.2, 3.3)
   * [Sample Examp Solution][sampl1sol]  
   * [Quiz 1 Solution][quiz1sol]
   * [Lecture 2][ln2] is posted (Sections 2.5, 2.6, 3.1)  
@@ -51,6 +52,7 @@ blur: |
   * [Lecture 1][ln1] is posted (Oct 6).
   * Welcome to Math 20D Lecture D00
 
+[ln3]:http://thanghuynh.org/teaching/Math20D_Lecture3_Oct20.pdf
 [sampl1sol]:http://thanghuynh.org/teaching/Sample_1_Solution.pdf
 [quiz1sol]:http://thanghuynh.org/teaching/Quiz1_D3-6.pdf
 [ln2]:http://thanghuynh.org/teaching/Math20D_Lecture2_Oct13.pdf
