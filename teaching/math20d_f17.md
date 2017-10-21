@@ -44,11 +44,15 @@ blur: |
 
 #### Announcements:
 
-  * [Lecture 2][ln2] is posted (Sections 2.5, 2.6, 3.1)  
+  * [Sample Examp Solution][sampl1sol]
+  * [Quiz 1 Solution][quiz1sol]
+  * [Lecture 2][ln2] is posted (Sections 2.5, 2.6, 3.1)  
   * Quiz 1: Tuesday Oct 17 (covered Sections 2.1, 2.2, 2.4, 2.5).   
   * [Lecture 1][ln1] is posted (Oct 6).
   * Welcome to Math 20D Lecture D00
 
+[sampl1sol]:http://thanghuynh.org/teaching/Sample_1_Solution.pdf
+[quiz1sol]:http://thanghuynh.org/teaching/Quiz1_D3-6.pdf
 [ln2]:http://thanghuynh.org/teaching/Math20D_Lecture2_Oct13.pdf
 [ln1]:http://thanghuynh.org/teaching/Math20D_Lecture1_Oct6.pdf  
 
