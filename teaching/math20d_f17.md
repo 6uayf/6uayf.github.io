@@ -45,8 +45,8 @@ blur: |
 #### Announcements:
 
   * [Sample Examp Solution][sampl1sol]  
-  * [Quiz 1 Solution][quiz1sol]  
-  * [Lecture 2][ln2] is posted (Sections 2.5, 2.6, 3.1)  
+  * [Quiz 1 Solution][quiz1sol]
+  * [Lecture 2][ln2] is posted (Sections 2.5, 2.6, 3.1)  
   * Quiz 1: Tuesday Oct 17 (covered Sections 2.1, 2.2, 2.4, 2.5).   
   * [Lecture 1][ln1] is posted (Oct 6).
   * Welcome to Math 20D Lecture D00
