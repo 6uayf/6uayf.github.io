@@ -61,25 +61,21 @@ Guidelines for submission through WileyPLUS: You have only THREE attempts for ea
 
 *Sections* 7.1, 7.2
 
-**Comments:**  Read Sections 1 and 2 in the Math 20D Supplement. These are based on Sections 7.1 and 7.2 in the textbook, but restricted to the 2x2 matrix case.
 
 ##### Homework 6     (Online HW Due Tuesday, Nov 14)  
 
 *Sections* 7.3, 7.4
 
-**Comments:**  Read Sections 3 and 4 in the Math 20D Supplement. These are based on Sections 7.3 and 7.4 in the textbook, but restricted to the 2x2 matrix case.
 
 ##### Homework 7     (Online HW Due Tuesday, Nov 21)
 
 *Sections* 7.5, 7.6
 
-**Comments:**  Read Sections 5 and 6 in the Math 20D Supplement. These are based on Sections 7.5 and 7.6 in the textbook, but restricted to the 2x2 matrix case. We will not cover Section 7.7, which applies to matrices larger than 2x2.
 
 ##### Homework 8     (Online HW Due Tuesday, Nov 28)  
 
 *Sections* 7.8, 5.1, 5.2
 
-**Comments:**  (1) Read Section 8 in the Math 20D Supplement. This is based on Section 7.8 in the textbook, but restricted to the 2x2 matrix case.  (2) Section 5.1 is a review of power series. Since this was covered in Math 20B, which is a prerequisite for this course, we will not discuss 5.1 explicitly in class. You are, however, expected to know this material, and so you should read it before we discuss Section 5.2 in class.
 
 ##### Homework 9     (Online HW Due Tuesday, Dec 5)  
 
