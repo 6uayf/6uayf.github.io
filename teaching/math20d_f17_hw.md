@@ -53,13 +53,13 @@ Guidelines for submission through WileyPLUS: You have only THREE attempts for ea
 
 ##### Homework 4     (Online HW Due Tuesday, Oct 31)
 
-*Sections* 3.4, 3.5, 3.6
+*Sections* 3.4, 3.5
 
 **Comments:**  Pay special attention to Table 3.5.1. We likely will not have time to deal with each case in class.
 
 ##### Homework 5     (Online HW Due Tuesday, Nov 7)
 
-*Sections* 7.1, 7.2
+*Sections* 3.6, 7.1, 7.2
 
 
 ##### Homework 6     (Online HW Due Tuesday, Nov 14)  
