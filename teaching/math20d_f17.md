@@ -44,7 +44,7 @@ blur: |
 
 #### Announcements:  
   
-  
+  * [Lecture 4][ln4] is posted (Sections 3.4, 3.5, 3.6, 7.1, 7.2)  
   * [Offline HW5][HW5]  
   * [Offline HW4][HW4]   
   * [Complex Supplement][complex]     
@@ -56,7 +56,8 @@ blur: |
   * [Lecture 1][ln1] is posted (Oct 6).
   * Welcome to Math 20D Lecture D00  
 
-[HW5]:http://thanghuynh.org/teaching/Math_20D_HW5.pdf
+[ln4]:http://thanghuynh.org/teaching/Math20D_Lecture4_Nov1.pdf  
+[HW5]:http://thanghuynh.org/teaching/Math_20D_HW5.pdf  
 [HW4]:http://thanghuynh.org/teaching/Math_20D_HW4.pdf
 [complex]:http://thanghuynh.org/teaching/20b_student_supplement.pdf
 [ln3]:http://thanghuynh.org/teaching/Math20D_Lecture3_Oct20.pdf
