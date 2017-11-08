@@ -58,9 +58,9 @@ blur: |
   * Welcome to Math 20D Lecture D00  
 
 
-[HW6]:http://thanghuynh.org/teaching/Math_20D_HW6.pdf  
-[ln4]:http://thanghuynh.org/teaching/Math20D_Lecture4_Nov1.pdf  
-[HW5]:http://thanghuynh.org/teaching/Math_20D_HW5.pdf  
+[HW6]:http://thanghuynh.org/teaching/Math_20D_HW6.pdf
+[ln4]:http://thanghuynh.org/teaching/Math20D_Lecture4_Nov1.pdf
+[HW5]:http://thanghuynh.org/teaching/Math_20D_HW5.pdf
 [HW4]:http://thanghuynh.org/teaching/Math_20D_HW4.pdf
 [complex]:http://thanghuynh.org/teaching/20b_student_supplement.pdf
 [ln3]:http://thanghuynh.org/teaching/Math20D_Lecture3_Oct20.pdf
