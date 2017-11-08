@@ -43,6 +43,32 @@ blur: |
 --- 
 
 #### Announcements:  
+
+  * [Offline HW6][HW6]  
+  * [Lecture 4][ln4] is posted (Sections 3.4, 3.5, 3.6, 7.1, 7.2)  
+  * [Offline HW5][HW5]  
+  * [Offline HW4][HW4]   
+  * [Complex Supplement][complex]     
+  * [Lecture 3][ln3] is posted (Sections 3.2, 3.3)   
+  * [Sample Examp Solution][sampl1sol]  
+  * [Quiz 1 Solution][quiz1sol]  
+  * [Lecture 2][ln2] is posted (Sections 2.5, 2.6, 3.1)  
+  * Quiz 1: Tuesday Oct 17 (covered Sections 2.1, 2.2, 2.4, 2.5).   
+  * [Lecture 1][ln1] is posted (Oct 6).  
+  * Welcome to Math 20D Lecture D00  
+
+
+[HW6]:http://thanghuynh.org/teaching/Math_20D_HW6.pdf  
+[ln4]:http://thanghuynh.org/teaching/Math20D_Lecture4_Nov1.pdf  
+[HW5]:http://thanghuynh.org/teaching/Math_20D_HW5.pdf  
+[HW4]:http://thanghuynh.org/teaching/Math_20D_HW4.pdf
+[complex]:http://thanghuynh.org/teaching/20b_student_supplement.pdf
+[ln3]:http://thanghuynh.org/teaching/Math20D_Lecture3_Oct20.pdf
+[sampl1sol]:http://thanghuynh.org/teaching/Sample_1_Solution.pdf
+[quiz1sol]:http://thanghuynh.org/teaching/Quiz1_D3-6.pdf
+[ln2]:http://thanghuynh.org/teaching/Math20D_Lecture2_Oct13.pdf
+[ln1]:http://thanghuynh.org/teaching/Math20D_Lecture1_Oct6.pdf  
+
   
 ---
 
