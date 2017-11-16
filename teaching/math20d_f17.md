@@ -76,6 +76,7 @@ blur: |
 
 #### Homework and Exams  
 
+  * Midterm 2: Chapter 3: 3.3, 3.4, 3.5, 3.6, (also 3.1, 3.2). Chapter 7:  7.1, 7.2, 7.3, 7.4, 7.5
   * Sample Exam for Midterm 1:  [Sample 1][sample1] 
   * Midterm 1: Sections 2.2, 2.1, 2.4, 2.5, 2.6, 3.1, and 3.2.  
   * [Homework][math20dHW].
