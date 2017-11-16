@@ -67,21 +67,15 @@ Guidelines for submission through WileyPLUS: You have only THREE attempts for ea
 *Sections* 7.3, 7.4
 
 
-##### Homework 7     (Online HW Due Tuesday, Nov 21)
+##### Homework 7     (Online HW Due Tuesday, Nov 28)
 
-*Sections* 7.5, 7.6
+*Sections* 7.5, 7.6, 7.8, 5.1, 5.2
 
-
-##### Homework 8     (Online HW Due Tuesday, Nov 28)  
-
-*Sections* 7.8, 5.1, 5.2
-
-
-##### Homework 9     (Online HW Due Tuesday, Dec 5)  
+##### Homework 8     (Online HW Due Tuesday, Dec 5)  
 
 *Sections* 6.1, 6.2, 6.3
 
-##### Homework 10     (No due date—No homework is due during Final Exam Week)  
+##### Homework 9     (No due date—No homework is due during Final Exam Week)  
 
 *Sections* 6.4, 6.5, 6.6
 
