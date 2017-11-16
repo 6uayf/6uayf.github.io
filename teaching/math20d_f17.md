@@ -44,8 +44,8 @@ blur: |
 
 #### Announcements:  
 
-  * [Offline HW7][HW7] 
-  * [Offline HW6][HW6]  
+  * [Offline HW7][HW7]
+  * [Offline HW6][HW6]
   * [Lecture 4][ln4] is posted (Sections 3.4, 3.5, 3.6, 7.1, 7.2)  
   * [Offline HW5][HW5]  
   * [Offline HW4][HW4]   
