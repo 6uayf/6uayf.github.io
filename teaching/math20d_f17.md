@@ -78,11 +78,16 @@ blur: |
 
 #### Homework and Exams  
 
+  * Old Final Exams: [Fall 2008][2008], [Fall 2011][2011], [Fall 2016][2016], [Spring 2017][2017]
   * Midterm 2: Chapter 3: 3.3, 3.4, 3.5, 3.6, (also 3.1, 3.2). Chapter 7:  7.1, 7.2, 7.3, 7.4, 7.5
   * Sample Exam for Midterm 1:  [Sample 1][sample1] 
   * Midterm 1: Sections 2.2, 2.1, 2.4, 2.5, 2.6, 3.1, and 3.2.  
   * [Homework][math20dHW].
   
+  [2008]:http://thanghuynh.org/teaching/Math20D_Old_Exam_2008.pdf
+  [2011]:http://thanghuynh.org/teaching/Math20D_Old_Exam_2011.pdf
+  [2016]:http://thanghuynh.org/teaching/Math20D_Old_Exam_2016.pdf
+  [2017]:http://thanghuynh.org/teaching/Math20D_Old_Exam_2017.pdf
   [sample1]:http://thanghuynh.org/teaching/Math20D_Sample_Exam1_B.pdf
   [math20dHW]:http://thanghuynh.org/teaching/math20d_f17_hw.html 
 
