@@ -44,10 +44,10 @@ blur: |
 
 #### Announcements:  
 
-  * [Lecture 6][ln6] is posted (Sections 7.8, 5.1, 5.2, 6.1, 6.2, 6.3, 6.4) 
+  * [Lecture 6][ln6] is posted (Sections 7.8, 5.1, 5.2, 6.1, 6.2, 6.3, 6.4)  
   * [Lecture 5][ln5] is posted (Sections 7.3, 7.4, 7.5, 7.6)  
-  * [Offline HW7][HW7]
-  * [Offline HW6][HW6]
+  * [Offline HW7][HW7]  
+  * [Offline HW6][HW6]  
   * [Lecture 4][ln4] is posted (Sections 3.4, 3.5, 3.6, 7.1, 7.2)  
   * [Offline HW5][HW5]  
   * [Offline HW4][HW4]   
