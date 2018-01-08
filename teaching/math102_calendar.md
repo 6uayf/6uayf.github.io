@@ -42,7 +42,7 @@ Note: This calendar is subject to revision during the term. The section referenc
     <td valign="top" bgcolor="#ffffe0"><b><small>Jan 09</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 10</small></b>
-        <div align="left"><small>1.3-1.4 <br></small></td>
+        <div align="left"><small>1.3-1.4 <br></small>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>Jan 11</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 12</small></b>
@@ -56,39 +56,39 @@ Note: This calendar is subject to revision during the term. The section referenc
     <td valign="top" bgcolor="#ffffe0"><b><small>Jan 16</small></b>
 		<div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 17</small></b>
-        <div align="left"><small>2.6 <br>Exact Equations</small></div></td>
+        <div align="left"><small>1.6 <br>Homework 1 due</small></div></td>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>Jan 18</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 19</small></b>
-        <div align="left"><small>3.1 <br>Homogeneous Eqns</small></div></td>
+        <div align="left"><small>1.6-2.1 <br></small></div></td>
 </tr>
 
 <tr>
     <td align="center">3<br></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 16</small></b>
-        <div align="left"><small>3.2 <br>Solutions to Linear<br>Homogeneous Eqns</small></div></td>
-    <td valign="top" bgcolor="#ffffe0"><b><small>Oct 17</small></b>
-		<div align="left"><small>Discussion<br>Quiz</small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 18</small></b>
-        <div align="left"><small>3.3 <br>Complex Roots</small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Oct 19</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 22</small></b>
+        <div align="left"><small>2.1-2.2 <br></small></div></td>
+    <td valign="top" bgcolor="#ffffe0"><b><small>Jan 23</small></b>
+		<div align="left"><small>Discussion<br></small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 24</small></b>
+        <div align="left"><small>2.2 <br>Homework 2 due</small></div></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Jan 25</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 20</small></b>
-        <div align="left"><small>3.4 <br>Repeated Roots</small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 26</small></b>
+        <div align="left"><small>2.3 <br></small></div></td>
 </tr>
 
 <tr>
     <td align="center">4<br></td>
-    <td valign="top" bgcolor="#FFCC99"><b><small>Oct 23</small></b>
-        <div align="left"><small>Exam 1<br>(Oct 2 - Oct 18)</small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Oct 24</small></b>
-		<div align="left"><small>No Discussion</small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 25</small></b>
-        <div align="left"><small>3.4 <br>Reduction of Order</small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Oct 26</small></b>
+    <td valign="top" bgcolor="#FFCC99"><b><small>Jan 29</small></b>
+        <div align="left"><small>2.4<br></small></div></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Jan 30</small></b>
+		<div align="left"><small>Discussion</small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 31</small></b>
+        <div align="left"><small>2.4-2.6 <br>Homework 3 due</small></div></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Feb 01</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 27</small></b>
-		<div align="left"><small>3.5 <br>Undetermined Coeffs</small></div></td>
+    <td valign="top" bgcolor="#FFCC99"><b><small>Feb 02</small></b>
+		<div align="left"><small>Exam 1 <br>Last day to drop w/o W</small></div></td>
 </tr>
 
 <tr>
