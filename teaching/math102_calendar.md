@@ -51,15 +51,15 @@ Note: This calendar is subject to revision during the term. The section referenc
 
 <tr>
     <td align="center">2<br></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 9</small></b>
-        <div align="left"><small>2.5 <br>Autonomous Eqns</small></div></td>
-    <td valign="top" bgcolor="#ffffe0"><b><small>Oct 10</small></b>
+    <td valign="top" bgcolor="#66ffff"><b><small>Jan 15</small></b>
+        <div align="left"><small>Martin Luther King, Jr. <br>Holiday</small></div></td>
+    <td valign="top" bgcolor="#ffffe0"><b><small>Jan 16</small></b>
 		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 11</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 17</small></b>
         <div align="left"><small>2.6 <br>Exact Equations</small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Oct 12</small></b>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Jan 18</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 13</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 19</small></b>
         <div align="left"><small>3.1 <br>Homogeneous Eqns</small></div></td>
 </tr>
 
