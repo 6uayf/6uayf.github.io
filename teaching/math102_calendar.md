@@ -169,7 +169,7 @@ Note: This calendar is subject to revision during the term. The section referenc
 		<div align="left"><small>Discussion<br>Quiz</small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 14</small></b>
         <div align="left"><small>6.2 <br>Homework 9 due</small></div></td>
-	<td valign="top" bgcolor="#ffffc0"><b><small>Mar 15</small></b>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Mar 15</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 16</small></b>
         <div align="left"><small>6.3 <br></small></div></td>
@@ -177,7 +177,7 @@ Note: This calendar is subject to revision during the term. The section referenc
 
 <tr>
     <td align="center">11</td>
-    <td valign="top" bgcolor="#E8E8E8"><b><small>Mar 19</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 19</small></b>
 	    <div align="left"><small>Homework 10 due</small></div></td>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>Mar 20</small></b></td>
     <td valign="top" bgcolor="#FFCC99"><b><small>Mar 21</small></b>
