@@ -58,24 +58,21 @@ assignments on time and reward those who do.
 
 [hw]: http://thanghuynh.org/teaching/math102_hw.html
 
-**Gradescope:** All assignments will be turned in via Gradescope.com.
+**Gradescope:** All assignments will be turned in via [Gradescope][GS].  
 
-Your login is your university email, and your password can be changed here. The same link can be used if you need to originally set your password.
-Assignments should be in a single pdf file before being uploaded, or as a picture for each question.
-Hand written files can be scanned to be uploaded. High resolution is not required. However, make sure your files are legible before submitting.
-Most word processors can save files as a pdf.
-There are many tools to combine pdfs, such as here.
-All grading, including the midterms and final, will be done on Gradescope. Regrade requests can be sent via Gradescope.
-If you have not yet been added to the course, the Gradescope entry code is M4JBVM.
+  - Your login is your university email.
+  - Assignments should be in a single pdf file before being uploaded, or as a picture for each question.  
+  - Hand written files can be scanned to be uploaded. High resolution is not required. However, make sure your files are legible before submitting.  
+  - Most word processors can save files as a pdf.  
+  - All grading, including the midterms and final, will be done on Gradescope. Regrade requests can be sent via Gradescope.  
+  - If you have not yet been added to the course, the Gradescope entry code is 9X3K6N.
 
+[GS]:https://gradescope.com/
 
 **Exams:** There will be two midterm exams and a final exam. Check the  [Course Calendar][cal]  for the exact dates of the midterm and final exams. You may use one 8.5 x 11 inch page of handwritten notes. (Both sides are okay, but no photocopies are allowed.) You may not use any other notes or any electronic devices. Please bring your student ID to the exams.  
+We will not be using Blue Books for exams this quarter.  
 
-  You may bring ONE 8.5 x 11 inch sheet of handwritten notes. You may use both sides. (No photocopies!) . 
-  No calculators will be allowed during the examinations.  
-  We will not be using Blue Books for exams this quarter.  
-
-[cal]:http://thanghuynh.org/teaching/math20d_f17_cal.html
+[cal]:http://thanghuynh.org/teaching/math102_calendar.html
 
 **Final Exam:** It is your responsibility to ensure that you do not have a schedule conflict involving the final examination.
 You should not enroll in this class if you cannot sit for the final examination at its scheduled time. You must pass the final exam ( >59% ) in order to pass the class. (The actual required percentage may be lowered, depending on overall class performance.)
@@ -120,22 +117,21 @@ You should not enroll in this class if you cannot sit for the final examination 
 
 I may adjust the scale to be more lenient, but guarantee that the grade corresponding to a given percentage will not be lower than specified by the above scale. Your cumulative average will be the best of the following two weighted averages:  
 
-* 6% HW,   8% MATLAB,   6% Quizzes,   20% Midterm 1,   20% Midterm 2,   40% Final Exam
-* 6% HW,   8% MATLAB,   6% Quizzes,   20% Best Midterm Exam,   60% Final Exam  
+* 20% HW, 20% Midterm 1,   20% Midterm 2,   40% Final Exam
+* 20% HW, 20% Best Midterm Exam,   60% Final Exam  
 
 You must pass the final examination in order to pass the course. Note: Since *there are no makeup exams*, if you miss an exam for any reason then your course grade will be computed with the final exam counting 60% of your weighted average.  
-
-*Note on MATLAB grades:*  There are four labs. Each of these four is worth 2% of your grade (for 8% total). The MATLAB Quiz at the end of the quarter can be used to replace one MATLAB assignment. 
 
 **There will be no curve**, but we may adjust the scale to be more lenient (depending on the overall performance of the class). 
 
 Please notice that outside factors, including the need for a certain grade for admission/retention in any academic program, scholarship or transfer credit, graduation requirements or personal desire for a specific grade DO NOT appear in the above calculations, and thus are not considered in any way in the determination of your course grade. Effort, improvement, class attendance and participation will all dramatically improve your grade in the course in that they will allow you to do well on quizzes, exams, and the final exam. They will NOT, however, actively participate in the calculation of your course grade. 
 
-
-**Gradescope:** Exam grading will be done using an online tool called [Gradescope][GS]. Exams will be scanned and uploaded to Gradescope and will be graded within it. As a consequence, exams will not be returned to the students. Instead, a digital version of your exams will be made available after the grading has been completed. An email will be sent from Gradescope when the exams are made available.  
+Exam grading will also be done using [Gradescope][GS]. Exams will be scanned and uploaded to Gradescope and will be graded within it. As a consequence, exams will not be returned to the students. Instead, a digital version of your exams will be made available after the grading has been completed. An email will be sent from Gradescope when the exams are made available.  
 
 [GS]:https://gradescope.com/  
 
 **Regrades:** Regrade requests will be made using the built-in regrade request feature in Gradescope. There will be a limited window of time after the exams are made available during which the regrade request feature will be active. This time window will be announced when the exam scores are released to the students.
 
-**Academic Dishonesty:** Academic dishonesty is considered a serious offense at UCSD. Students caught cheating will face an administrative sanction which may include suspension or expulsion from the university. Click here for more information.
+**Academic Dishonesty:** Academic dishonesty is considered a serious offense at UCSD. Students caught cheating will face an administrative sanction which may include suspension or expulsion from the university. Click here for more information.  
+
+**Accomodations:** Students with special needs or disabilities must provide an Authorization for Accommodation (AFA) letter issued by the Office for Students with Disabilities (OSD) as soon as possible. Please call OSD at 858-534-4382 or visit http://disabilities.ucsd.edu for more information
