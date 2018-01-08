@@ -36,31 +36,17 @@ Note: This calendar is subject to revision during the term. The section referenc
 </tr>
 
 <tr>
-    <td align="center">0<br></td>
-    <td valign="top" bgcolor="#E8E8E8"><b><small>Sep 25</small></b>
-        <div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#E8E8E8"><b><small>Sep 26</small></b>
-		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#E8E8E8"><b><small>Sep 27</small></b>
-        <div align="left"><small></small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Sep 28</small></b>
-		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Sep 29</small></b>
-        <div align="left"><small>Ch. 1<br>Introduction</small></div></td>
-</tr>
-
-<tr>
     <td align="center">1<br></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 2</small></b>
-        <div align="left"><small>2.2 <br>Separable Equations</small></div></td>
-    <td valign="top" bgcolor="#ffffe0"><b><small>Oct 3</small></b>
-		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 4</small></b>
-        <div align="left"><small>2.1 <br>Linear Equations</small></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Oct 5</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 08</small></b>
+        <div align="left"><small>1.1-1.2 <br></small></div></td>
+    <td valign="top" bgcolor="#ffffe0"><b><small>Jan 09</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Oct 6</small></b>
-        <div align="left"><small>2.4 <br>Theory of DEs</small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 10</small></b>
+        <div align="left"><small>1.3-1.4 <br></small></td>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>Jan 11</small></b>
+		<div align="left"><small></small></div></td>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 12</small></b>
+        <div align="left"><small>1.4-1.5 <br></small></div></td>
 </tr>
 
 <tr>
