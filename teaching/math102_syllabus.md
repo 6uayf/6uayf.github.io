@@ -45,8 +45,7 @@ It will be expected that you read the assigned material in advance of each lectu
 **Calculators:** A graphing calculator (e.g., TI-83, TI-84, or TI-89) is recommended for homework assignments and as an aid in learning concepts. *The use of calculators will NOT be permitted during exams.*  
 
 **Homework:** Homework exercises will be assigned on Wednesdays on the course [homework][hw] page 
-and they are due on the subsequent Wednesday by midnight. 
-There will be about three problems that you will turn in each week. You have to submit online homework through Gradescope.
+and they are due on the subsequent Wednesday by midnight. You have to submit online homework through Gradescope.
 In addition, I will give more suggested problems. These will not be turned in, but you should to do them 
 if you want to succeed in the class. In particular, the graded problems will likely not be enough practice 
 to be able to do the required calculations quickly enough for a test.
