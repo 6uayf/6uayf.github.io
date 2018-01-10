@@ -12,6 +12,16 @@ mathjax: true  
    [math102HW]:http://thanghuynh.org/teaching/math102_hw.html  
    [math102Cal]:http://thanghuynh.org/teaching/math102_calendar.html
 
+**Gradescope:** All assignments will be turned in via Gradescope.
+
+  * Your login is your university email.  
+  * Assignments should be in a single pdf file before being uploaded, or as a picture for each question.  
+  * Hand written files can be scanned to be uploaded. High resolution is not required. However, make sure your files are legible before submitting.  
+  * Most word processors can save files as a pdf.  
+  * All grading, including the midterms and final, will be done on Gradescope. Regrade requests can be sent via Gradescope.  
+  * If you have not yet been added to the course, the Gradescope entry code is **9X3K6N**.
+
+
 --- 
 #### Turn-in Homework Assignments  
 
