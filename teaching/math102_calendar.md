@@ -181,7 +181,7 @@ Note: This calendar is subject to revision during the term. The section referenc
 	    <div align="left"><small>Homework 10 due</small></div></td>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>Mar 20</small></b></td>
     <td valign="top" bgcolor="#FFCC99"><b><small>Mar 21</small></b>
-	    <div align="left"><small>Final Exam <br>8:00-10:59pm</small></div></td>
+	    <div align="left"><small>Final Exam <br>8:00-10:59AM</small></div></td>
     <td valign="top" bgcolor="#E8E8E8"><b><small>Mar 22</small></b></td>
     <td valign="top" bgcolor="#E8E8E8"><b><small>Mar 23</small></b></td>
 </tr>  
