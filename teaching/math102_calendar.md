@@ -166,7 +166,7 @@ Note: This calendar is subject to revision during the term. The section referenc
     <td valign="top" bgcolor="#d0ffd0"><small><b>Mar 12</b></small>
         <div align="left"><small>6.1-6.2 <br>Last day to drop w/o F</small></div></td>
     <td valign="top" bgcolor="#ffffe0"><b><small>Mar 13</small></b>
-		<div align="left"><small>Discussion<br>Quiz</small></div></td>
+		<div align="left"><small>Discussion<br></small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 14</small></b>
         <div align="left"><small>6.2 <br>Homework 9 due</small></div></td>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>Mar 15</small></b>
