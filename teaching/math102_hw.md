@@ -35,6 +35,9 @@ mathjax: true  
 --- 
 #### Suggested Homework Assignments (DO NOT TURN IN)  
 
-  * Section 1.4: 6, 16, 20, 56  
+  * Section 2.1: 6, 12, 18, 28   
+  * Section 1.6: 6, 8, 14, 26, 40  
+  * Section 1.5: 4, 18, 30, 42  
+  * Section 1.4: 6, 16, 20, 56  
   * Section 1.3: 6, 30  
   * Section 1.2: 3, 4, 10, 22
