@@ -25,8 +25,10 @@ mathjax: true  
 --- 
 #### Turn-in Homework Assignments  
 
+  * [Homework 2][hw2] is due on Wednesday, Jan 24.
   * [Homework 1][hw1] is due on Wednesday, Jan 17.  
   
+  [hw2]:http://thanghuynh.org/teaching/Math102_HW2.pdf
   [hw1]:http://thanghuynh.org/teaching/Math102_HW1.pdf
   
 
