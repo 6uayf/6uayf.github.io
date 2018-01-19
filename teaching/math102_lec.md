@@ -16,11 +16,13 @@ mathjax: true  
 #### Lecture Notes
 ---  
 
+  * [Lecture 5][lec5] (1/19/18)
   * [Lecture 4][lec4] (1/17/18)
   * [Lecture 3][lec3] (1/12/18)
   * [Lecture 2][lec2] (1/10/18)
   * [Lecture 1][lec1] (1/10/18) 
   
+  [lec5]:http://thanghuynh.org/teaching/Math102_Lecture_5.pdf
   [lec4]:http://thanghuynh.org/teaching/Math102_Lecture_4.pdf
   [lec3]:http://thanghuynh.org/teaching/Math102_Lecture_3.pdf
   [lec2]:http://thanghuynh.org/teaching/Math102_Lecture_2.pdf
