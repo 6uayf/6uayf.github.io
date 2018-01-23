@@ -25,9 +25,11 @@ mathjax: true  
 --- 
 #### Turn-in Homework Assignments  
 
+  * [Homework 3][hw3] is due on Wednesday, Jan 31.
   * [Homework 2][hw2] is due on Wednesday, Jan 24.
   * [Homework 1][hw1] is due on Wednesday, Jan 17.  
   
+  [hw3]:http://thanghuynh.org/teaching/Math102_HW3.pdf
   [hw2]:http://thanghuynh.org/teaching/Math102_HW2.pdf
   [hw1]:http://thanghuynh.org/teaching/Math102_HW1.pdf
   
@@ -35,6 +37,9 @@ mathjax: true  
 --- 
 #### Suggested Homework Assignments (DO NOT TURN IN)  
 
+  * Section 2.4: 10, 28
+  * Section 2.3: 6, 26, 38
+  * Section 2.2: 6, 20
   * Section 2.1: 6, 12, 18, 28
   * Section 1.6: 6, 8, 14, 26, 40
   * Section 1.5: 4, 18, 30, 42
