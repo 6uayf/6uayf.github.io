@@ -66,25 +66,25 @@ Note: This calendar is subject to revision during the term. The section referenc
 <tr>
     <td align="center">3<br></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 22</small></b>
-        <div align="left"><small>2.1-2.2 <br></small></div></td>
+        <div align="left"><small>2.2-2.3 <br></small></div></td>
     <td valign="top" bgcolor="#ffffe0"><b><small>Jan 23</small></b>
 		<div align="left"><small>Discussion<br></small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 24</small></b>
-        <div align="left"><small>2.2 <br>Homework 2 due</small></div></td>
+        <div align="left"><small>2.3-2.4 <br>Homework 2 due</small></div></td>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>Jan 25</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 26</small></b>
-        <div align="left"><small>2.3 <br></small></div></td>
+        <div align="left"><small>2.4 <br></small></div></td>
 </tr>
 
 <tr>
     <td align="center">4<br></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 29</small></b>
-        <div align="left"><small>2.4<br></small></div></td>
+        <div align="left"><small>2.6<br></small></div></td>
 	<td valign="top" bgcolor="#ffffe0"><b><small>Jan 30</small></b>
 		<div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 31</small></b>
-        <div align="left"><small>2.4-2.6 <br>Homework 3 due</small></div></td>
+        <div align="left"><small>2.6-3.1 <br>Homework 3 due</small></div></td>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>Feb 01</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="#FFCC99"><b><small>Feb 02</small></b>
