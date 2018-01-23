@@ -19,7 +19,7 @@ blur: |
 ---  
 
 
-**Updated January 08, 2018**
+**Updated January 23, 2018**
 
 Note: This calendar is subject to revision during the term. The section references are only a guide; we may deviate from it.  
 
