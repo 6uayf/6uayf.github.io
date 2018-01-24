@@ -16,6 +16,7 @@ mathjax: true  
 #### Lecture Notes
 ---  
 
+  * [Lecture 7][lec7] (1/24/18)
   * [Lecture 6][lec6] (1/22/18)
   * [Lecture 5][lec5] (1/19/18)
   * [Lecture 4][lec4] (1/17/18)
@@ -23,6 +24,7 @@ mathjax: true  
   * [Lecture 2][lec2] (1/10/18)
   * [Lecture 1][lec1] (1/10/18) 
   
+  [lec7]:http://thanghuynh.org/teaching/Math102_Lecture_7.pdf
   [lec6]:http://thanghuynh.org/teaching/Math102_Lecture_6.pdf
   [lec5]:http://thanghuynh.org/teaching/Math102_Lecture_5.pdf
   [lec4]:http://thanghuynh.org/teaching/Math102_Lecture_4.pdf
