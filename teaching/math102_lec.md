@@ -15,6 +15,8 @@ mathjax: true  
 
 #### Lecture Notes
 ---  
+Many lectures will follow [the notes of Armin Straub][as].
+
 
   * [Lecture 7][lec7] (1/24/18)
   * [Lecture 6][lec6] (1/22/18)
@@ -31,3 +33,4 @@ mathjax: true  
   [lec3]:http://thanghuynh.org/teaching/Math102_Lecture_3.pdf
   [lec2]:http://thanghuynh.org/teaching/Math102_Lecture_2.pdf
   [lec1]:http://thanghuynh.org/teaching/Math102_Lecture_1.pdf
+  [as]:http://arminstraub.com/teaching/linearalgebra-fall14
