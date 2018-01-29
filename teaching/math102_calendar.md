@@ -19,7 +19,7 @@ blur: |
 ---  
 
 
-**Updated January 23, 2018**
+**Updated January 29, 2018**
 
 Note: This calendar is subject to revision during the term. The section references are only a guide; we may deviate from it.  
 
@@ -94,11 +94,11 @@ Note: This calendar is subject to revision during the term. The section referenc
 <tr>
     <td align="center">5<br></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Feb 05</small></b>
-        <div align="left"><small>2.6-3.1 <br></small></div></td>
+        <div align="left"><small>3.1 <br></small></div></td>
     <td valign="top" bgcolor="#ffffe0"><b><small>Feb 06</small></b>
 		<div align="left"><small>Discussion</small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Feb 07</small></b>
-        <div align="left"><small>3.1 <br>Homework 4 due</small></div></td>
+        <div align="left"><small>3.1-3.2 <br>Homework 4 due</small></div></td>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>Feb 08</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Feb 09</small></b>
