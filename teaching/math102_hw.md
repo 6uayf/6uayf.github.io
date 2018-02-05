@@ -25,8 +25,8 @@ mathjax: true  
 --- 
 #### Turn-in Homework Assignments  
 
-  * [Homework 5][hw5] is due on Wednesday, Feb 14.
-  * [Homework 4][hw4] is due on Wednesday, Feb 7.
+  * [Homework 5][hw5] is due on Wednesday, Feb 14.
+  * [Homework 4][hw4] is due on Wednesday, Feb 7.
   * [Homework 3][hw3] is due on Wednesday, Jan 31.  [Solutiuon HW3][solhw3]
   * [Homework 2][hw2] is due on Wednesday, Jan 24.  [Solutiuon HW2][solhw2] (fixed)
   * [Homework 1][hw1] is due on Wednesday, Jan 17.  [Solution HW1][solhw1]
