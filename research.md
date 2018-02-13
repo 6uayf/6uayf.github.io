@@ -17,3 +17,11 @@ blurb: |
 {% endfor %}
 </ul>
 -->
+
+### Preprints/Manuscripts in preparation
+
+1. **Fast binary embeddings, and quantized compressed sensing with structured matrices**, with [R. Saab][rayan].  
+  [[arXiv]][rayan1]
+
+[rayan]:http://www.math.ucsd.edu/~rsaab/
+[rayan1]:https://arxiv.org/abs/1801.08639
