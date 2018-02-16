@@ -17,8 +17,8 @@ mathjax: true  
 ---  
 Many lectures will follow [the notes of Armin Straub][as].
 
-  * [Lecture 16][lec16] (2/16/18)
-  * [Lecture 15][lec15] (2/14/18) (fixed typos)
+  * [Lecture 16][lec16] (2/16/18)
+  * [Lecture 15][lec15] (2/14/18) (fixed typos)
   * [Lecture 14][lec14] (2/12/18)
   * [Lecture 13][lec13] (2/9/18)
   * [Lecture 12][lec12] (2/7/18)
