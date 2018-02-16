@@ -16,6 +16,17 @@ mathjax: true  
 #### Exam Information
 ---  
 
+Exam 2: Cover 2.6, 3.1-3.4, 4.1-4.2 (you should also know all materials from Midterm 1 too).  
+  * [Midterm 2, 2013][mid22013]
+  * [Practice Problem Midterm 2][pracmid2]
+ 
+ 
+  [mid22013]:http://thanghuynh.org/teaching/Math102_Midterm2_2013.pdf
+  [pracmid2]:http://thanghuynh.org/teaching/Math102_Midterm2_Practice.pdf
+
+
+---  
+
 Exam 1: Cover 1.1-1.6, 2.1-2.4, and 2.6.
   * [Midterm 1 Solution][mid12018]
   * [Practice Problem Midterm 1][pracmid1] and [Solution][pracmid1Sol]
