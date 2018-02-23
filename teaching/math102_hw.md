@@ -27,7 +27,7 @@ mathjax: true  
 
   * [Homework 7][hw7] is due on Wednesday, Feb 28.
   * [Homework 6][hw6] is due on Wednesday, Feb 21. [Solution HW6][solhw6]
-  * [Homework 5][hw5] is due on Wednesday, Feb 14. [Solution HW5][solhw5]
+  * [Homework 5][hw5] is due on Wednesday, Feb 14. [Solution HW5][solhw5]
   * [Homework 4][hw4] is due on Wednesday, Feb 7.  [Solution HW4][solhw4]
   * [Homework 3][hw3] is due on Wednesday, Jan 31.  [Solutiuon HW3][solhw3]
   * [Homework 2][hw2] is due on Wednesday, Jan 24.  [Solutiuon HW2][solhw2] (fixed)
