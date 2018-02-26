@@ -17,6 +17,7 @@ mathjax: true  
 ---  
 Many lectures will follow [the notes of Armin Straub][as].
 
+  * [Lecture 18][lec18] (2/26/18)
   * [Lecture 17][lec17] (2/21/18)
   * [Lecture 16][lec16] (2/16/18)
   * [Lecture 15][lec15] (2/14/18) (fixed typos)
@@ -35,6 +36,7 @@ Many lectures will follow [the notes of Armin Straub][as].
   * [Lecture 2][lec2] (1/10/18)
   * [Lecture 1][lec1] (1/10/18) 
   
+  [lec18]:http://thanghuynh.org/teaching/Math102_Lecture_18.pdf
   [lec17]:http://thanghuynh.org/teaching/Math102_Lecture_17.pdf
   [lec16]:http://thanghuynh.org/teaching/Math102_Lecture_16.pdf
   [lec15]:http://thanghuynh.org/teaching/Math102_Lecture_15.pdf
