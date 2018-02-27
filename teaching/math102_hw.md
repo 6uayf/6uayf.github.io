@@ -35,7 +35,7 @@ mathjax: true  
   * [Homework 1][hw1] is due on Wednesday, Jan 17.  [Solution HW1][solhw1]
   
   
-  [hw8:http://thanghuynh.org/teaching/Math102_HW8.pdf
+  [hw8]:http://thanghuynh.org/teaching/Math102_HW8.pdf
   [hw7]:http://thanghuynh.org/teaching/Math102_HW7.pdf
   [hw6]:http://thanghuynh.org/teaching/Math102_HW6.pdf
   [solhw6]:http://thanghuynh.org/teaching/Math102_HW6_Solution.pdf
