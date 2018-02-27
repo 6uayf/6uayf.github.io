@@ -25,6 +25,7 @@ mathjax: true  
 --- 
 #### Turn-in Homework Assignments  
 
+  * [Homework 8][hw8] is due on Wednesday, March 7.
   * [Homework 7][hw7] is due on Wednesday, Feb 28.
   * [Homework 6][hw6] is due on Wednesday, Feb 21. [Solution HW6][solhw6]
   * [Homework 5][hw5] is due on Wednesday, Feb 14. [Solution HW5][solhw5]
@@ -34,6 +35,7 @@ mathjax: true  
   * [Homework 1][hw1] is due on Wednesday, Jan 17.  [Solution HW1][solhw1]
   
   
+  [hw8:http://thanghuynh.org/teaching/Math102_HW8.pdf
   [hw7]:http://thanghuynh.org/teaching/Math102_HW7.pdf
   [hw6]:http://thanghuynh.org/teaching/Math102_HW6.pdf
   [solhw6]:http://thanghuynh.org/teaching/Math102_HW6_Solution.pdf
