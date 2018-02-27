@@ -52,6 +52,8 @@ mathjax: true  
 --- 
 #### Suggested Homework Assignments (DO NOT TURN IN)  
 
+  * Section 4.4: 12, 24, 32
+  * Section 4.3: 6, 28
   * Section 4.2: 6, 8, 14, 26
   * Section 3.4: 4, 12, 18, 24
   * Section 3.3: 8, 22, 25
