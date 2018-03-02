@@ -16,7 +16,7 @@ mathjax: true  
 #### Exam Information
 ---  
 
-Exam 2: Cover 2.6, 3.1-3.4, 4.1-4.2 (you should also know all materials from Midterm 1 too).  
+##### Exam 2: Cover 2.6, 3.1-3.4, 4.1-4.2 (you should also know all materials from Midterm 1 too).  
   
   * [Midterm 2 Solution][mid22018]
   * [Midterm 2, 2013][mid22013] and [Solution][mid22013Sol]
@@ -32,7 +32,7 @@ Exam 2: Cover 2.6, 3.1-3.4, 4.1-4.2 (you should also know all materials from Mid
 
 ---  
 
-Exam 1: Cover 1.1-1.6, 2.1-2.4, and 2.6.
+##### Exam 1: Cover 1.1-1.6, 2.1-2.4, and 2.6.
   * [Midterm 1 Solution][mid12018]
   * [Practice Problem Midterm 1][pracmid1] and [Solution][pracmid1Sol]
   * [Midterm 1, 2007][mid12007] (3b will not on the exam) and [Solution][mid12007Sol]
