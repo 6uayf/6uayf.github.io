@@ -16,6 +16,16 @@ mathjax: true  
 #### Exam Information
 ---  
 
+##### Final: Comprehensive.
+
+  * [Practice Final][pracfinal]
+  * [Final, 2013][final2013]
+  
+  [final2013]:http://thanghuynh.org/teaching/Math102_Final_2013.pdf
+  [pracfinal]:http://thanghuynh.org/teaching/Math102_Final_Practice.pdf
+
+---  
+
 ##### Exam 2: Cover 2.6, 3.1-3.4, 4.1-4.2 (you should also know all materials from Midterm 1 too).  
   
   * [Midterm 2 Solution][mid22018]
