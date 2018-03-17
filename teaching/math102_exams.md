@@ -19,10 +19,12 @@ mathjax: true  
 ##### Final: Comprehensive.
 
   * [(Updated) main topics for the final][finaltopic]
-  * [Practice Final][pracfinal]
-  * [Final, 2013][final2013]
+  * [Practice Final][pracfinal] and [Solution][solpracfinal]
+  * [Final, 2013][final2013] and [Solution][solfinal2013]
   
+  [solpracfinal]:http://thanghuynh.org/teaching/Math102_Final_Practice_Solution.pdf
   [finaltopic]:http://thanghuynh.org/teaching/Math102_Final_Topics.pdf
+  [solfinal2013]:http://thanghuynh.org/teaching/Math102_Final_2013_Solution.pdf
   [final2013]:http://thanghuynh.org/teaching/Math102_Final_2013.pdf
   [pracfinal]:http://thanghuynh.org/teaching/Math102_Final_Practice.pdf
 
