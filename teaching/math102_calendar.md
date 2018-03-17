@@ -164,11 +164,11 @@ Note: This calendar is subject to revision during the term. The section referenc
 <tr>
     <td align="center">10</td>
     <td valign="top" bgcolor="#d0ffd0"><small><b>Mar 12</b></small>
-        <div align="left"><small>6.1-6.2 <br>Last day to drop w/o F</small></div></td>
+        <div align="left"><small>5.6-6.3 <br>Last day to drop w/o F</small></div></td>
     <td valign="top" bgcolor="#ffffe0"><b><small>Mar 13</small></b>
 		<div align="left"><small>Discussion<br></small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 14</small></b>
-        <div align="left"><small>6.2 <br>Homework 9 due</small></div></td>
+        <div align="left"><small>6.3 <br>Homework 9 due</small></div></td>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>Mar 15</small></b>
 		<div align="left"><small></small></div></td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 16</small></b>
@@ -178,7 +178,7 @@ Note: This calendar is subject to revision during the term. The section referenc
 <tr>
     <td align="center">11</td>
     <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 19</small></b>
-	    <div align="left"><small>Homework 10 due</small></div></td>
+	    <div align="left"><small></small></div></td>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>Mar 20</small></b></td>
     <td valign="top" bgcolor="#FFCC99"><b><small>Mar 21</small></b>
 	    <div align="left"><small>Final Exam <br>8:00-10:59AM</small></div></td>
