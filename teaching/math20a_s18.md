@@ -5,12 +5,6 @@ blur: |
 ---
 ### Math 20A Calculus for Science and Engineering - Spring 2018  
 
----
-
-#### [Syllabus][math20aSyl] (pdf file)
-
-[math20aSyl]:http://thanghuynh.org/teaching/math20a_syllabus.html
-
 ---  
 
 #### Contact Information and Office Hours:  
@@ -23,6 +17,13 @@ blur: |
 [email]: mailto:tlh007@ucsd.edu
 
 **Teaching Assistants:**   
+
+
+--- 
+
+#### [Syllabus][math20aSyl]
+
+[math20aSyl]:http://thanghuynh.org/teaching/math20a_syllabus.html
 
 
 --- 
