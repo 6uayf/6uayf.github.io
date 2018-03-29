@@ -37,153 +37,153 @@ Note: This calendar is subject to revision during the term. The section referenc
 
 <tr>
     <td align="center">1<br></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small> 08</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small> April 02 </small></b>
         <div align="left"><small>1.1-1.2 <br></small></div></td>
-    <td valign="top" bgcolor="#ffffe0"><b><small>Jan 09</small></b>
+    <td valign="top" bgcolor="#ffffe0"><b><small>April 03</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 10</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>April 04</small></b>
         <div align="left"><small>1.3-1.4 <br></small>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Jan 11</small></b>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>April 05</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 12</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>April 06</small></b>
         <div align="left"><small>1.4-1.5 <br></small></div></td>
 </tr>
 
 <tr>
     <td align="center">2<br></td>
-    <td valign="top" bgcolor="#66ffff"><b><small>Jan 15</small></b>
+    <td valign="top" bgcolor="#66ffff"><b><small>April 09</small></b>
         <div align="left"><small>Martin Luther King, Jr. <br>Holiday</small></div></td>
-    <td valign="top" bgcolor="#ffffe0"><b><small>Jan 16</small></b>
+    <td valign="top" bgcolor="#ffffe0"><b><small>April 10</small></b>
 		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 17</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>April 11</small></b>
         <div align="left"><small>1.6 <br>Homework 1 due</small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Jan 18</small></b>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>April 12</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 19</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>April 13</small></b>
         <div align="left"><small>1.6-2.1 <br></small></div></td>
 </tr>
 
 <tr>
     <td align="center">3<br></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 22</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>April 16</small></b>
         <div align="left"><small>2.2-2.3 <br></small></div></td>
-    <td valign="top" bgcolor="#ffffe0"><b><small>Jan 23</small></b>
+    <td valign="top" bgcolor="#ffffe0"><b><small>April 17</small></b>
 		<div align="left"><small>Discussion<br></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 24</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>April 18</small></b>
         <div align="left"><small>2.3-2.4 <br>Homework 2 due</small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Jan 25</small></b>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>April 19</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 26</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>April 20</small></b>
         <div align="left"><small>2.4 <br></small></div></td>
 </tr>
 
 <tr>
     <td align="center">4<br></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 29</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>April 23</small></b>
         <div align="left"><small>2.6<br></small></div></td>
-	<td valign="top" bgcolor="#ffffe0"><b><small>Jan 30</small></b>
+	<td valign="top" bgcolor="#ffffe0"><b><small>April 24</small></b>
 		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Jan 31</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>April 25</small></b>
         <div align="left"><small>2.6-3.1 <br>Homework 3 due</small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Feb 01</small></b>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>April 26</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#FFCC99"><b><small>Feb 02</small></b>
+    <td valign="top" bgcolor="#FFCC99"><b><small>April 27</small></b>
 		<div align="left"><small>Exam 1 <br>Last day to drop w/o W</small></div></td>
 </tr>
 
 <tr>
     <td align="center">5<br></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Feb 05</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>April 30</small></b>
         <div align="left"><small>3.1 <br></small></div></td>
-    <td valign="top" bgcolor="#ffffe0"><b><small>Feb 06</small></b>
+    <td valign="top" bgcolor="#ffffe0"><b><small>May 01</small></b>
 		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Feb 07</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>May 02</small></b>
         <div align="left"><small>3.1-3.2 <br>Homework 4 due</small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Feb 08</small></b>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>May 03</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Feb 09</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>May 04</small></b>
         <div align="left"><small>3.2-3.3 <br></small></div></td>
 </tr>
 
 <tr>
     <td align="center">6<br></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Feb 12</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>May 07</small></b>
         <div align="left"><small>3.3-3.4 <br></small></div></td>
-    <td valign="top" bgcolor="#ffffe0"><b><small>Feb 13</small></b>
+    <td valign="top" bgcolor="#ffffe0"><b><small>May 08</small></b>
 		<div align="left"><small>Discussion<br></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Feb 14</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>May 09</small></b>
         <div align="left"><small>3.4 <br>Homework 5 due</small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Feb 15</small></b>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>May 10</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Feb 16</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>May 11</small></b>
 		<div align="left"><small>4.1-4.2<br></small></div></td>
 </tr>
 
 <tr>
     <td align="center">7<br></td>
-    <td valign="top" bgcolor="#66ffff"><b><small>Feb 19</small></b>
+    <td valign="top" bgcolor="#66ffff"><b><small>May 14</small></b>
         <div align="left"><small>President's Day <br>Holiday<br></small></div></td>
-    <td valign="top" bgcolor="#ffffe0"><b><small>Feb 20</small></b>
+    <td valign="top" bgcolor="#ffffe0"><b><small>May 15</small></b>
 		<div align="left"><small>Discussion<br></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Feb 21</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>May 16</small></b>
 		<div align="left"><small>4.3-4.4 <br>Homework 6 due</small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Feb 22</small></b>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>May 17</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#FFCC99"><b><small>Feb 23</small></b>
+    <td valign="top" bgcolor="#FFCC99"><b><small>May 18</small></b>
 		<div align="left"><small>Exam 2 <br></small></div></td>
 </tr>
 
 <tr>
     <td align="center">8<br></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Feb 26</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>May 21</small></b>
         <div align="left"><small>5.1-5.2<br></small></div></td>
-    <td valign="top" bgcolor="#ffffe0"><b><small>Feb 27</small></b>
+    <td valign="top" bgcolor="#ffffe0"><b><small>May 22</small></b>
 		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Feb 28</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>May 23</small></b>
         <div align="left"><small>5.2-5.4 <br>Homework 7 due</small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Mar 01</small></b>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>May 24</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 02</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>May 25</small></b>
 		<div align="left"><small>5.4-5.5</small></div></td>
 </tr>
 
 <tr>
     <td align="center">9<br></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 05</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>May 28</small></b>
 		<div align="left"><small>5.5 <br></small></div></td>
-    <td valign="top" bgcolor="#ffffe0"><b><small>Mar 06</small></b>
+    <td valign="top" bgcolor="#ffffe0"><b><small>May 29</small></b>
 		<div align="left"><small>Discussion</small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 07</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>May 30</small></b>
         <div align="left"><small>5.5-5.6 <br>Homework 8 due</small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Mar 08</small></b>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>May 31</small></b>
         <div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 09</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>June 01</small></b>
         <div align="left"><small>5.6 <br></small></div></td>
 </tr>
 
 <tr>
     <td align="center">10</td>
-    <td valign="top" bgcolor="#d0ffd0"><small><b>Mar 12</b></small>
+    <td valign="top" bgcolor="#d0ffd0"><small><b>June 04</b></small>
         <div align="left"><small>5.6-6.3 <br>Last day to drop w/o F</small></div></td>
-    <td valign="top" bgcolor="#ffffe0"><b><small>Mar 13</small></b>
+    <td valign="top" bgcolor="#ffffe0"><b><small>June 05</small></b>
 		<div align="left"><small>Discussion<br></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 14</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>June 06</small></b>
         <div align="left"><small>6.3 <br>Homework 9 due</small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Mar 15</small></b>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>June 07</small></b>
 		<div align="left"><small></small></div></td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 16</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>June 08</small></b>
         <div align="left"><small>6.3 <br></small></div></td>
 </tr>
 
 <tr>
     <td align="center">11</td>
-    <td valign="top" bgcolor="#d0ffd0"><b><small>Mar 19</small></b>
+    <td valign="top" bgcolor="#d0ffd0"><b><small>June 11</small></b>
 	    <div align="left"><small></small></div></td>
-	<td valign="top" bgcolor="#E8E8E8"><b><small>Mar 20</small></b></td>
-    <td valign="top" bgcolor="#FFCC99"><b><small>Mar 21</small></b>
+	<td valign="top" bgcolor="#E8E8E8"><b><small>June 12</small></b></td>
+    <td valign="top" bgcolor="#FFCC99"><b><small>June 13</small></b>
 	    <div align="left"><small>Final Exam <br>8:00-10:59AM</small></div></td>
-    <td valign="top" bgcolor="#E8E8E8"><b><small>Mar 22</small></b></td>
-    <td valign="top" bgcolor="#E8E8E8"><b><small>Mar 23</small></b></td>
+    <td valign="top" bgcolor="#E8E8E8"><b><small>June 14</small></b></td>
+    <td valign="top" bgcolor="#E8E8E8"><b><small>June 15</small></b></td>
 </tr>  
 
 
