@@ -181,7 +181,7 @@ Note: This calendar is subject to revision during the term. The section referenc
 	    <div align="left"><small></small></div></td>
 	<td valign="top" bgcolor="#E8E8E8"><b><small>June 12</small></b></td>
     <td valign="top" bgcolor="#FFCC99"><b><small>June 13</small></b>
-	    <div align="left"><small>Final Exam <br>8:00-10:59AM</small></div></td>
+	    <div align="left"><small>Final Exam <br>11:30AM-2:29PM</small></div></td>
     <td valign="top" bgcolor="#E8E8E8"><b><small>June 14</small></b></td>
     <td valign="top" bgcolor="#E8E8E8"><b><small>June 15</small></b></td>
 </tr>  
