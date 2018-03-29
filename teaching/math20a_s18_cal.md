@@ -1,12 +1,3 @@
-
----  
-
-title: Math 20A Calculus for Science and Engineering - Spring 2018
-layout: longy
-blur: |
-
----  
-
 #### Math 20A - Calculus for Science and Engineering - Spring 2018  
   Links: [Home][math20aHome]    [Syllabus][math20aSyl]    [Homework][math20aHW]    [Calendar][math20aCal]
     
