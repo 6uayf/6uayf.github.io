@@ -93,7 +93,6 @@ will be based on the following scale:
 <td><b>C+</b></td>
 <td><b>C</b></td>
 <td><b>C-</b></td>
-<td><b>D</b></td>
 </tr>
 <tr>
 <td><b>97</b></td>
@@ -105,7 +104,6 @@ will be based on the following scale:
 <td><b>77</b></td>
 <td><b>73</b></td>
 <td><b>70</b></td>
-<td><b>60</b></td>
 </tr>
 </tbody>
 </table>
