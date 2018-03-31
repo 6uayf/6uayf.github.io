@@ -11,7 +11,7 @@ blurb: |
    - Spring 2018: [Math 152 - Topics in Data Science][math152]
    
    [math20a]:http://thanghuynh.org/teaching/math20a_s18.html
-   
+   [math152]:http://thanghuynh.org/teaching/math152_s18.html
 
 -------
 
