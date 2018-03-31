@@ -7,11 +7,12 @@ blurb: |
 
 #### This Quarter
 
-   - Spring 2018: [Math 20A - Calculus For Science and Engineering][math20a]
-   - Spring 2018: [Math 152 - Topics in Data Science][math152]
-   
+  - Spring 2018: [Math 20A - Calculus For Science and Engineering][math20a] 
+  - Spring 2018: [Math 152 - Topics in Data Science][math152] 
+  
+   [math152]:http://thanghuynh.org/teaching/math152_s18.html
    [math20a]:http://thanghuynh.org/teaching/math20a_s18.html
-   [math152]:http://thanghuynh.org/teaching/math152_s18.html
+   
 
 -------
 
