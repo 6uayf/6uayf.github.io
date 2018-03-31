@@ -14,8 +14,8 @@
 
 Note: This calendar is subject to revision during the term. The section references are only a guide; we may deviate from it.  
 
-| **Week**   | **Contents**         | **Notes**  |
-| -----------|-------------         | ---------- |
+| **Week**      | **Contents**         | **Notes**  |
+| --------------|:------------------:| ---------- |
 | **1**      | Linear Algera Review |            |
 | **2**      | Linear Algera Review |            |
 | **3**      | PCA                  |   Quiz     |
@@ -23,10 +23,10 @@ Note: This calendar is subject to revision during the term. The section referenc
 | **5**      | UR-Decomposition     |            |
 | **6**      | SVD-Decomposition    |  Midterm   |
 | **7**      | SVD-Decomposition    |            |
-| **8**      | Finding Similar Items|            |
-| **9**      | Finding Similar Items|   Quiz     |
-| **10**     | Recomendation Systems|            |
-| **11**     | **Final Exam**       |            |
+| **8**      | Finding Similar Items |            |
+| **9**      | Finding Similar Items |   Quiz     |
+| **10**     | Recomendation Systems |            |
+| **11**     | **Final Exam**        |            |
 
 
 
