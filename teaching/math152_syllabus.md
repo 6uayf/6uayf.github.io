@@ -26,7 +26,7 @@ mathjax: true  
 
 **Prerequisite:** Math 20D and Math 18 (or Math 20F)
 
-**Catalog Description:** We will study mathematical aspects of dimensionality reduction techinques (e.g., PCA and SVD), and applications of linear algebra to finding similar items and recomendation systems. 
+**Catalog Description:** We will study mathematical aspects of dimensionality reduction techinques (e.g., PCA and SVD), and applications of linear algebra to finding similar items and recommendation systems. 
 
 **Textbook:** (Optional) *Mining of Massive Datasets* by Jure Leskovec, Anand Rajaraman, Jeff Ullman. The book can be downloaded
 [here][mmds]. Note that this is a computer science book. I will also provide lecture notes.
