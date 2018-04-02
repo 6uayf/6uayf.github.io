@@ -43,7 +43,7 @@ mathjax: true  
 during discussion sessions. 
 
 **Quizzes:** There will be two quizzes. Most of the problems on these quizzes will be picked from the homework assignments.
-You are not allowed to use a cheatsheet during quiz time.
+You are not allowed to use a cheatsheet during quiz time. *There will be no makeup quizzes.*
 
 **Exams:** There will be one midterm exam and a final exam. You may use one 8.5 x 11 inch page of handwritten notes. 
 (Both sides are okay, but no photocopies are allowed.) You may not use any other notes or any electronic devices. 
