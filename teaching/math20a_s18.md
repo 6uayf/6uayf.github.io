@@ -16,13 +16,15 @@ blur: |
 
 [email]: mailto:tlh007@ucsd.edu
 
-**Teaching Assistant:**   
+**Teaching Assistant:** An Ly [atl030@ucsd.edu][emailly]  
+*Office Hours:* TBD
 
+[emailly]: mailto:atl030@ucsd.edu
 
 **SI Session:**  
-*Leader:* Liana Chau lichau@ucsd.edu  
+*Leader:* Liana Chau [lichau@ucsd.edu][emailchau]
 
-[email]: mailto:lichau@ucsd.edu
+[emailchau]: mailto:lichau@ucsd.edu
 
 *Time & location:* 
   - Tuesday 12:00p Center 316
