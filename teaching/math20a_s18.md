@@ -16,7 +16,18 @@ blur: |
 
 [email]: mailto:tlh007@ucsd.edu
 
-**Teaching Assistants:**   
+**Teaching Assistant:**   
+
+
+**SI Session:**  
+*Leader:* Liana Chau lichau@ucsd.edu  
+
+[email]: mailto:lichau@ucsd.edu
+
+*Time & location:* 
+  - Tuesday 12:00p Center 316
+  - Thursday 4:00p Center 316
+  - Friday4:00pCenter 316
 
 
 --- 
