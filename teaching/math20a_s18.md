@@ -48,6 +48,7 @@ blur: |
 
 #### [Homework][math20aHW]
 
+[math20aHW]:http://thanghuynh.org/teaching/math20a_s18_hw.html
 
 
 ---  
