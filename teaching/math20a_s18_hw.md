@@ -39,6 +39,7 @@ any actual deadline.
 
 This list is subject to revision during the term. Please check regularly for updates.  
 
+---
 ###### Homework 0 (Review)
 
 Due As Necessary (no online homework)  
@@ -50,6 +51,7 @@ Reading: Sections 1.4 - 1.6.  This should be review, so we will not cover these 
 
 Note: Homework 0 does not appear in the online homework.  This assignment is review and will not be graded.
 
+---
 ###### Homework 1
 
 Due Wednesday, April 11   
@@ -57,6 +59,7 @@ Due Wednesday, April 11
 *Section 2.2:*   1, 3, 5, 6, 17, 21, 23, 45, 49, 55   
 Reading: Sections 2.1 - 2.2.  
 
+---
 ###### Homework 2
 
 Due Wednesday, April 18   
@@ -70,6 +73,7 @@ Reading: Sections 2.3 - 2.8.  We will not cover Section 2.9 ("The Formal Definit
 but you might want to quickly glance at the contents of that section to see the formal definition of a limit in terms of ε 
 and δ.    
 
+---
 ###### Homework 3
 
 Due Wednesday, April 25   
@@ -80,6 +84,7 @@ Due Wednesday, April 25
 *Section 3.5:*   3, 9, 15, 23, 25, 39, 40   
 Reading: Sections 3.1 - 3.5.    
 
+---
 ###### Homework 4
 
 Due Wednesday, May 2       
@@ -87,7 +92,7 @@ Due Wednesday, May 2
 *Section 3.7:*   11, 13, 17, 29, 33, 39, 41, 51, 67, 69, 84, 87, 88, 89, 90, 98   
 Reading: Sections 3.6 - 3.7.    
 
-
+---
 ###### Homework 5
 
 Due Wednesday, May 9   
@@ -98,6 +103,7 @@ Reading: Sections 3.8 - 3.10.  In Section 3.9 ("Derivatives of General Exponenti
 you can skip the discussion of "Inverse Hyperbolic Function".  You cannot skip the discussion on "Derivatives of 
 Hyperbolic Functions", however.
 
+---
 ###### Homework 6
 
 Due Wednesday, May 16      
@@ -106,7 +112,7 @@ Due Wednesday, May 16
 *Section 4.3:*   5, 17, 18, 27, 35, 39, 47, 55, 59    
 Reading: Sections 4.1 - 4.3.    
 
-
+---
 ###### Homework 7
 
 Due Wednesday, May 23       
@@ -115,6 +121,7 @@ Due Wednesday, May 23
 *Section 4.6:*   11, 15, 25, 31, 33, 37, 53, 54   
 Reading: Sections 4.4 - 4.6.    
 
+---
 ###### Homework 8
 
 Due Wednesday, May 30   
@@ -122,6 +129,7 @@ Due Wednesday, May 30
 *Section 5.1:*   5, 7, 9, 11, 13, 19, 33, 77    
 Reading: Sections 4.7 - 5.1.    
 
+---
 ###### Homework 9 (The last one!)
 
 Due Wednesday, June 8     
