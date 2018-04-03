@@ -3,7 +3,7 @@
    
    [math20aHome]:http://thanghuynh.org/teaching/math20a_s18.html
    [math20aSyl]:http://thanghuynh.org/teaching/math20a_syllabus.html
-   [math20aHW]:http://thanghuynh.org/teaching/math20a_hw.html
+   [math20aHW]:http://thanghuynh.org/teaching/math20a_s18_hw.html
    [math20aCal]:http://thanghuynh.org/teaching/math20a_calendar.html
 
 --- 
