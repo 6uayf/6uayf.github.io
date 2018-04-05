@@ -18,8 +18,8 @@ Note: This calendar is subject to revision during the term. The section referenc
 | --------------|:------------------:| ---------- |
 | **1**      | Linear Algera Review |            |
 | **2**      | Linear Algera Review |            |
-| **3**      | PCA                  |   Quiz     |
-| **4**      | PCA                  |            |
+| **3**      | PCA                  |        |
+| **4**      | PCA                  |   Quiz       |
 | **5**      | UR-Decomposition     |            |
 | **6**      | SVD-Decomposition    |  Midterm   |
 | **7**      | SVD-Decomposition    |            |
