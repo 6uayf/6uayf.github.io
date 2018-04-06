@@ -9,7 +9,7 @@ mathjax: true  
     
    [math152Home]:http://thanghuynh.org/teaching/math152_s18.html
    [math152Syl]:http://thanghuynh.org/teaching/math152_s18_syllabus.html  
-   [math152HW]:http://thanghuynh.org/teaching/math152_s18_hw.html  
+   [math152HW]:http://thanghuynh.org/teaching/math152_hw.html  
    [math152Cal]:http://thanghuynh.org/teaching/math152_s18_cal.html  
 
 
