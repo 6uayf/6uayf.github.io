@@ -43,6 +43,9 @@ blur: |
 
 #### Announcements:
 
+  - [Lecture 1][math20alec1] (4/9/18)
+  
+[math20alec1]:http://thanghuynh.org/teaching/Math20A_Lecture1.pdf  
 
 ---
 
