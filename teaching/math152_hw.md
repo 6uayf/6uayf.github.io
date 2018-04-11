@@ -9,6 +9,14 @@
 #### Homework    
 ---  
 
+##### Homework 2    
+
+[Homework 2][hw2]
+
+[hw2]:http://thanghuynh.org/teaching/Math152_HW2.pdf
+
+---
+
 ##### Homework 1    
 
 **Reading:** Review what you learned from your Linear Algebra classes.    
