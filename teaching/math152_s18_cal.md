@@ -19,13 +19,13 @@ Note: This calendar is subject to revision during the term. The section referenc
 | **1**      | Linear Algera Review |            |
 | **2**      | Linear Algera Review |            |
 | **3**      | PCA                  |        |
-| **4**      | PCA                  |   Quiz       |
+| **4**      | PCA                  |   Quiz (4/23/18) During Discussion Sessions      |
 | **5**      | UR-Decomposition     |            |
-| **6**      | SVD-Decomposition    |  Midterm   |
+| **6**      | SVD-Decomposition    |  Midterm (5/11/18) During Lecture Time   |
 | **7**      | SVD-Decomposition    |            |
 | **8**      | Finding Similar Items |            |
-| **9**      | Finding Similar Items |   Quiz     |
-| **10**     | Recomendation Systems |            |
+| **9**      | Finding Similar Items |       |
+| **10**     | Recomendation Systems |   Quiz (6/4/18) During Discussion Sessions         |
 | **11**     | **Final Exam**        |            |
 
 
