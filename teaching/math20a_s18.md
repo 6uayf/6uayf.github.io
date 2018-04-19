@@ -61,6 +61,12 @@ blur: |
 #### Exams
 
 
+  - **Midterm 1:** Cover 2.1--2.8, 3.1--3.5. Old Midterm: [Midterm Exam 1 (2010)][math20amid110], [Midterm Exam 1 (2012)][math20amid112]    
+
+[math20amid110]:http://thanghuynh.org/teaching/Math20A_Exam1_2010.pdf
+[math20amid112]:http://thanghuynh.org/teaching/Math20A_Exam1_2012.pdf
+
+
 ---
 
 #### [Calendar][math20aCal]
