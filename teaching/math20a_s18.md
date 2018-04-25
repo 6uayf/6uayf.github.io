@@ -43,8 +43,8 @@ blur: |
 
 #### Announcements:
 
-  - [Lecture 3][math20alec3] (4/25/18)
-  - [Lecture 2][math20alec2] (4/19/18)
+  - [Lecture 3][math20alec3] (4/25/18)
+  - [Lecture 2][math20alec2] (4/19/18)
   - [Lecture 1][math20alec1] (4/9/18)
   
 [math20alec3]:http://thanghuynh.org/teaching/Math20A_Lecture3.pdf
