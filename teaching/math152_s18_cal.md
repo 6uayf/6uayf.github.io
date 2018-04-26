@@ -10,7 +10,7 @@
 ---  
 
 
-**Updated March 31, 2018**
+**Updated April 26, 2018**
 
 Note: This calendar is subject to revision during the term. The section references are only a guide; we may deviate from it.  
 
