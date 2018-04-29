@@ -9,6 +9,15 @@
 #### Homework    
 ---  
 
+##### Homework 3    
+
+[Homework 3][hw3]
+
+[hw3]:http://thanghuynh.org/teaching/Math152_HW3.pdf
+
+---
+
+
 ##### Homework 2    
 
 [Homework 2][hw2]
