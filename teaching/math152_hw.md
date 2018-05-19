@@ -8,6 +8,15 @@
 
 #### Homework    
 ---  
+##### Homework 4
+
+[Homework 4][hw4]
+
+[hw4]:http://thanghuynh.org/teaching/Math152_HW4.pdf
+
+
+
+---   
 
 ##### Homework 3    
 
