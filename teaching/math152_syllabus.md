@@ -28,10 +28,16 @@ mathjax: true  
 
 **Catalog Description:** We will study mathematical aspects of dimensionality reduction techinques (e.g., PCA and SVD), and applications of linear algebra to finding similar items and recommendation systems. 
 
-**Textbook:** (Optional) *Mining of Massive Datasets* by Jure Leskovec, Anand Rajaraman, Jeff Ullman. The book can be downloaded
+**Textbooks:** (Optional) *Mining of Massive Datasets* by Jure Leskovec, Anand Rajaraman, Jeff Ullman. The book can be downloaded
 [here][mmds]. Note that this is a computer science book. I will also provide lecture notes.
 
+*Foundations of Data Science* by Avrim Blum, John Hopcroft, and Ravindran Kannan. You can download it [here][fds] 
+*Matrix Methods in Data Mining and Pattern Recognition* by Lars Eldén. You can download it [here if you are on campus][lars]
+
+
 [mmds]:http://www.mmds.org/
+[fds]:https://www.cs.cornell.edu/jeh/book.pdf
+[lars]:https://epubs.siam.org/doi/book/10.1137/1.9780898718867
 
 **Material Covered:**  We shall cover parts of Chapters 11, 3, and 9 of the text.  
 
