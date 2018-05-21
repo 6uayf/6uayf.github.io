@@ -43,11 +43,13 @@ blur: |
 
 #### Announcements:
 
+  - [Lecture 5][math20alec5] (5/21/18)
   - [Lecture 4][math20alec4] (5/7/18)
   - [Lecture 3][math20alec3] (4/25/18)
   - [Lecture 2][math20alec2] (4/19/18)
   - [Lecture 1][math20alec1] (4/9/18)
   
+[math20alec5]:http://thanghuynh.org/teaching/Math20A_Lecture5.pdf
 [math20alec4]:http://thanghuynh.org/teaching/Math20A_Lecture4.pdf
 [math20alec3]:http://thanghuynh.org/teaching/Math20A_Lecture3.pdf
 [math20alec2]:http://thanghuynh.org/teaching/Math20A_Lecture2.pdf
