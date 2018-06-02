@@ -67,9 +67,14 @@ blur: |
 #### Exams
 
 
+  - **Final:** Cover everything (except for Section 4.7). Old Finals: [Final 2010][math20afinal10], [Final 2012][math20afinal12], [Final 2015][math20afinal15], [Final 2016][math20afinal16]
   - **Midterm 2:** Cover 3.6--3.10, 4.1--4.6. Old Midterm: [Midterm Exam 2 (2010)][math20amid210], [Midterm Exam 2 (2012)][math20amid212]. [Solutions][math20amid2sols]
   - **Midterm 1:** Cover 2.1--2.8, 3.1--3.5. Old Midterm: [Midterm Exam 1 (2010)][math20amid110], [Midterm Exam 1 (2012)][math20amid112]. Solutions: [Exam 1 (2010)][math20amid110sol] and [Exam 1 (2012)][math20amid112sol]    
 
+[math20afinal16]:http://thanghuynh.org/teaching/Math20A_Final2016.pdf
+[math20afinal15]:http://thanghuynh.org/teaching/Math20A_Final2015.pdf
+[math20afinal12]:http://thanghuynh.org/teaching/Math20A_Final2012.pdf
+[math20afinal10]:http://thanghuynh.org/teaching/Math20A_Final2010.pdf
 [math20amid2sols]:http://thanghuynh.org/teaching/Math20A_Exam2_Solutions.pdf
 [math20amid210]:http://thanghuynh.org/teaching/Math20A_Exam2_2010.pdf
 [math20amid212]:http://thanghuynh.org/teaching/Math20A_Exam2_2012.pdf
